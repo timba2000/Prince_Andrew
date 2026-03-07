@@ -1,0 +1,241 @@
+{"status": "success", "total_sites": 242, "corroborated_sites": 10, "percentage_complete": 4.13, "in_progress_sites": ["SS Yongala Wreck", "Aldinga Drop-off", "American River Wharf", "Ningaloo Reef", "Exmouth Navy Jetty", "Fish Rock Cave", "Black Point Jetty", "Chowder Bay", "Poor Knights Islands", "Darwin Harbour Wrecks"]}
+{"id": 19, "name": "Darwin Harbour Wrecks", "status": "needs_review", "notes": ["display: parap, darwin, city of darwin, northern territory, 0820, australia", "osm:11716509"]}
+{"id": 114, "name": "American River Wharf", "status": "needs_review", "notes": ["display: ballast head, kangaroo island council, south australia, 5221, australia", "osm:6669186"]}
+{"id": 4, "name": "Poor Knights Islands", "status": "needs_review", "notes": ["display: northland, new zealand / aotearoa", "osm:2133870"]}
+{"id": 94, "name": "Aldinga Drop-off", "status": "needs_review", "notes": ["display: south australia, australia", "osm:2316596"]}
+{"id": 96, "name": "Black Point Jetty", "status": "needs_review", "notes": ["display: sandilands, yorke peninsula council, south australia, 5571, australia", "osm:6639639"]}
+{"id": 64, "name": "Chowder Bay", "status": "needs_review", "notes": ["display: sydney, council of the city of sydney, new south wales, australia", "osm:5750005"]}
+{"id": 38, "name": "Exmouth Navy Jetty", "status": "needs_review", "notes": ["display: north west cape, shire of exmouth, western australia, 6707, australia", "osm:11689999"]}
+{"id": 5, "name": "Ningaloo Reef", "status": "needs_review", "notes": ["display: lyndon, shire of carnarvon, western australia, 6701, australia", "osm:11689996"]}
+{"id": 11, "name": "Fish Rock Cave", "status": "needs_review", "notes": ["display: new south wales, australia", "osm:2316593"]}
+{"id": 2, "name": "SS Yongala Wreck", "status": "needs_review", "notes": ["display: australia", "osm:80500"]}
+{"id": 10, "name": "Lord Howe Island", "status": "needs_review", "notes": ["display: unincorporated new south wales, new south wales, australia", "osm:18183905"]}
+{"id": 67, "name": "North Bondi Bommie", "status": "needs_review", "notes": ["display: eastern suburbs, sydney, randwick city council, new south wales, australia", "osm:12754214"]}
+{"id": 247, "name": "Terrigal Haven ", "status": "needs_review", "notes": ["display: terrigal, central coast council, new south wales, 2260, australia", "osm:6037073"]}
+{"id": 248, "name": "Skillion Caves", "status": "needs_review", "notes": ["display: "]}
+{"id": 249, "name": "Terrigal HMAS Adelaide (Currently Closed)", "status": "needs_review", "notes": ["display: "]}
+{"id": 45, "name": "Weebubbie Cave", "status": "needs_review", "notes": ["display: madura, shire of dundas, western australia, 6443, australia", "osm:11690218"]}
+{"id": 70, "name": "Long Reef Wall", "status": "needs_review", "notes": ["display: northern beaches, sydney, northern beaches council, new south wales, australia", "osm:7876483"]}
+{"id": 56, "name": "Freshwater Reef", "status": "needs_review", "notes": ["display: new south wales, australia", "osm:2316593"]}
+{"id": 69, "name": "The Colours", "status": "needs_review", "notes": ["display: new south wales, australia", "osm:2316593"]}
+{"id": 250, "name": "Henderson's Rock", "status": "needs_review", "notes": ["display: queensland, australia", "osm:2316595"]}
+{"id": 252, "name": "Voodoo", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 121, "name": "Wedge Island Caves", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 76, "name": "Cape Banks Caverns", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 13, "name": "Shelly Beach", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 14, "name": "Bare Island", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 95, "name": "Port Hughes Barge Wreck", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 85, "name": "Kingscote Jetty", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 100, "name": "Whyalla Jetty", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 251, "name": "Smith Rock", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 122, "name": "Hardwicke Bay Jetty", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 50, "name": "Fairy Bower", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 142, "name": "Neptune Islands (Shark Cage)", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 24, "name": "North Bondi Rocks", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 143, "name": "Corny Point Lagoon", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 23, "name": "South Bondi Reef", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 163, "name": "Wigton Reef", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 57, "name": "Bare Island Deep Wall", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 164, "name": "Round Top Island", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 186, "name": "Green Island \u2013 South West Rocks", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 55, "name": "Yena Gap", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 207, "name": "Mullaway Reef", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 188, "name": "Latitude Rock", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 71, "name": "Wedding Cake Island", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 228, "name": "Manta Bommie", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 63, "name": "Bluefish Point", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 1, "name": "Cod Hole", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 210, "name": "Woody Head Reef", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 26, "name": "Bushrangers Bay", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 185, "name": "Fish Rock Cave", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 59, "name": "Magic Point", "status": "needs_web_corroboration", "notes": ["reverse geocode failed"]}
+{"id": 2, "name": "SS Yongala Wreck", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 94, "name": "Aldinga Drop-off", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 5, "name": "Ningaloo Reef", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 114, "name": "American River Wharf", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 11, "name": "Fish Rock Cave", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 38, "name": "Exmouth Navy Jetty", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 64, "name": "Chowder Bay", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 96, "name": "Black Point Jetty", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 19, "name": "Darwin Harbour Wrecks", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 247, "name": "Terrigal Haven ", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 10, "name": "Lord Howe Island", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 4, "name": "Poor Knights Islands", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 248, "name": "Skillion Caves", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 45, "name": "Weebubbie Cave", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 69, "name": "The Colours", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 67, "name": "North Bondi Bommie", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 56, "name": "Freshwater Reef", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 249, "name": "Terrigal HMAS Adelaide (Currently Closed)", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 70, "name": "Long Reef Wall", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 251, "name": "Smith Rock", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 95, "name": "Port Hughes Barge Wreck", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 85, "name": "Kingscote Jetty", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 250, "name": "Henderson's Rock", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 252, "name": "Voodoo", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 100, "name": "Whyalla Jetty", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 13, "name": "Shelly Beach", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 14, "name": "Bare Island", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 122, "name": "Hardwicke Bay Jetty", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 121, "name": "Wedge Island Caves", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 76, "name": "Cape Banks Caverns", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 50, "name": "Fairy Bower", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 143, "name": "Corny Point Lagoon", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 142, "name": "Neptune Islands (Shark Cage)", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 55, "name": "Yena Gap", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 23, "name": "South Bondi Reef", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 24, "name": "North Bondi Rocks", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 163, "name": "Wigton Reef", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 164, "name": "Round Top Island", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 57, "name": "Bare Island Deep Wall", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 63, "name": "Bluefish Point", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 186, "name": "Green Island \u2013 South West Rocks", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 188, "name": "Latitude Rock", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 207, "name": "Mullaway Reef", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 210, "name": "Woody Head Reef", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 71, "name": "Wedding Cake Island", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 26, "name": "Bushrangers Bay", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 228, "name": "Manta Bommie", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 1, "name": "Cod Hole", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 59, "name": "Magic Point", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 185, "name": "Fish Rock Cave", "status": "needs_review", "notes": ["no_known_sources"]}
+{"id": 2, "name": "SS Yongala Wreck", "found": [], "status": "needs_review"}
+{"id": 56, "name": "Freshwater Reef", "found": [], "status": "needs_review"}
+{"id": 70, "name": "Long Reef Wall", "found": [], "status": "needs_review"}
+{"id": 19, "name": "Darwin Harbour Wrecks", "found": [], "status": "needs_review"}
+{"id": 95, "name": "Port Hughes Barge Wreck", "found": [], "status": "needs_review"}
+{"id": 96, "name": "Black Point Jetty", "found": [], "status": "needs_review"}
+{"id": 38, "name": "Exmouth Navy Jetty", "found": [], "status": "needs_review"}
+{"id": 5, "name": "Ningaloo Reef", "found": [], "status": "needs_review"}
+{"id": 85, "name": "Kingscote Jetty", "found": [], "status": "needs_review"}
+{"id": 100, "name": "Whyalla Jetty", "found": [], "status": "needs_review"}
+{"id": 207, "name": "Mullaway Reef", "found": [], "status": "needs_review"}
+{"id": 122, "name": "Hardwicke Bay Jetty", "found": [], "status": "needs_review"}
+{"id": 11, "name": "Fish Rock Cave", "found": [], "status": "needs_review"}
+{"id": 23, "name": "South Bondi Reef", "found": [], "status": "needs_review"}
+{"id": 210, "name": "Woody Head Reef", "found": [], "status": "needs_review"}
+{"id": 163, "name": "Wigton Reef", "found": [], "status": "needs_review"}
+{"id": 4, "name": "Poor Knights Islands", "found": [], "status": "needs_review"}
+{"id": 248, "name": "Skillion Caves", "found": [], "status": "needs_review"}
+{"id": 45, "name": "Weebubbie Cave", "found": [], "status": "needs_review"}
+{"id": 142, "name": "Neptune Islands (Shark Cage)", "found": [], "status": "needs_review"}
+{"id": 10, "name": "Lord Howe Island", "found": [], "status": "needs_review"}
+{"id": 14, "name": "Bare Island", "found": [], "status": "needs_review"}
+{"id": 76, "name": "Cape Banks Caverns", "found": [], "status": "needs_review"}
+{"id": 121, "name": "Wedge Island Caves", "found": [], "status": "needs_review"}
+{"id": 164, "name": "Round Top Island", "found": [], "status": "needs_review"}
+{"id": 114, "name": "American River Wharf", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 11, "name": "Fish Rock Cave", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 2, "name": "SS Yongala Wreck", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 64, "name": "Chowder Bay", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 4, "name": "Poor Knights Islands", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 19, "name": "Darwin Harbour Wrecks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 247, "name": "Terrigal Haven ", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 10, "name": "Lord Howe Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 38, "name": "Exmouth Navy Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 5, "name": "Ningaloo Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 94, "name": "Aldinga Drop-off", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 96, "name": "Black Point Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 248, "name": "Skillion Caves", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 45, "name": "Weebubbie Cave", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 250, "name": "Henderson's Rock", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 67, "name": "North Bondi Bommie", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 56, "name": "Freshwater Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 252, "name": "Voodoo", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 251, "name": "Smith Rock", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 70, "name": "Long Reef Wall", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 95, "name": "Port Hughes Barge Wreck", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 69, "name": "The Colours", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 249, "name": "Terrigal HMAS Adelaide (Currently Closed)", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 85, "name": "Kingscote Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 100, "name": "Whyalla Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 13, "name": "Shelly Beach", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 23, "name": "South Bondi Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 142, "name": "Neptune Islands (Shark Cage)", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 50, "name": "Fairy Bower", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 143, "name": "Corny Point Lagoon", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 14, "name": "Bare Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 76, "name": "Cape Banks Caverns", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 122, "name": "Hardwicke Bay Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 24, "name": "North Bondi Rocks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 121, "name": "Wedge Island Caves", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 55, "name": "Yena Gap", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 163, "name": "Wigton Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 164, "name": "Round Top Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 186, "name": "Green Island \u2013 South West Rocks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 188, "name": "Latitude Rock", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 207, "name": "Mullaway Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 71, "name": "Wedding Cake Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 63, "name": "Bluefish Point", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 210, "name": "Woody Head Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 57, "name": "Bare Island Deep Wall", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 1, "name": "Cod Hole", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 228, "name": "Manta Bommie", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 26, "name": "Bushrangers Bay", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 185, "name": "Fish Rock Cave", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 59, "name": "Magic Point", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 11, "name": "Fish Rock Cave", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 5, "name": "Ningaloo Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 96, "name": "Black Point Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 10, "name": "Lord Howe Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 2, "name": "SS Yongala Wreck", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 94, "name": "Aldinga Drop-off", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 64, "name": "Chowder Bay", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 19, "name": "Darwin Harbour Wrecks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 4, "name": "Poor Knights Islands", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 38, "name": "Exmouth Navy Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 247, "name": "Terrigal Haven ", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 114, "name": "American River Wharf", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 45, "name": "Weebubbie Cave", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 95, "name": "Port Hughes Barge Wreck", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 250, "name": "Henderson's Rock", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 67, "name": "North Bondi Bommie", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 248, "name": "Skillion Caves", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 70, "name": "Long Reef Wall", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 56, "name": "Freshwater Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 249, "name": "Terrigal HMAS Adelaide (Currently Closed)", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 251, "name": "Smith Rock", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 69, "name": "The Colours", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 85, "name": "Kingscote Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 252, "name": "Voodoo", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 14, "name": "Bare Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 143, "name": "Corny Point Lagoon", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 100, "name": "Whyalla Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 76, "name": "Cape Banks Caverns", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 13, "name": "Shelly Beach", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 122, "name": "Hardwicke Bay Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 121, "name": "Wedge Island Caves", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 24, "name": "North Bondi Rocks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 142, "name": "Neptune Islands (Shark Cage)", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 50, "name": "Fairy Bower", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 23, "name": "South Bondi Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 55, "name": "Yena Gap", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 164, "name": "Round Top Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 163, "name": "Wigton Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 57, "name": "Bare Island Deep Wall", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 186, "name": "Green Island \u2013 South West Rocks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 188, "name": "Latitude Rock", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 71, "name": "Wedding Cake Island", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 210, "name": "Woody Head Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 63, "name": "Bluefish Point", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 207, "name": "Mullaway Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 228, "name": "Manta Bommie", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 1, "name": "Cod Hole", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 26, "name": "Bushrangers Bay", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 185, "name": "Fish Rock Cave", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 59, "name": "Magic Point", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 2, "name": "SS Yongala Wreck", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 96, "name": "Black Point Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 5, "name": "Ningaloo Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 85, "name": "Kingscote Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 70, "name": "Long Reef Wall", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 19, "name": "Darwin Harbour Wrecks", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 56, "name": "Freshwater Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 38, "name": "Exmouth Navy Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 163, "name": "Wigton Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 23, "name": "South Bondi Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 122, "name": "Hardwicke Bay Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 100, "name": "Whyalla Jetty", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 95, "name": "Port Hughes Barge Wreck", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 207, "name": "Mullaway Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}
+{"id": 210, "name": "Woody Head Reef", "found": [], "status": "needs_web_corroboration", "evidence": []}

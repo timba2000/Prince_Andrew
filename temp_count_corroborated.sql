@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM dive_sites WHERE validation_status = 'corroborated_from_memory';

@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Dive! Tutukaka website (https://diving.co.nz/) - describes Poor Knights as ''the best sub-tropical diving in the world''.' WHERE Name = 'Poor Knights Islands';
