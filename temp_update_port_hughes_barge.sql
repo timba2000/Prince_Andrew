@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Dive Shack (https://thediveshack.com.au/dive-sites/local-dive-sites-yorke-peninsula/) - mentions ''The Port Hughes Barge'' as a novice dive site at 6m depth, sunk near SS Australian.' WHERE Name = 'Port Hughes Barge Wreck';

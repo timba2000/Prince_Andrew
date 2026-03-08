@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Michael McFadyen''s Scuba Diving Web Site (https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=652) - confirms remote boat dive with rocky reef, gullies, holes, caves, and marine life including Port Jackson sharks, blue devilfish, and sea dragons.' WHERE Name = 'Yena Gap';

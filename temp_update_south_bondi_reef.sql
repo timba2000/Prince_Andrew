@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Abyss Scuba Diving (https://www.abyss.com.au/blog/dive-sites/unveil-the-charm-of-bondi-beach-a-sydney) - mentions ''Flat Rock'' in South Bondi as an ideal dive site with a wide variety of marine life.' WHERE Name = 'South Bondi Reef';

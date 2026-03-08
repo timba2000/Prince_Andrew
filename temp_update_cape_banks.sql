@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Michael McFadyen''s Scuba Diving Web Site (https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=268) - confirms caverns, overhangs, gullies, walls, and marine life including wobbegong sharks and groupers. Mentions rock entry.' WHERE Name = 'Cape Banks Caverns';

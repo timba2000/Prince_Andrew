@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Paddle Australia (https://paddle.org.au/2025/02/24/south-australia-maritime-adventuring/) - confirms ''cavernous sea caves'' on Wedge Island.' WHERE Name = 'Wedge Island Caves';

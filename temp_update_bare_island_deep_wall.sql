@@ -1,0 +1,1 @@
+UPDATE dive_sites SET validation_status = 'corroborated_from_memory', corroboration_sources = 'Michael McFadyen''s Scuba Diving Web Site (https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=262) - detailed description confirms wall dive, marine life including sea dragons, moray eels, rays, pygmy pipehorses, and shore access.' WHERE Name = 'Bare Island Deep Wall';
