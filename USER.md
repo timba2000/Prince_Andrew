@@ -17,3 +17,4 @@
 - Currently running OpenClaw on a VPS via Docker.
 - Uses Gemini (Google) as the primary LLM model.
 - Wants voice note capability via Telegram.
+- wants all proactive comms via Telegram
