@@ -11,6 +11,28 @@
 - Authentication: Existing SSH key configured for the workspace.
 - Purpose: Daily backups and project synchronisation.
 
+## High-Priority Project: ANZ Mortgage Refinancing Research
+### Status
+- Initiated research to find the best Australian mortgage rates for refinancing.
+- Aim: Identify competitive interest rates and refinancing offers to renegotiate with ANZ.
+- Mortgage Details (from images):
+  - Fixed Rate Loan:
+    - Current Balance: ~$657,164.03
+    - Fixed Term Ends: 21st April 2026
+    - Current Repayment: ~$3,101.44/month (fixed)
+    - Expected New Repayment (without refinancing): ~$4,400/month (variable)
+  - Variable Rate Loan:
+    - Current Balance: ~$600,520.02
+    - Current Interest Rate: 5.54% (variable)
+    - Current Repayment: ~$2,015.00/month (variable)
+- Focus: Exhaustive search, avoiding hidden fees, providing options for negotiation with ANZ.
+  - Fixed Rate Loan will revert to the variable rate of 5.54% p.a. from the April 30th payment.
+
+### Next Actions
+- Conduct comprehensive web searches for current Australian mortgage rates and refinancing options.
+- Analyse offers for competitive interest rates, fees, and favourable terms.
+- Summarise findings to present to Tim.
+
 ## Active Project: Scuba Down Under - Dive Site Corroboration
 ### Status (as of latest update)
 - All dive site data has been successfully migrated from `scubadownunder.csv` into a persistent SQLite database: `dive_sites.db`.
@@ -31,16 +53,13 @@
 - **Article Word Count:** Each `ScubaDownUnder` article should be between 750-1000 words.
 
 
-## Active Project: viz - Compass Bearing Corroboration
+## Completed Project: viz - Compass Bearing Corroboration
 ### Status
-- Initiated task to accurately determine and update the `Compass_Bearing` for all dive sites in `dive_sites.db`.
-- The `Compass_Bearing` is defined as the direction the dive site faces the open water.
-- Current Completion Percentage: 13.08% (31 out of 237 sites).
+- Successfully completed the task to accurately determine and update the `Compass_Bearing` for all 243 dive sites in `dive_sites.db`.
+- The project is 100% complete.
 
 ### Next Actions
-- Continue systematically determining and updating `Compass_Bearing` for remaining dive sites.
-- Maintain a running tally of completion percentage.
-- Once `Compass_Bearing` is complete for all sites, proceed with `Viz_Slug`, `Nearby_Runoff`, `Viz_Triggers`, and `Viz_Seasonal`.
+- Proceed with `Viz_Slug`, `Nearby_Runoff`, `Viz_Triggers`, and `Viz_Seasonal` for all dive sites.
 
 
 ## Completed Project: Whisper Skill Installation

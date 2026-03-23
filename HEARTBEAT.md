@@ -7,8 +7,7 @@
 
 # Project Updates
 - Every 30 minutes (during active hours):
-  - Provide a quick update on all active projects. 
-  - For the 'Viz - Compass Bearing Corroboration' project, ensure at least one new site's Compass_Bearing is updated each heartbeat.
-  - updates must be via Telegram
+  - Provide updates on all active projects, with specific focus on the 'ANZ Mortgage Refinancing Research' project.
+  - Updates must be via Telegram
 
 # Keep this file small to limit token burn.
