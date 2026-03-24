@@ -11,7 +11,7 @@
 - Authentication: Existing SSH key configured for the workspace.
 - Purpose: Daily backups and project synchronisation.
 
-## High-Priority Project: ANZ Mortgage Refinancing Research
+## Active Project: ANZ Mortgage Refinancing Research
 ### Status
 - Initiated research to find the best Australian mortgage rates for refinancing.
 - Aim: Identify competitive interest rates and refinancing offers to renegotiate with ANZ.
@@ -29,9 +29,10 @@
   - Fixed Rate Loan will revert to the variable rate of 5.54% p.a. from the April 30th payment.
 
 ### Next Actions
-- Conduct comprehensive web searches for current Australian mortgage rates and refinancing options.
+- **PRIORITY:** Move immediately into the analysis and summarisation phase based on current research.
+- Consolidate all gathered information on Australian mortgage rates and refinancing options.
 - Analyse offers for competitive interest rates, fees, and favourable terms.
-- Summarise findings to present to Tim.
+- Prepare a 'steering view' summary of findings to present to Tim by 7 AM tomorrow (March 25th, 2026, Sydney time).
 
 ## Active Project: Scuba Down Under - Dive Site Corroboration
 ### Status (as of latest update)
@@ -53,13 +54,13 @@
 - **Article Word Count:** Each `ScubaDownUnder` article should be between 750-1000 words.
 
 
-## Completed Project: viz - Compass Bearing Corroboration
+## Completed Project: Viz - Dive Site Visualisation Data
 ### Status
-- Successfully completed the task to accurately determine and update the `Compass_Bearing` for all 243 dive sites in `dive_sites.db`.
+- Successfully completed the task to accurately determine and update the `Compass_Bearing`, `Viz_Slug`, `Nearby_Runoff`, `Viz_Triggers`, and `Viz_Seasonal` for all 243 dive sites in `dive_sites.db`.
 - The project is 100% complete.
 
 ### Next Actions
-- Proceed with `Viz_Slug`, `Nearby_Runoff`, `Viz_Triggers`, and `Viz_Seasonal` for all dive sites.
+- None. This project phase is complete.
 
 
 ## Completed Project: Whisper Skill Installation

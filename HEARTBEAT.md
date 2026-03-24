@@ -7,7 +7,8 @@
 
 # Project Updates
 - Every 30 minutes (during active hours):
-  - Provide updates on all active projects, with specific focus on the 'ANZ Mortgage Refinancing Research' project.
-  - Updates must be via Telegram
+  - Provide a quick update on all active projects. 
+
+  - updates must be via Telegram
 
 # Keep this file small to limit token burn.
