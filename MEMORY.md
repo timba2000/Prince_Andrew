@@ -11,28 +11,13 @@
 - Authentication: Existing SSH key configured for the workspace.
 - Purpose: Daily backups and project synchronisation.
 
-## Active Project: ANZ Mortgage Refinancing Research
+## Completed Project: ANZ Mortgage Refinancing Research
 ### Status
-- Initiated research to find the best Australian mortgage rates for refinancing.
-- Aim: Identify competitive interest rates and refinancing offers to renegotiate with ANZ.
-- Mortgage Details (from images):
-  - Fixed Rate Loan:
-    - Current Balance: ~$657,164.03
-    - Fixed Term Ends: 21st April 2026
-    - Current Repayment: ~$3,101.44/month (fixed)
-    - Expected New Repayment (without refinancing): ~$4,400/month (variable)
-  - Variable Rate Loan:
-    - Current Balance: ~$600,520.02
-    - Current Interest Rate: 5.54% (variable)
-    - Current Repayment: ~$2,015.00/month (variable)
-- Focus: Exhaustive search, avoiding hidden fees, providing options for negotiation with ANZ.
-  - Fixed Rate Loan will revert to the variable rate of 5.54% p.a. from the April 30th payment.
+- Research to find the best Australian mortgage rates for refinancing initiated and completed.
+- A 'steering view' summary of findings was presented to Tim on March 25th, 2026.
 
 ### Next Actions
-- **PRIORITY:** Move immediately into the analysis and summarisation phase based on current research.
-- Consolidate all gathered information on Australian mortgage rates and refinancing options.
-- Analyse offers for competitive interest rates, fees, and favourable terms.
-- Prepare a 'steering view' summary of findings to present to Tim by 7 AM tomorrow (March 25th, 2026, Sydney time).
+- None. This project phase is complete.
 
 ## Active Project: Scuba Down Under - Dive Site Corroboration
 ### Status (as of latest update)
@@ -46,6 +31,7 @@
 - Corroboration progress will now be tracked directly within the `dive_sites.db` database.
 - **Current Batch (in progress since March 6th, 2026):** SS Yongala Wreck, Muiron Island, Hat Head Bommie, Black Rock – Forster, HMAS Brisbane, Arno Bay Jetty, Aldinga Drop-off, American River Wharf, Ningaloo Reef, Exmouth Navy Jetty, Green Island – South West Rocks (AI corroborated), Latitude Rock (AI corroborated), Bluefish Point (AI corroborated), Mullaway Reef (AI corroborated), Woody Head Reef (AI corroborated), Wedding Cake Island (AI corroborated), Manta Bommie (AI corroborated), Bushrangers Bay (AI corroborated), Cod Hole (AI corroborated), Fish Rock Cave (AI corroborated), Magic Point (AI corroborated), The Gutter (restored from CSV).
 - This activity has been ongoing for several days.
+- The `dive_sites.db` has been exported to `sdu_export.csv` and committed to the GitHub repository.
 - The final output will be a comprehensive CSV file containing the corroborated data for all dive sites, including validation information and sources.
 
 ### Next Actions
@@ -54,13 +40,16 @@
 - **Article Word Count:** Each `ScubaDownUnder` article should be between 750-1000 words.
 
 
-## Completed Project: Viz - Dive Site Visualisation Data
+## Active Project: viz - Compass Bearing Corroboration
 ### Status
-- Successfully completed the task to accurately determine and update the `Compass_Bearing`, `Viz_Slug`, `Nearby_Runoff`, `Viz_Triggers`, and `Viz_Seasonal` for all 243 dive sites in `dive_sites.db`.
-- The project is 100% complete.
+- Initiated task to accurately determine and update the `Compass_Bearing` for all dive sites in `dive_sites.db`.
+- The `Compass_Bearing` is defined as the direction the dive site faces the open water.
+- Current Completion Percentage: 71.19% (173 out of 243 sites).
 
 ### Next Actions
-- None. This project phase is complete.
+- Continue systematically determining and updating `Compass_Bearing` for remaining dive sites.
+- Maintain a running tally of completion percentage.
+- Once `Compass_Bearing` is complete for all sites, proceed with `Viz_Slug`, `Nearby_Runoff`, `Viz_Triggers`, and `Viz_Seasonal`.
 
 
 ## Completed Project: Whisper Skill Installation
