@@ -22,29 +22,29 @@
 ## Active Project: Scuba Down Under - Dive Site Corroboration
 ### Status (as of latest update)
 - All dive site data has been successfully migrated from `scubadownunder.csv` into a persistent SQLite database: `dive_sites.db`.
-- This database now serves as the primary source of truth for all dive site information, including names, coordinates, descriptions, and corroboration status.
+- This database now serves as the primary source of truth for all dive site information.
+- The schema includes `validation_status` (for data integrity) and `article_status` (to track article completion).
 - Initial validation was completed during the CSV parsing phase, flagging missing/suspicious values.
 - Automation is designed for:
   - Google Maps cross-verification
   - Web directory searches to validate entries (name, region, coordinates, facilities, marine life, etc.)
   - Flagging probable errors/unverified entries
-- Corroboration progress will now be tracked directly within the `dive_sites.db` database.
-- **Current Batch (in progress since March 6th, 2026):** SS Yongala Wreck, Muiron Island, Hat Head Bommie, Black Rock – Forster, HMAS Brisbane, Arno Bay Jetty, Aldinga Drop-off, American River Wharf, Ningaloo Reef, Exmouth Navy Jetty, Green Island – South West Rocks (AI corroborated), Latitude Rock (AI corroborated), Bluefish Point (AI corroborated), Mullaway Reef (AI corroborated), Woody Head Reef (AI corroborated), Wedding Cake Island (AI corroborated), Manta Bommie (AI corroborated), Bushrangers Bay (AI corroborated), Cod Hole (AI corroborated), Fish Rock Cave (AI corroborated), Magic Point (AI corroborated), The Gutter (restored from CSV).
-- This activity has been ongoing for several days.
 - The `dive_sites.db` has been exported to `sdu_export.csv` and committed to the GitHub repository.
-- The final output will be a comprehensive CSV file containing the corroborated data for all dive sites, including validation information and sources.
+- The final output for this phase will be a comprehensive CSV file containing the validated data for all dive sites, including validation information and sources.
+- Article writing is now the priority, focusing on sites with no `article_status`.
 
 ### Next Actions
 - Continue systematic cross-check for remaining sites by querying `dive_sites.db` for uncorroborated entries.
-- Generate a comprehensive CSV output of all corroborated dive site data upon project completion.
+- Generate a comprehensive CSV output of all validated dive site data upon project completion.
 - **Article Word Count:** Each `ScubaDownUnder` article should be between 750-1000 words.
+- **Completed Articles:** Articles for American River Wharf, Ningaloo Reef, Exmouth Navy Jetty, Fish Rock Cave, and Montague Island have been drafted.
 
 
 ## Active Project: viz - Compass Bearing Corroboration
 ### Status
 - Initiated task to accurately determine and update the `Compass_Bearing` for all dive sites in `dive_sites.db`.
 - The `Compass_Bearing` is defined as the direction the dive site faces the open water.
-- Current Completion Percentage: 71.19% (173 out of 243 sites).
+- Current Completion Percentage: 86.83% (211 out of 243 sites).
 
 ### Next Actions
 - Continue systematically determining and updating `Compass_Bearing` for remaining dive sites.

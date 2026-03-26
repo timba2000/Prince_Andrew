@@ -6,7 +6,7 @@
   - Log "Backup completed: <filename>" to `memory/logs/backup.log`.
 
 # Project Updates
-- Every 30 minutes (during active hours):
+- Every 3 hours (during active hours):
   - Provide a quick update on all active projects. 
 
   - updates must be via Telegram
