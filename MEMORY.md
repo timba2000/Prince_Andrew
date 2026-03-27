@@ -121,7 +121,9 @@ The "vibe" of [Dive Site Name] is one of [description of atmosphere, feeling, un
 
 ---
 
-**75-word excerpt:** "[A concise summary of the dive site, highlighting key features, location, skill level, and main attractions. Must be exactly 75 words or very close.]"
+**50-word excerpt:** "[A concise summary of the dive site, highlighting key features, location, skill level, and main attractions. Must be exactly 50 words or very close.]"
+
+**Related Dive Sites/Information:** [Include links to other nearby SDU dive site reviews (e.g., [Nearby Site Name](URL)) or useful external dive information links.]
 
 ---
 This section will be updated as the project progresses. For more detail, consult project-specific memory logs if available.

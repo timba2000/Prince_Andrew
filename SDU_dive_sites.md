@@ -11,6 +11,7 @@ For those planning an expedition to Corny Point Lagoon, here are the crucial det
 *   **Depth Range:** 2-5m. Perfectly suited for beginner divers, snorkellers, and for training purposes.
 *   **Visibility:** Typically 3-4m. The silty nature of the lagoon floor means visibility is easily disturbed and highly dependent on recent weather and tidal movement.
 *   **Water Temperature:** 15-20°C. A 5mm or 7mm wetsuit is recommended, especially for longer dives in the cooler temperate waters of South Australia.
+
 *   **Current/Conditions:** Generally very calm with negligible current. The site is tide-sensitive; high tide typically offers better visibility and more accessible depths.
 *   **Viz Implications:** Visibility is primarily influenced by tidal movement and local wind conditions. Incoming tides generally bring clearer water from the open gulf. Poor visibility is common after strong winds stir up the silty bottom or following heavy rainfall. The lagoon's sheltered nature protects it from significant swell, but its shallow depth makes it susceptible to turbidity. Divers should aim for a high, slack tide for the best possible experience.
 
@@ -275,6 +276,7 @@ Diving Cook Island – Turtle Cove requires simple planning due to its proximity
 
 *   **Accessibility:** Located just offshore from Tweed Heads, NSW. Requires a short boat trip, typically departing from the Tweed River.
 *   **Facilities:** No on-site facilities; all gear and necessities should be brought on the dive boat. Tweed Heads offers several dive shops for gear hire, air fills, and guided excursions.
+
 *   **Best Time to Dive:** Can be dived year-round, but the calmest conditions are often found during the autumn and winter months when the swell is lower. Checking the Tweed River bar conditions and local swell forecast is essential.
 *   **Conservation:** The area around Cook Island is a protected marine reserve. Divers must practice responsible diving, ensuring no contact with the turtles or damage to the reef structure.
 
@@ -475,3 +477,197 @@ The "vibe" of the HMAS Brisbane is one of accessible adventure and historical im
 *   [Flinders Reef - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#flinders-reef)
 *   [Mudjimba Island (Old Woman Island) - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#mudjimba-island-old-woman-island)
 *   [Sunshine Coast Dive Operators (External Link)](https://www.suncoastscuba.com.au/dive-sites)
+
+***
+
+### American River Wharf: A Macro Paradise on Kangaroo Island
+
+**American River Wharf: A Macro Paradise on Kangaroo Island**
+
+American River Wharf, located on the tranquil shores of Kangaroo Island, South Australia, offers a delightful and accessible dive experience, perfectly suited for beginner divers. With shallow depths ranging from 2 to 6 metres, this estuarine site is a haven for macro life, featuring a diverse array of pipefish, crabs, and shrimp amidst its grassy bottom. Divers can expect excellent visibility during optimal conditions, making it ideal for photographers and those keen on discovering smaller marine wonders. Its easy wharf access and sheltered environment provide a relaxed setting for underwater exploration, showcasing the unique biodiversity hidden beneath Kangaroo Island’s calm waters.
+
+**The Essentials: A Gentle Estuarine Exploration**
+
+For those planning an expedition to American River Wharf, here are the crucial details for a safe and rewarding dive:
+
+*   **Depth Range:** 2-6m. Perfectly suited for beginner divers, snorkellers, and macro photographers. Open Water certified divers will find it ideal for relaxed exploration.
+*   **Visibility:** Typically excellent, often reaching 10-15m, particularly during summer. Can be reduced by strong winds stirring up silt or after heavy rainfall.
+*   **Water Temperature:** 14–20°C. A 5mm or 7mm wetsuit is recommended due to the cooler temperate waters of Southern Australia, even in summer.
+*   **Current/Conditions:** Generally very calm with negligible currents due to its sheltered estuarine location. Can be affected by strong winds creating chop on the surface.
+*   **Viz Implications:** Visibility is primarily influenced by wind direction and recent rainfall. Good visibility is typically found during calm conditions, especially in summer. Poor visibility can occur after strong winds stir up the silty estuarine bottom or following heavy rainfall leading to increased terrestrial runoff. The site's sheltered nature generally protects it from significant ocean swell. Divers should aim for calm days for the best experience.
+
+**Terrain & Navigation: Exploring a Grassy Ecosystem**
+
+The underwater topography around American River Wharf is characterised by a gently sloping, grassy seabed interspersed with patches of sand and artificial structures from the wharf itself. Key navigational features and points of interest include:
+
+*   **Grassy Bottom:** Extensive seagrass beds provide a rich habitat for macro life, including pipefish and seahorses.
+*   **Wharf Pylons:** The wooden pylons of the wharf are encrusted with sponges and other invertebrates, attracting various fish.
+*   **Sandy Patches:** Smaller sandy areas where crabs and other crustaceans can be found.
+*   **Easy Wharf Access:** Entry and exit are straightforward directly from the wharf, with ample parking nearby.
+
+**Marine Life Highlights: A World of Intricate Wonders**
+
+American River Wharf is a macro paradise, offering extraordinary encounters with smaller, often overlooked marine species.
+
+*   **Pipefish:** Various species of pipefish are commonly found camouflaged among the seagrass.
+*   **Crabs & Shrimp:** A diverse array of crabs and shrimp can be spotted hiding in the grass or on the wharf pylons.
+*   **Seahorses:** Patient divers may be rewarded with sightings of these elusive creatures.
+*   **Small Reef Fish:** Juvenile fish often shelter among the wharf structures and seagrass.
+
+*   **Nudibranchs & Flatworms:** Keep a keen eye out for colourful nudibranchs and intricate flatworms on the pylons and substrate.
+
+**Logistics & Facilities: Planning Your Kangaroo Island Discovery**
+
+Diving American River Wharf requires straightforward planning due to its location on Kangaroo Island:
+
+*   **Accessibility:** Located at American River on Kangaroo Island, SA. Accessible by road, with parking available at the wharf. Requires ferry booking to Kangaroo Island.
+*   **Facilities:** Basic amenities are available in American River. For more comprehensive dive services (air fills, gear rental), divers may need to travel to Penneshaw or Kingscote.
+*   **Best Time to Dive:** Best dived during the summer months (December to February) when water temperatures are at their warmest and conditions are typically calm.
+*   **Conservation:** Part of Kangaroo Island's delicate estuarine ecosystem. Divers should practice excellent buoyancy control to avoid disturbing the silty bottom and delicate seagrass beds.
+
+**Who Is It For?: A Beginner's Macro Haven**
+
+American River Wharf is particularly suited for beginner divers, snorkellers, and macro photographers who appreciate calm, shallow waters and the intricate beauty of smaller marine life. Its easy access and sheltered conditions make it an excellent site for practicing skills, introducing new divers, or simply enjoying a leisurely and rewarding underwater photographic expedition.
+
+**Pro-Tip: Look Closely in the Seagrass**
+
+The "vibe" of American River Wharf is one of serene discovery and intricate beauty. To truly appreciate this site, slow down and meticulously scan the seagrass beds and wharf pylons. The most fascinating creatures here are often the smallest and best camouflaged, rewarding patience with unique macro encounters.
+
+---
+
+**50-word excerpt:** "American River Wharf on Kangaroo Island, SA, is a beginner-friendly estuarine dive (2-6m) with excellent visibility (10-15m) and 14-20°C waters. This macro haven teems with pipefish, crabs, and shrimp amidst grassy bottoms. Easily accessible from the wharf, it offers a relaxed setting for photographers and new divers to explore unique biodiversity in sheltered, calm conditions."
+
+**Related Dive Sites/Information:**
+*   [Kingscote Jetty - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#kingscote-jetty)
+*   [Rapid Bay Jetty - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#rapid-bay-jetty)
+*   [Kangaroo Island Diving (External Link)](https://kangarooislanddiving.com/)
+
+***
+
+### Ningaloo Reef: Western Australia's Coral Masterpiece for Every Diver
+
+**Ningaloo Reef: Western Australia's Coral Masterpiece for Every Diver**
+
+Ningaloo Reef, Western Australia’s magnificent fringing coral reef, offers an unparalleled dive and snorkel experience, welcoming divers of all levels. Ranging from 3 to 30 metres, it boasts pristine coral gardens, abundant reef sharks, graceful manta rays, and is globally renowned for its seasonal whale shark encounters. Its unique accessibility directly from shore, alongside boat tours, makes it a world-class destination. The vibrant ecosystem, with typically clear waters and warm temperatures, promises unforgettable encounters within a thriving marine sanctuary. Ningaloo is a testament to nature’s grandeur, providing extraordinary adventures from beginner to advanced.
+
+**The Essentials: Diving into a World Heritage Gem**
+
+For those planning an expedition to Ningaloo Reef, here are the crucial details for a safe and exhilarating dive:
+
+*   **Depth Range:** 3-30m. Accessible for beginners in shallow lagoons, with deeper reef sections for advanced divers. Open Water certified divers can enjoy a vast majority of the reef.
+*   **Visibility:** Typically excellent, ranging from 10-25m, often exceeding 30m in optimal conditions. Can be reduced by strong winds and seasonal plankton blooms (especially during whale shark season).
+*   **Water Temperature:** 22-26°C. A 3mm wetsuit or rash vest is often sufficient year-round, making for comfortable extended dives.
+*   **Current/Conditions:** Generally mild currents within sheltered lagoons, but can be stronger on outer reef sections or with tidal changes. Shore diving can involve mild surge at entry/exit points.
+*   **Viz Implications:** Visibility at Ningaloo Reef is generally excellent due to minimal coastal runoff from the arid coastline. Periods of reduced visibility can occur due to strong winds creating chop and stirring up fine sand in shallower areas, or during seasonal plankton blooms which, while reducing clarity, attract large pelagics like whale sharks. Divers should be aware of daily changes in conditions and consult local operators.
+
+**Terrain & Navigation: Exploring Fringing Coral Gardens**
+
+The underwater topography of Ningaloo Reef is characterised by its fringing reef structure, offering a diverse array of coral gardens, bommies, and sandy channels. Key navigational features and points of interest include:
+
+*   **Coral Gardens:** Extensive areas of pristine hard and soft corals, providing shelter and food for countless reef fish.
+*   **Bommies:** Isolated coral heads rising from the seabed, often attracting schools of fish and larger marine life.
+*   **Sandy Channels:** Natural pathways between reef sections, ideal for spotting rays and other bottom dwellers.
+*   **Manta Ray Cleaning Stations:** Specific locations where manta rays congregate to be cleaned by smaller fish.
+*   **Shore Access & Boat Dives:** Many sites are accessible directly from shore (e.g., Turquoise Bay), while numerous boat tours explore offshore reef sections.
+
+**Marine Life Highlights: A Mecca for Oceanic Giants**
+
+Ningaloo Reef is a world-renowned biodiversity hotspot, famous for its extraordinary encounters with large pelagics and vibrant reef life.
+
+*   **Whale Sharks:** The undeniable stars of Ningaloo (March-August), offering unparalleled swimming encounters.
+*   **Manta Rays:** Frequent sightings at cleaning stations and gliding along the reef.
+*   **Reef Sharks:** Whitetip and blacktip reef sharks are commonly seen patrolling the reef.
+*   **Turtles:** Green, loggerhead, and hawksbill turtles are abundant, often seen resting or feeding.
+*   **Coral Trout & Groupers:** Large predatory fish are common residents of the reef.
+*   **Dugongs:** Occasional sightings in the protected lagoons.
+*   **Humpback Whales:** Migrating past the reef from June to November.
+
+**Logistics & Facilities: Planning Your Exmouth Adventure**
+
+Diving Ningaloo Reef is a major draw, requiring some planning, particularly during peak seasons:
+
+*   **Accessibility:** Located near Exmouth and Coral Bay, WA. Easily accessible by road, with flights to Learmonth (near Exmouth). Many dive/snorkel sites are shore-accessible.
+*   **Facilities:** Exmouth and Coral Bay offer full dive services, including gear rental, air/nitrox fills, guided tours (including whale shark and manta ray tours), and a wide range of accommodation.
+*   **Best Time to Dive:** Whale shark season runs from March to August. Manta rays are present year-round but more common from May to November. Overall, the dry season (April to October) offers the most reliable weather.
+*   **Conservation:** Protected as a UNESCO World Heritage Site. Strict adherence to marine park regulations, including "no-touch" policies and responsible wildlife interaction guidelines, is mandatory.
+
+**Who Is It For?: Ningaloo Welcomes All Ocean Lovers**
+
+Ningaloo Reef is genuinely a paradise for all ocean lovers. Beginners will revel in the shallow, pristine lagoons, while experienced divers will find endless exploration opportunities on the outer reef. Its unique combination of easy access, incredible biodiversity, and iconic megafauna encounters makes it a dream destination for snorkellers, divers, and marine enthusiasts of every skill level.
+
+**Pro-Tip: Embrace the Blue**
+
+The "vibe" of Ningaloo Reef is one of boundless natural wonder and awe-inspiring encounters. While the coral gardens are magnificent, remember to keep an eye out into the blue. Ningaloo's true magic often reveals itself in the fleeting glimpse of a passing whale shark or a graceful manta ray, creating memories that last a lifetime.
+
+---
+
+**50-word excerpt:** "Ningaloo Reef, WA, offers world-class diving for all levels (3-30m) with 22-26°C waters and excellent visibility. Famed for whale sharks, manta rays, and pristine corals, it’s a vibrant hub of reef sharks and turtles. Accessible from shore or by boat from Exmouth, it promises unforgettable encounters within a UNESCO World Heritage-listed marine sanctuary."
+
+**Related Dive Sites/Information:**
+*   [Exmouth Navy Jetty - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#exmouth-navy-jetty)
+*   [Turquoise Bay - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#turquoise-bay)
+*   [Whale Shark Interaction Guidelines (External Link)](https://www.ningalooreef.org/plan-your-visit/whale-shark-tours/)
+
+***
+
+### Exmouth Navy Jetty: A Macro Wonderland for Beginners
+
+**Exmouth Navy Jetty: A Macro Wonderland for Beginners**
+
+Exmouth Navy Jetty, situated in Exmouth, Western Australia, offers an accessible and incredibly rewarding dive for beginners. With shallow depths of 4 to 10 metres, this concrete jetty is a vibrant macro wonderland, teeming with juvenile fish, clever octopus, and a spectacular array of nudibranchs. Divers can expect good visibility, making it an ideal spot for macro photography and leisurely exploration. Its easy shore access provides a comfortable entry into the underwater world of Exmouth, showcasing a thriving, colourful ecosystem beneath the bustling jetty.
+
+**The Essentials: A Gentle Introduction to Jetty Diving**
+
+For those planning an expedition to Exmouth Navy Jetty, here are the crucial details for a safe and exhilarating dive:
+
+*   **Depth Range:** 4-10m. Perfectly suited for beginner divers, snorkellers, and macro photographers. Ideal for Open Water training and relaxed exploration.
+*   **Visibility:** Typically ranges from 10-12m, though it can be variable. Visibility is influenced by tides, weather, and plankton blooms.
+*   **Water Temperature:** 22–26°C. A 3mm wetsuit or rash vest is often sufficient year-round, making for comfortable extended dives.
+*   **Current/Conditions:** Generally experiences mild currents, but can be stronger on certain tides, especially around the jetty pylons. Shore access may involve some mild surge.
+*   **Viz Implications:** Visibility at Exmouth Navy Jetty is influenced by tides, local weather conditions, and seasonal plankton blooms. Good visibility is typically found during periods of slack high tide and calm weather. Poor visibility can occur after strong winds stir up silt from the seabed, or during significant plankton events. The jetty's structure offers some protection, but divers should consult local forecasts and tide charts.
+
+**Terrain & Navigation: Exploring a Man-Made Habitat**
+
+The underwater topography around Exmouth Navy Jetty is dominated by its extensive concrete pylons, which are encrusted with marine growth, creating an artificial reef system. Key navigational features and points of interest include:
+
+*   **Jetty Pylons:** The primary structure, providing vertical habitats teeming with life.
+*   **Debris Field:** Scattered debris around the jetty base creates additional hiding spots and micro-habitats.
+*   **Sandy Bottom:** The seabed between the pylons is sandy, often home to unique bottom-dwelling creatures.
+*   **Shore Access:** Easy entry and exit directly from the shore beneath the jetty, with ample parking nearby.
+
+**Marine Life Highlights: A Macro Photographer's Dream**
+
+Exmouth Navy Jetty is a celebrated macro hotspot, offering extraordinary encounters with smaller, often overlooked marine species.
+
+*   **Nudibranchs:** A spectacular variety of colourful nudibranch species can be found on the pylons and surrounding structures.
+*   **Juvenile Fish:** The jetty acts as a nursery, sheltering numerous species of juvenile reef fish.
+*   **Octopus & Cuttlefish:** Clever octopus and camouflaged cuttlefish are frequently spotted among the structures.
+*   **Blennies & Gobies:** Numerous blennies and gobies inhabit the cracks and crevices of the pylons.
+*   **Frogfish:** Patient divers may be rewarded with sightings of masterfully camouflaged frogfish.
+*   **Seahorses & Pipefish:** Occasional sightings of these delicate creatures amongst the growth.
+
+**Logistics & Facilities: Planning Your Exmouth Jetty Adventure**
+
+Diving Exmouth Navy Jetty is straightforward, but some planning is required due to its popularity:
+
+*   **Accessibility:** Located within Exmouth, WA, with easy shore access and parking.
+*   **Facilities:** Basic facilities may be available near the jetty. Exmouth town offers full dive services, including gear rental, air/nitrox fills, and accommodation.
+*   **Best Time to Dive:** Best dived during periods of slack tide, particularly high slack tide, to minimise currents and maximise visibility. March to November generally offers the most comfortable conditions.
+*   **Conservation:** Part of the Ningaloo Coast World Heritage Area. Divers must practice excellent buoyancy control to avoid damaging the delicate marine growth on the pylons and disturbing marine life.
+
+**Who Is It For?: The Ultimate Beginner's Macro Playground**
+
+Exmouth Navy Jetty is ideally suited for beginner divers, students, and macro photographers seeking a relaxed yet incredibly rewarding dive. Its shallow depths, easy access, and abundant macro life make it an exceptional site for building confidence, honing photography skills, or simply enjoying a leisurely explore of a diverse artificial reef.
+
+**Pro-Tip: Look Closely at Every Pylon**
+
+The "vibe" of Exmouth Navy Jetty is one of endless discovery and intricate beauty. Don't rush! Take your time to meticulously examine every inch of the jetty pylons and surrounding debris. This is where the most fascinating and well-camouflaged macro creatures reveal themselves, turning every dive into a treasure hunt for unique sightings.
+
+---
+
+**50-word excerpt:** "Exmouth Navy Jetty, WA, is a beginner-friendly shore dive (4-10m) with 10-12m variable visibility and warm 22-26°C waters. This macro wonderland teems with juvenile fish, octopus, and diverse nudibranchs amidst concrete pylons. Best dived at slack high tide, it offers easy access and incredible photographic opportunities within a thriving artificial reef ecosystem, ideal for relaxed exploration."
+
+**Related Dive Sites/Information:**
+*   [Ningaloo Reef - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#ningaloo-reef)
+*   [Lighthouse Bay - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#lighthouse-bay)
+*   [Exmouth Diving Centre (External Link)](https://exmouthdiving.com.au/dive-sites)
