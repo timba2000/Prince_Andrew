@@ -1,0 +1,5 @@
+
+# OpenClaw specific files that should not be committed
+backups/
+process_dive_sites.py
+sdu_articles_email.mml
