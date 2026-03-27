@@ -16,7 +16,7 @@ For those planning an expedition to Corny Point Lagoon, here are the crucial det
 
 **Terrain & Navigation: Exploring the Sheltered Sands**
 
-The underwater topography of Corny Point Lagoon is relatively uniform, consisting mostly of a sandy and silty seabed interspersed with small rocky patches and seaggrass beds. Key navigational features and points of interest include:
+The underwater topography of Corny Point Lagoon is relatively uniform, consisting mostly of a sandy and silty seabed interspersed with small rocky patches and seagrass beds. Key navigational features and points of interest include:
 
 *   **Sandy & Silty Bottom:** The primary terrain, home to various bottom-dwelling creatures.
 *   **Seagrass Beds:** Small patches of seagrass provide shelter for juvenile fish and invertebrates.
@@ -98,6 +98,7 @@ Diving Clarkes Reef requires specific planning due to its location:
 
 *   **Accessibility:** Located off Albany, Western Australia, requiring boat access. Local dive charters operate regularly to the site from Albany's main harbour.
 *   **Facilities:** No on-site facilities; all gear and necessities must be brought on the dive boat. Albany offers full dive services, including gear rental, air fills, and guided trips.
+
 *   **Best Time to Dive:** The winter months (June to August) often provide the best visibility, while the summer months (December to February) offer slightly warmer water temperatures. Checking the swell forecast is crucial, as the site is best dived when the swell is low.
 *   **Conservation:** Part of the pristine Albany marine environment. Divers should practice responsible diving, avoiding touching marine life and being mindful of their impact on the reef.
 
@@ -165,7 +166,7 @@ The Coffin Bay Oyster Lease is particularly suited for intermediate divers who a
 
 **Pro-Tip: Slow Down and Observe the Small Things**
 
-The "vibe" of the Coffin Bay Oyster Lease is one of serene marine productivity and natural resilience. To truly appreciate the site, take your time to examine the oyster racks and the surrounding seagrass; this is where you'll find the most fascinating and well-camouflaged inhabitants. Keep an eye out for the delicate nudibranchs that often add a splash of colour to the structures!
+The "vibe" of Coffin Bay Oyster Lease is one of serene marine productivity and natural resilience. To truly appreciate the site, take your time to examine the oyster racks and the surrounding seagrass; this is where you'll find the most fascinating and well-camouflaged inhabitants. Keep an eye out for the delicate nudibranchs that often add a splash of colour to the structures!
 
 ---
 
@@ -255,6 +256,7 @@ The underwater topography of Turtle Cove is characterised by a rocky reef system
 *   **Rocky Reef Margin:** The reef structure provides numerous nooks and crannies for resident turtles and smaller reef fish.
 *   **Sandy Channels:** Wide sandy areas weave through the reef, where eagle rays are often spotted resting or feeding.
 *   **Shallow Ledges:** Small ledges and overhangs offer shelter for wobbegongs and various crustacean species.
+
 *   **Boat Access:** Access is primarily by boat, with several dive operators running regular trips from the nearby Tweed River.
 
 **Marine Life Highlights: Encounters with Curious Residents**
@@ -408,3 +410,68 @@ The "vibe" of Hat Head Bommie is one of rugged coastal charm and vibrant life. A
 *   [South West Rocks Dive Centre (External Link)](https://www.southwestrocksdive.com.au/)
 *   [Fish Rock Cave - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#fish-rock-cave)
 *   [Port Macquarie Dive Sites (External Link)](https://www.portmacquariediving.com.au/dive-sites/)
+
+***
+
+### HMAS Brisbane: Queensland's Premier Shipwreck Dive for All Levels
+
+**HMAS Brisbane: Queensland's Premier Shipwreck Dive for All Levels**
+
+The ex-HMAS Brisbane, purposefully scuttled off the Sunshine Coast, Queensland, stands as one of Australia's most accessible and rewarding shipwreck dives, perfectly suited for intermediate divers. Ranging from a mere 5 metres down to 28 metres, this meticulously prepared wreck offers a captivating exploration with well-preserved structures and abundant marine life. Divers can expect to encounter massive groupers, graceful turtles, various rays, and vast schools of fish. Its position in clear waters provides excellent visibility, making it an ideal site for both recreational divers and underwater photographers seeking a world-class wreck experience.
+
+**The Essentials: A Journey into Maritime History**
+
+For those planning an expedition to the HMAS Brisbane, here are the crucial details for a safe and exhilarating dive:
+
+*   **Depth Range:** 5-28m. Ideal for Open Water divers comfortable with mild currents, with deeper sections accessible to Advanced Open Water divers.
+*   **Visibility:** Typically excellent, ranging from 10-20m, often reaching 30m during optimal conditions. Can be reduced after heavy rainfall or strong swells.
+*   **Water Temperature:** 19–26°C. A 3mm wetsuit is generally sufficient year-round, with warmer temperatures in summer.
+*   **Current/Conditions:** Generally experiences mild currents, which can increase on certain tides or after strong weather. Surface conditions are typically manageable, but the site is exposed to open ocean swells.
+*   **Viz Implications:** Visibility at HMAS Brisbane is largely influenced by offshore conditions and coastal runoff. Good visibility is usually found during periods of calm seas and dry weather, with oceanic currents bringing clear water. Poor visibility can occur after heavy rainfall due to minimal coastal runoff from nearby national park areas, or significant swells stirring up the seabed in shallower sections. Divers should consult local marine forecasts and tide charts for optimal diving conditions.
+
+**Terrain & Navigation: Exploring a Wreck Transformed**
+
+The HMAS Brisbane is a 133-meter destroyer, now an artificial reef, offering diverse exploration opportunities. Key navigational features and points of interest include:
+
+*   **Deck and Bridge:** Accessible sections for newer divers, teeming with marine growth.
+*   **Engine Room:** Deeper sections accessible through penetration, revealing the impressive machinery.
+
+*   **Gun Turrets:** Large, intact turrets at the bow and stern, often surrounded by schooling fish.
+*   **Swim-throughs:** Multiple safe swim-throughs, allowing divers to explore various compartments.
+*   **Boat Access Only:** Access is exclusively by boat, with numerous dive operators running daily trips from the Sunshine Coast (e.g., Mooloolaba, Caloundra).
+
+**Marine Life Highlights: A Thriving Wreck Ecosystem**
+
+The HMAS Brisbane is a biodiversity hotspot, attracting an extraordinary array of marine life.
+
+*   **Giant Groupers:** Massive Queensland Groper are often seen resident to the wreck.
+*   **Turtles:** Green and Hawksbill turtles are frequent visitors, often resting on the wreck or feeding on nearby reefs.
+*   **Rays:** Eagle rays and stingrays are commonly spotted gliding over the sandy bottom around the wreck.
+*   **Schooling Fish:** Vast schools of barracuda, trevally, and fusiliers often engulf sections of the wreck.
+*   **Nudibranchs and Macro Life:** The wreck surfaces are adorned with a variety of colourful nudibranchs and smaller invertebrates.
+
+**Logistics & Facilities: Planning Your Sunshine Coast Wreck Adventure**
+
+Diving the HMAS Brisbane requires specific planning due to its popularity and offshore location:
+
+*   **Accessibility:** Located off the Sunshine Coast, QLD, requiring boat access. Numerous dive charters operate from Mooloolaba and Caloundra.
+*   **Facilities:** No on-site facilities. All gear and necessities must be brought on the dive boat. The Sunshine Coast offers full dive services, including gear rental, air/nitrox fills, and guided trips.
+*   **Best Time to Dive:** May to October generally provides the calmest conditions and best visibility, though diving is possible year-round.
+*   **Conservation:** Managed as an artificial reef within a marine park zone. Divers must adhere to strict "no-take" and "no-touch" policies, and practice responsible diving.
+
+**Who Is It For?: An Accessible Wreck for Every Diver**
+
+The HMAS Brisbane is uniquely suited for a wide range of divers, from Open Water certified individuals looking for their first wreck experience to advanced divers seeking intricate penetration opportunities. Its well-prepared state and abundant marine life make it an exceptional site for training, recreational diving, and underwater photography.
+
+**Pro-Tip: Explore Both Sides**
+
+The "vibe" of the HMAS Brisbane is one of accessible adventure and historical immersion. Don't just stick to one side! The wreck offers different experiences on its port and starboard, often with varying current and marine life activity. Exploring both facets ensures a complete and rewarding dive.
+
+---
+
+**50-word excerpt:** "HMAS Brisbane, off Queensland's Sunshine Coast, is a premier artificial reef for intermediate divers (5-28m). Excellent visibility (10-20m) showcases massive groupers, turtles, rays, and schooling fish on this well-preserved wreck. Best dived May-October, it's accessible by boat, offering thrilling exploration for all levels amidst a thriving marine ecosystem and rich maritime history."
+
+**Related Dive Sites/Information:**
+*   [Flinders Reef - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#flinders-reef)
+*   [Mudjimba Island (Old Woman Island) - SDU Article (Placeholder URL)](https://github.com/timba2000/Prince_Andrew/blob/main/SDU_dive_sites.md#mudjimba-island-old-woman-island)
+*   [Sunshine Coast Dive Operators (External Link)](https://www.suncoastscuba.com.au/dive-sites)
