@@ -37,7 +37,7 @@
 - Continue systematic cross-check for remaining sites by querying `dive_sites.db` for uncorroborated entries.
 - Generate a comprehensive CSV output of all validated dive site data upon project completion.
 - **Article Word Count:** Each `ScubaDownUnder` article should be between 750-1000 words.
-- **Completed Articles:** Articles for American River Wharf, Ningaloo Reef, Exmouth Navy Jetty, Fish Rock Cave, and Montague Island have been drafted.
+- Save all article drafts to the GitHub repository at `https://github.com/timba2000/Prince_Andrew.git`.
 
 
 ## Active Project: viz - Compass Bearing Corroboration
