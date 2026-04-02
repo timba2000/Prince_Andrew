@@ -74,6 +74,7 @@
 
 **General Article Protocol:**
 - All completed dive site review content will be stored in the `dive_sites.db` database. The `SDU_dive_sites.md` file will no longer be used for article storage. Future dive site articles will be directly added to `dive_sites.db`.
+- When reporting on article completion, I will include the percentage of sites that now have dive site articles.
 
 ---
 This section will be updated as the project progresses. For more detail, consult project-specific memory logs if available.
