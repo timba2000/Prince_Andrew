@@ -18,65 +18,66 @@ def update_article_in_db(site_id, article_text):
         if conn:
             conn.close()
 
-# Article for Port Noarlunga Reef (ID 78)
-article_text_78 = """Port Noarlunga Reef: Adelaide's Underwater Wonderland for Beginners
+# Article for North West Solitary Island (ID 182)
+article_text_182 = """North West Solitary Island: A Vibrant Fringing Reef for Intermediate Explorers
 
-Just a stone's throw from the popular jetty, Port Noarlunga Reef in Adelaide, SA, stands as a premier underwater playground for beginner divers and snorkelers alike. This shallow, protected reef, ranging from 2 to 10 metres in depth, is renowned for its incredible biodiversity and fascinating swim-throughs. Easily accessible from the shore, it offers a welcoming and safe environment for those new to the underwater world, or for experienced divers seeking a relaxed and rich photographic opportunity. The reef is a vibrant tapestry of marine life, making it an ideal spot to witness the beauty of South Australia's temperate waters without venturing far offshore.
-
-The Essentials:
-*   Depth Range: An excellent beginner dive, ranging from a very shallow 2 metres to a maximum of 10 metres.
-*   Visibility: Visibility typically ranges from 6 to 10 metres. The best conditions for clear water are from October to March. However, similar to nearby coastal areas, visibility can be negatively impacted by moderate runoff from the Onkaparinga River and coastal development, heavy rainfall, river outflow, and strong south-westerly swells. Expect variable visibility (5-15m), often better in late summer and autumn. It can be quite poor after heavy winter rains. Prevailing south-westerly winds and swell can significantly reduce clarity by stirring up sediment.
-*   Water Temperature: Water temperatures are comfortable, ranging from 16°C in cooler months to a pleasant 22°C in summer.
-*   Current/Conditions: Generally calm and protected, though some mild surge can be present, particularly near the reef's edge or during stronger swells. Divers should also be aware of boat traffic when accessing from shore.
-*   Viz Implications: Heavy rainfall and strong south-westerly swells are the primary factors that can lead to reduced visibility due to runoff and sediment. Calm, dry periods are best for optimal conditions.
-
-Terrain & Navigation:
-Port Noarlunga Reef is a long, natural limestone reef running parallel to the shore. Its most defining features are the numerous channels and swim-throughs carved into the reef, creating an exciting labyrinth to explore. The reef is carpeted with a variety of algae, sponges, and invertebrate life, providing a rich visual tapestry. Navigation is easy due to the reef's linear nature and the clear presence of the jetty overhead, which serves as an excellent reference point.
-
-Marine Life Highlights:
-This reef is a biodiversity hotspot. Divers will frequently encounter schools of bream and various species of wrasse darting amongst the reef structures. Colourful seastars are abundant, clinging to the rock formations. Keep an eye out for octopus, cuttlefish, and shy dumpling squid. The reef is also a nursery for juvenile fish, and occasionally, you might spot larger predatory fish passing by. Macro enthusiasts will delight in the many nudibranchs and smaller invertebrates.
-
-Logistics & Facilities:
-Port Noarlunga Reef boasts exceptional accessibility, with entry directly from the shore via the jetty. This makes it a perfect spot for independent divers and groups. Facilities nearby include public toilets and ample parking, adding to its convenience. The best time to dive is between October and March when the water is warmer and conditions are generally more stable. Conservation is paramount here, and divers are encouraged to practice a "look but don't touch" policy to protect this precious ecosystem.
-
-Who Is It For?:
-This is an ideal site for Beginner divers and snorkelers. Its shallow depths, protected environment, and easy access make it perfect for introductory dives, training, and leisurely explorations.
-
-Pro-Tip:
-Explore the jetty pylons before heading out to the reef; they are often covered in interesting marine growth and provide shelter for unique macro life, offering a fantastic opportunity for photography even before reaching the main reef.
-
-75-word excerpt:
-Port Noarlunga Reef, off Adelaide (2-10m), is a beginner-friendly gem with rich biodiversity and swim-throughs. Best visibility (6-10m) is October-March, though runoff and south-westerly swells can reduce clarity. Accessible from shore, it teems with bream, wrasse, and seastars, offering a safe, vibrant underwater experience perfect for new divers and snorkelers."""
-
-# Article for North Haven Wall (ID 91) - already successfully updated in DB, but included for completeness if needed for future script modifications
-article_text_91 = """North Haven Wall: Adelaide's Thriving Artificial Reef for Intermediate Divers
-
-Nestled off the coast of Adelaide, the North Haven Wall is a remarkable artificial reef wall, beckoning intermediate divers to explore its depths. Resting between 5 to 14 metres, this submerged structure has blossomed into a bustling ecosystem, teeming with schooling fish and vibrant sponge growth. A testament to successful marine conservation efforts, the wall provides a rich and engaging dive experience, primarily accessible by boat. It's a sanctuary where nature and human ingenuity converge, offering a unique opportunity to witness the dynamic marine life thriving within its carefully constructed contours.
+Just off the coast of Arrawarra, New South Wales, lies the North West Solitary Island, a magnificent fringing reef that beckons intermediate divers. Resting at depths between 8 and 18 metres, this island boasts a thriving underwater ecosystem, characterised by dense fish schools and abundant soft corals. As part of the Solitary Islands Marine Park, it's a testament to pristine marine environments, offering a serene yet dynamic dive experience for those seeking encounters with large marine life and vibrant reef systems. Accessible primarily by boat, it promises an immersive journey into one of Australia’s most biologically diverse temperate-tropical transition zones.
 
 The Essentials:
-*   Depth Range: This intermediate dive generally ranges from 5 to 14 metres.
-*   Visibility: Visibility is quite variable, typically between 8 and 12 metres. The best conditions for clarity are usually from October to March, particularly during incoming tides and dry periods. However, significant runoff from the nearby marina and urban areas, heavy rainfall, strong northerly winds, and frequent boat traffic can drastically reduce visibility, sometimes to as little as 3-5 metres. Strong northerly winds are particularly detrimental as they can stir up sediment.
-*   Water Temperature: Expect water temperatures to fluctuate between a cool 16°C in winter and a more pleasant 22°C in summer.
-*   Current/Conditions: Divers should be prepared for moderate currents, especially on tidal movements, requiring good awareness and finning techniques.
-*   Viz Implications: Heavy rainfall, strong northerly winds, and boat traffic are key factors in reducing visibility. Planning dives during calm, dry periods and incoming tides will yield the best conditions.
+*   Depth Range: This intermediate dive spans depths from 8 to 18 metres, catering to a good range of exploration.
+*   Visibility: Consistently excellent year-round, typically ranging from 20 to 40 metres. However, divers may encounter seasonal thermoclines and plankton blooms during warmer months, which can slightly reduce clarity. Given its minimal coastal runoff from the natural island environment, visibility is largely influenced by strong oceanic currents, localised plankton blooms, and offshore weather systems. Calm conditions are generally best for uninhibited views.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 20°C to 26°C, making for pleasant diving conditions.
+*   Current/Conditions: Divers should anticipate moderate to strong oceanic currents, requiring good finning technique and careful dive planning. The site is generally exposed to ocean swells.
+*   Viz Implications: While generally superb, strong oceanic currents can bring in nutrient-rich waters that, at times, may foster plankton blooms, temporarily affecting visibility. Offshore weather systems, particularly during significant swells, can also introduce suspended particles.
 
 Terrain & Navigation:
-The North Haven Wall is a linear artificial structure, now heavily adorned with sponges, soft corals, and other sessile organisms. Its clear, defined shape makes navigation relatively straightforward, with divers often following its length. The wall provides numerous ledges and crevices, offering hiding spots for smaller creatures and an excellent backdrop for marine photography. While generally open, divers should maintain good buoyancy to avoid stirring up sediment from the bottom.
+The terrain around North West Solitary Island primarily consists of a fringing reef, where rocky outcrops give way to vibrant coral gardens and sandy channels. Navigation is relatively straightforward, following the reef's edge. Divers will find numerous gutters, ledges, and small caves to explore, providing ample hiding spots for marine life. The clear water typically allows for easy orientation, but paying attention to current direction is vital for a relaxed dive.
 
 Marine Life Highlights:
-The wall is a vibrant habitat, particularly known for its large schools of fish that often envelop divers. Expect to encounter various species of leatherjackets, gracefully navigating the structure. Rays are frequent visitors, gliding silently across the sandy patches adjacent to the wall. Keep an eye out for inquisitive squid, which can often be seen hovering or camouflaging themselves against the reef. The sponge growth itself provides micro-habitats for a plethora of smaller invertebrates.
+This site is a haven for an incredible variety of marine life. Divers can expect frequent encounters with graceful green and loggerhead turtles, often seen cruising along the reef. Large schools of vibrant reef fish, including dazzling blue groupers, patrol the coral formations. Various species of rays, from eagle rays to stingrays, can be spotted gliding over sandy patches. The soft corals themselves host an array of smaller invertebrates, adding intricate detail to the dive experience. Keep an eye out for wobbegong sharks tucked away under ledges.
 
 Logistics & Facilities:
-Access to the North Haven Wall is exclusively by boat, typically launched from nearby boat ramps. There are no on-site facilities directly at the dive site. The prime diving season is from October to March, offering warmer waters and generally more favourable conditions. Divers should always be aware of boat traffic in the area and display a dive flag. Conservation efforts focus on protecting this vital artificial reef and its inhabitants, encouraging responsible diving practices.
+Access to North West Solitary Island is exclusively by boat, typically arranged through dive operators in nearby Coffs Harbour or Arrawarra. There are no on-site facilities, so divers must be self-sufficient. The ideal time to dive is during spring and summer (September to March) when water temperatures are at their warmest and marine activity is at its peak. As part of a protected marine park, strict conservation guidelines apply; divers are expected to observe marine life responsibly without touching or disturbing the delicate ecosystem.
 
 Who Is It For?:
-This dive is perfectly suited for Intermediate divers who are comfortable with boat entries/exits, navigating in potentially variable visibility, and managing moderate currents. It offers an excellent opportunity to progress skills in a stimulating environment.
+This dive is perfectly suited for Intermediate divers who are comfortable with boat entries/exits, capable of handling moderate to strong currents, and adept at navigating reef systems. It's an excellent site for those looking to expand their experience in a pristine and dynamic environment.
 
 Pro-Tip:
-Consider carrying a slate and pencil to note down the different species of sponges and corals you encounter on the North Haven Wall – it’s a surprisingly diverse and beautiful botanical garden underwater!
+Due to the potential for stronger currents, always carry a safety sausage (DSMB) to ensure easy surface detection by your dive boat, especially if drifting away from the main dive group.
 
 75-word excerpt:
-The North Haven Wall, an intermediate boat dive off Adelaide, is a vibrant artificial reef bustling with schooling fish and sponges. Visibility (8-12m) is best October-March, especially during incoming tides, but is affected by runoff, heavy rain, and northerly winds. It offers an engaging experience for divers comfortable with currents, exploring its unique marine landscape."""
+North West Solitary Island, off Arrawarra, NSW, is an intermediate boat dive (8-18m) featuring a vibrant fringing reef with dense fish schools and soft corals. Expect excellent visibility (20-40m) year-round, influenced by oceanic currents and plankton blooms. It's a haven for turtles, blue groupers, and rays, offering a pristine and dynamic experience within the Solitary Islands Marine Park for capable divers."""
 
-# Execute the update for Port Noarlunga Reef (ID 78)
-update_article_in_db(78, article_text_78)
+# Article for Spot X Reef (ID 189)
+article_text_189 = """Spot X Reef: Arrawarra's Hidden Gem of Sand and Coral
+
+Hidden just off the natural coastline near Arrawarra, New South Wales, lies Spot X Reef, a captivating patch reef that offers an enticing dive for intermediate divers. Ranging in depth from 5 to 15 metres, this site is a mosaic of sandy gullies intertwined with healthy coral cover, creating a dynamic and visually engaging underwater landscape. Accessible by both boat and shore, it provides a versatile diving experience, revealing a rich tapestry of marine life against a backdrop of unique geological formations. Spot X Reef is a local favourite, known for its tranquil beauty and consistent encounters with fascinating temperate and tropical species.
+
+The Essentials:
+*   Depth Range: This intermediate dive is relatively shallow, ranging from 5 to 15 metres, making it accessible for extended bottom times.
+*   Visibility: Visibility is variable, typically ranging from 15 to 30 metres. It is influenced by seasonal currents and localised plankton blooms. Optimal visibility often occurs during calmer weather conditions and periods of stable oceanic currents. Being located near a natural coastline with minimal runoff helps maintain generally good clarity. Strong oceanic currents and offshore weather systems are the primary factors that can lead to fluctuations.
+*   Water Temperature: Water temperatures are pleasant, ranging from 19°C to 25°C, ensuring comfortable diving throughout much of the year, particularly during spring and summer.
+*   Current/Conditions: Divers should be prepared for moderate currents, especially on stronger tidal movements. The site is somewhat exposed to ocean swells, so calmer days are preferable for a more relaxed dive.
+*   Viz Implications: While strong oceanic currents can sometimes introduce plankton-rich waters, the minimal coastal runoff generally ensures good clarity. Offshore weather systems, particularly after heavy storms, can briefly reduce visibility.
+
+Terrain & Navigation:
+Spot X Reef's terrain is characterised by undulating patch reefs interspersed with wide, sandy gullies. The coral cover varies from extensive hard and soft corals on the reef patches to barren sand in the channels. Navigation is generally easy, following the reef edges or using the sandy channels as pathways. There are plenty of small bommies and overhangs to explore, providing excellent opportunities for finding hidden marine life. The clear water typically allows for easy orientation, but paying attention to current direction is vital for a relaxed dive.
+
+Marine Life Highlights:
+Spot X Reef is a delightful site for marine life enthusiasts. Divers frequently encounter graceful stingrays, often found resting in the sandy gullies or cruising slowly over the reef. Various species of wrasse add splashes of colour to the coral gardens, while macro photographers will revel in the diversity of nudibranchs meticulously crawling across the reef. Keep an eye out for schooling fish that can be seen moving between the reef patches, and inquisitive octopus camouflaged within the cracks and crevices.
+
+Logistics & Facilities:
+Spot X Reef offers the convenience of both boat and shore access, making it a flexible choice for divers. Shore access is typically via a sandy beach, while boat access can be arranged through local operators. There are no on-site facilities, so divers should be prepared. The best time to dive is during spring and summer (September to March) when the water is warmest and marine activity is often at its peak. Conservation is important here; divers are reminded to respect the delicate coral ecosystems and avoid touching marine life.
+
+Who Is It For?:
+This dive is suitable for Intermediate divers comfortable with both shore and boat entries, capable of managing moderate currents, and keen to explore a diverse reef environment. It's a fantastic site for photography and those who enjoy a relaxed yet rewarding dive.
+
+Pro-Tip:
+When exploring the sandy gullies at Spot X Reef, move slowly and keep an eye on the sand itself – you might spot camouflaged flatheads, rays, or even unique pipefish nestled amongst the seagrass beds.
+
+75-word excerpt:
+Spot X Reef, near Arrawarra, NSW, is an intermediate patch reef dive (5-15m) featuring sandy gullies and coral. Visibility (15-30m) is variable, influenced by seasonal currents and plankton. Accessible by boat or shore, it's home to stingrays, wrasse, and nudibranchs, offering a captivating and versatile dive for those exploring a unique temperate-tropical ecosystem."""
+
+# Execute the updates
+update_article_in_db(182, article_text_182)
+update_article_in_db(189, article_text_189)
