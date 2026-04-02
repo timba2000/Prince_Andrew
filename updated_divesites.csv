@@ -1,8 +1,8 @@
 Site ID,Site Name,Region,Skill Level,Has Article,Article Title,Article Slug,Article Published,Article URL
 92,Glenelg Dredge Wreck,"Adelaide, SA",Advanced,Yes,,,,
 93,Noarlunga Tyre Reef,"Adelaide, SA",Intermediate,Yes,,,,
-91,North Haven Wall,"Adelaide, SA",Intermediate,No,,,,
-78,Port Noarlunga Reef,"Adelaide, SA",Beginner,No,,,,
+91,North Haven Wall,"Adelaide, SA",Intermediate,Yes,,,,
+78,Port Noarlunga Reef,"Adelaide, SA",Beginner,Yes,,,,
 182,North West Solitary Island,"Arrawarra, NSW",Intermediate,No,,,,
 189,Spot X Reef,"Arrawarra, NSW",Intermediate,No,,,,
 46,Mount Hypipamee Crater,"Atherton Tablelands, QLD",Advanced,No,,,,
