@@ -59,7 +59,7 @@
    - **Format:** All completed Scuba Down Under dive site articles will have their full content stored directly in the `dive_sites.db` database under the `article_full_text` column. Individual `.md` files for completed dive site reviews will no longer be maintained.
      - **[Dive Site Name]: [Catchy Subtitle Describing Its Essence]** (This format will be used internally when generating content for the `article_full_text` column).
      - Introductory paragraph (approx 100-150 words)
-     - **The Essentials:** Depth Range, Visibility, Water Temperature, Current/Conditions, Viz Implications.
+     - **The Essentials:** Depth Range, Visibility (including best conditions such as wind/swell directions, seasonal variations, and other triggers derived from `Viz_Triggers` and `Viz_Seasonal` database columns), Water Temperature, Current/Conditions, Viz Implications.
      - **Terrain & Navigation:** Description of underwater topography and key features.
      - **Marine Life Highlights:** Array of marine encounters.
      - **Logistics & Facilities:** Accessibility, dive operator services, best time to dive, conservation.
