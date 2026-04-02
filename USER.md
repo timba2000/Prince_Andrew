@@ -9,7 +9,7 @@
 - **Critical Requirements:**
   - **Autonomy:** Do all essential setup/maintenance tasks autonomously. Ask for approval only on high-risk/irreversible actions.
   - **Reliability:** Must be backed up daily to prevent data loss.
-  - **Platform:** Uses Telegram (@timothy_J_barnes) for interaction, including voice notes.
+  - **Platform:** Uses Telegram (@timothy_J_barnes) for interaction, including voice notes. (Chat ID: telegram:7962515298)
 
 ## Context
 
