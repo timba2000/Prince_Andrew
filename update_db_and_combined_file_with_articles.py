@@ -40,66 +40,35 @@ def update_article_in_db_and_combined_file(site_id, site_name, article_text, com
         if conn:
             conn.close()
 
-# Article for Julian Rocks – The Nursery (ID 165)
-article_text_165 = """# Julian Rocks – The Nursery: A Protected Haven for Beginner Divers
+# Article for Shark Point (ID 48)
+article_text_48 = """# Shark Point, Clovelly: An Advanced Deep Reef Adventure
 
-Within the breathtaking expanse of Julian Rocks Marine Sanctuary, just off Byron Bay, New South Wales, lies a truly special site known as The Nursery. This sheltered haven, with depths ranging from a shallow 5 metres to 12 metres, is ideally suited for beginner divers, offering a serene and protected environment where marine life thrives. It’s a remarkable spot to encounter graceful turtles, the fascinating wobbegong sharks, and various rays in a calm setting. Accessible by boat, The Nursery provides a gentle introduction to the wonders of Julian Rocks, showcasing a rich tapestry of biodiversity in its sheltered waters, all while adhering to strict marine park regulations.
-
-The Essentials:
-*   Depth Range: A beginner-friendly depth range from 5 metres down to 12 metres, making it ideal for extended bottom times and relaxed exploration.
-*   Visibility: Generally excellent, typically ranging from 10 to 15 metres. As part of Julian Rocks Marine Sanctuary, visibility can range from 15-30m during calm conditions, but can be reduced after heavy rainfall, during strong currents, or in the presence of large swells. Optimal clarity is often found from October to April when conditions are generally calmer. Minimal coastal runoff from the nearby national park helps maintain good water quality. Strong currents can bring in plankton or stirred sediment.
-*   Water Temperature: Water temperatures are comfortably warm, ranging from 20°C to 26°C, making for pleasant diving conditions throughout the prime season.
-*   Current/Conditions: This site is specifically noted for being sheltered, making it suitable for beginners. However, divers should still be mindful of boat traffic within the marine park. While generally calm, strong currents and large swells affecting other parts of Julian Rocks can have some influence.
-*   Viz Implications: Heavy rainfall, strong currents, and large swells are the primary factors affecting visibility. Despite being sheltered, local conditions can still be influenced by broader oceanic dynamics. Calm, dry periods are ideal for the best experience.
-
-Terrain & Navigation:
-The Nursery features a varied terrain of rocky bommies and reef patches, interspersed with sandy channels. Navigation is straightforward due to the shallow depths and the sheltered nature of the site, allowing divers to leisurely explore the various formations. The reef structures are adorned with soft corals and sponges, creating numerous hiding spots for marine life. The clear water, when present, aids significantly in orientation and allows for easy observation.
-
-Marine Life Highlights:
-As its name suggests, The Nursery is a fantastic spot to observe a wide array of marine life. Divers frequently encounter green and loggerhead turtles, often resting or feeding. Wobbegong sharks, masters of camouflage, can be spotted nestled under ledges. Various species of rays gracefully cruise the sandy areas. The site is a haven for schooling fish, and a diverse range of nudibranchs and smaller invertebrates can be found meticulously crawling across the reef. It’s an ideal location for macro photography.
-
-Logistics & Facilities:
-Access to The Nursery is exclusively by boat, typically arranged through authorised dive operators in Byron Bay. There are no on-site facilities directly at the dive site. The optimal diving season is between October and April for warmer waters and peak marine activity. As a protected marine park, strict conservation rules apply; divers must adhere to all regulations, including no-touch policies and responsible interaction with marine life, especially in this sensitive nursery habitat.
-
-Who Is It For?:
-This site is perfectly suited for **Beginner** divers and those seeking a relaxed, abundant marine encounter. Its sheltered conditions and accessible depths make it ideal for introductory dives, refresher courses, and underwater photography where calm conditions are preferred.
-
-Pro-Tip:
-Spend time patiently observing the sandy patches around the reef structures in The Nursery. Many camouflaged creatures, like flatheads and various rays, are adept at blending in and reveal themselves to the attentive diver.
-
-75-word excerpt:
-Julian Rocks – The Nursery, a beginner-friendly boat dive in Byron Bay (5-12m), is a sheltered haven within Julian Rocks Marine Sanctuary. Visibility (10-15m) is generally excellent but can be reduced by rainfall or strong currents. It's teeming with turtles, wobbegongs, and rays, offering a serene introduction to the sanctuary's rich biodiversity under strict marine park rules. Ideal for relaxed marine encounters."""
-
-# Article for Clovelly Pool (ID 49)
-article_text_49 = """# Clovelly Pool: Sydney's Accessible Marine Sanctuary for Beginners
-
-Nestled along Sydney's eastern coastline, Clovelly Pool in Clovelly, New South Wales, offers an unparalleled and highly accessible dive experience for beginner divers and snorkelers. This naturally formed, calm, and sheltered ocean pool, with depths ranging from 2 to 5 metres, is a local treasure, renowned for its resident blue gropers and abundant schooling fish. Its year-round accessibility, coupled with convenient beach amenities, makes it a perfect entry point for those new to the underwater world or seeking a relaxed and richly rewarding experience without venturing far offshore. Clovelly Pool is a vibrant marine sanctuary, a cherished spot where urban convenience meets astonishing biodiversity.
+For the experienced and adventurous diver, Shark Point in Clovelly, New South Wales, offers a captivating journey into a deep reef system. Resting at depths between 10 to 25 metres, this site is celebrated for its impressive large boulders, dramatic drop-offs, and exceptional marine life diversity, including the occasional shark sighting that gives the point its evocative name. Its challenging conditions, including surge and strong currents, make it strictly an advanced dive. Primarily accessible via a shore entry that demands careful planning, Shark Point promises an exhilarating exploration into Sydney's deeper, more untamed underwater landscapes, providing a stark contrast to its calmer neighbours.
 
 The Essentials:
-*   Depth Range: An ideal beginner depth range of 2 to 5 metres, perfect for building confidence and observing marine life up close.
-*   Visibility: Generally good, ranging from 5 to 8 metres, extending to 15 metres on exceptionally clear days. Visibility is best year-round, particularly during calm, dry periods. However, divers should be aware of urban stormwater runoff from surrounding residential areas, which, after heavy rainfall, can significantly reduce clarity. Strong easterly swells can also stir up sediment, and high bather numbers can sometimes affect water clarity. Optimal conditions are found on calm days with minimal swell.
-*   Water Temperature: Water temperatures are comfortable, ranging from 17°C in cooler months to a pleasant 23°C in summer, supporting year-round diving.
-*   Current/Conditions: The pool area is exceptionally calm and sheltered, making it very safe for beginners. There is limited depth, but minimal currents or surge, making it a truly relaxing experience. While shielded from open ocean conditions, very strong easterly swells might still cause some agitation at the entrance.
-*   Viz Implications: Heavy rainfall leading to urban stormwater runoff is the primary factor that can significantly reduce visibility. Strong easterly swells can also decrease clarity by stirring up sand. Avoiding diving after heavy rain or during very rough ocean conditions will ensure the best visibility.
+*   Depth Range: An advanced dive with depths ranging from 10 to 25 metres, suitable for divers comfortable with deeper profiles.
+*   Visibility: Variable, but can be very good, especially with low swell (<1.2m). Optimal visibility is generally found between September and April, though it is significantly impacted by rain events and high swells. Strong easterly swells and heavy rainfall can reduce clarity considerably. Calm conditions, particularly with light offshore winds, are crucial for the best experience. Navigational guidance advises against going below 270 degrees to avoid Gordons Bay and warns against heading too far north into False Bay.
+*   Water Temperature: Water temperatures range from 17°C in cooler months to a pleasant 22°C in summer.
+*   Current/Conditions: Divers must be prepared for strong currents and significant surge, particularly on incoming tides and during larger ocean swells. This is an exposed site that demands excellent finning skills and vigilant situational awareness.
+*   Viz Implications: Heavy rainfall and high easterly swells are the primary factors in reducing visibility. Strong currents also play a role by keeping sediment in suspension. Planning dives during periods of calm, dry weather is essential.
 
 Terrain & Navigation:
-Clovelly Pool features a sandy bottom transitioning to rocky edges and a concrete promenade that encloses the area. The natural rock formations within the pool provide ample shelter for marine life. Navigation is incredibly easy due to the enclosed nature of the site and its shallow depths. Divers can leisurely explore the entire area, following the rock formations or simply observing the marine life in the sandy patches. The clear water, when present, allows for excellent visual navigation and observation.
+Shark Point is characterized by a rugged and dramatic underwater topography. It features imposing large boulders, steep drop-offs, and deep gutters that create a complex yet fascinating environment. Navigation requires careful planning due to the potential for strong currents and variable visibility. Divers will need to follow distinct reef contours and be mindful of their depth and ascent rates. The deep reef structure provides abundant hiding spots and intricate swim-throughs for those with excellent buoyancy control and experience in more challenging environments.
 
 Marine Life Highlights:
-This accessible sanctuary is a hotspot for fascinating marine encounters. Clovelly Pool is most famous for its resident blue gropers, often seen curiously interacting with divers. Divers will also encounter schools of bream and various species of wrasse darting amongst the rocks and over the sandy bottom. Keep an eye out for octopus, cuttlefish, and an array of smaller invertebrates. The sheltered conditions make it an ideal environment for observing juvenile fish and macro life in detail.
+As its name implies, Shark Point offers a chance to encounter various shark species, including the occasional wobbegong or Port Jackson shark, often found resting under ledges. Large, curious blue gropers are common, and divers will also find an exceptional diversity of nudibranchs in a kaleidoscope of colours. Schools of reef fish, including trevally and kingfish, patrol the deeper sections. The site's unique topography and nutrient-rich waters attract a wide array of invertebrates, making it a macro photographer's delight.
 
 Logistics & Facilities:
-Clovelly Pool offers unparalleled accessibility with easy entry from the beach/promenade area. Excellent facilities are available, including change rooms, toilets, and ample (though often busy) parking. The site is diveable year-round, with consistently calm conditions making it a reliable choice. Conservation is important here, and divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the natural and artificial structures.
+Access to Shark Point is via a shore entry from Clovelly, which can be challenging due to the rocky entry and potential for surge. Parking is limited, particularly on weekends. The optimal diving season is from September to April for warmer waters and generally better conditions, though success hinges on weather and swell. There are no on-site dive facilities, so divers must be self-sufficient and well-prepared. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the fragile deep reef ecosystem and its inhabitants.
 
 Who Is It For?:
-This is an ideal site for **Beginner** divers and snorkelers, as well as families and those seeking a relaxing and safe marine experience. Its shallow, calm waters and abundant, friendly marine life make it perfect for introductory dives, training, and peaceful underwater photography.
+This is an **Advanced** dive site, suitable only for highly experienced divers who are comfortable with deep profiles, strong currents, significant surge, and navigating complex reef structures in potentially variable visibility. Excellent physical fitness and advanced diving certifications are highly recommended.
 
 Pro-Tip:
-To truly appreciate the marine life, particularly the blue gropers, try to dive during weekdays or early mornings to avoid peak crowds. Moving slowly and observing patiently will reward you with closer encounters with the pool's fascinating residents.
+Due to the demanding conditions, always dive Shark Point with a buddy who is equally experienced, and consider using a robust surface marker buoy (SMB) to ensure easy surface detection by your shore support or boat crew. Plan your dive to coincide with periods of lower swell and incoming tide for potentially better visibility.
 
 75-word excerpt:
-Clovelly Pool, Sydney (2-5m), is a beginner-friendly, sheltered ocean pool renowned for resident blue gropers and schooling fish. Visibility (5-15m) is best year-round in calm, dry periods but affected by urban runoff and easterly swells. Easily accessible with amenities, it offers a safe, vibrant marine sanctuary perfect for introductory dives, photography, and relaxed underwater exploration near Sydney's coastline."""
+Shark Point, Clovelly (10-25m), is an advanced shore dive with large boulders, drop-offs, and diverse marine life, including sharks and blue gropers. Visibility is variable (best in low swell, impacted by rain/high swell) with strong currents. Optimal September-April, it requires careful planning and experience due to demanding conditions. A thrilling Sydney deep reef adventure for proficient divers seeking challenging exploration and rich biodiversity."""
 
-# Execute the updates for both IDs
-update_article_in_db_and_combined_file(165, "Julian Rocks – The Nursery", article_text_165)
-update_article_in_db_and_combined_file(49, "Clovelly Pool", article_text_49)
+# Execute the update for ID 48
+update_article_in_db_and_combined_file(48, "Shark Point", article_text_48)

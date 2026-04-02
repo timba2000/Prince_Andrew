@@ -811,3 +811,34 @@ To truly appreciate the marine life, particularly the blue gropers, try to dive 
 
 75-word excerpt:
 Clovelly Pool, Sydney (2-5m), is a beginner-friendly, sheltered ocean pool renowned for resident blue gropers and schooling fish. Visibility (5-15m) is best year-round in calm, dry periods but affected by urban runoff and easterly swells. Easily accessible with amenities, it offers a safe, vibrant marine sanctuary perfect for introductory dives, photography, and relaxed underwater exploration near Sydney's coastline.
+
+---
+
+# Shark Point, Clovelly: An Advanced Deep Reef Adventure
+
+For the experienced and adventurous diver, Shark Point in Clovelly, New South Wales, offers a captivating journey into a deep reef system. Resting at depths between 10 to 25 metres, this site is celebrated for its impressive large boulders, dramatic drop-offs, and exceptional marine life diversity, including the occasional shark sighting that gives the point its evocative name. Its challenging conditions, including surge and strong currents, make it strictly an advanced dive. Primarily accessible via a shore entry that demands careful planning, Shark Point promises an exhilarating exploration into Sydney's deeper, more untamed underwater landscapes, providing a stark contrast to its calmer neighbours.
+
+The Essentials:
+*   Depth Range: An advanced dive with depths ranging from 10 to 25 metres, suitable for divers comfortable with deeper profiles.
+*   Visibility: Variable, but can be very good, especially with low swell (<1.2m). Optimal visibility is generally found between September and April, though it is significantly impacted by rain events and high swells. Strong easterly swells and heavy rainfall can reduce clarity considerably. Calm conditions, particularly with light offshore winds, are crucial for the best experience. Navigational guidance advises against going below 270 degrees to avoid Gordons Bay and warns against heading too far north into False Bay.
+*   Water Temperature: Water temperatures range from 17°C in cooler months to a pleasant 22°C in summer.
+*   Current/Conditions: Divers must be prepared for strong currents and significant surge, particularly on incoming tides and during larger ocean swells. This is an exposed site that demands excellent finning skills and vigilant situational awareness.
+*   Viz Implications: Heavy rainfall and high easterly swells are the primary factors in reducing visibility. Strong currents also play a role by keeping sediment in suspension. Planning dives during periods of calm, dry weather is essential.
+
+Terrain & Navigation:
+Shark Point is characterized by a rugged and dramatic underwater topography. It features imposing large boulders, steep drop-offs, and deep gutters that create a complex yet fascinating environment. Navigation requires careful planning due to the potential for strong currents and variable visibility. Divers will need to follow distinct reef contours and be mindful of their depth and ascent rates. The deep reef structure provides abundant hiding spots and intricate swim-throughs for those with excellent buoyancy control and experience in more challenging environments.
+
+Marine Life Highlights:
+As its name implies, Shark Point offers a chance to encounter various shark species, including the occasional wobbegong or Port Jackson shark, often found resting under ledges. Large, curious blue gropers are common, and divers will also find an exceptional diversity of nudibranchs in a kaleidoscope of colours. Schools of reef fish, including trevally and kingfish, patrol the deeper sections. The site's unique topography and nutrient-rich waters attract a wide array of invertebrates, making it a macro photographer's delight.
+
+Logistics & Facilities:
+Access to Shark Point is via a shore entry from Clovelly, which can be challenging due to the rocky entry and potential for surge. Parking is limited, particularly on weekends. The optimal diving season is from September to April for warmer waters and generally better conditions, though success hinges on weather and swell. There are no on-site dive facilities, so divers must be self-sufficient and well-prepared. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the fragile deep reef ecosystem and its inhabitants.
+
+Who Is It For?:
+This is an **Advanced** dive site, suitable only for highly experienced divers who are comfortable with deep profiles, strong currents, significant surge, and navigating complex reef structures in potentially variable visibility. Excellent physical fitness and advanced diving certifications are highly recommended.
+
+Pro-Tip:
+Due to the demanding conditions, always dive Shark Point with a buddy who is equally experienced, and consider using a robust surface marker buoy (SMB) to ensure easy surface detection by your shore support or boat crew. Plan your dive to coincide with periods of lower swell and incoming tide for potentially better visibility.
+
+75-word excerpt:
+Shark Point, Clovelly (10-25m), is an advanced shore dive with large boulders, drop-offs, and diverse marine life, including sharks and blue gropers. Visibility is variable (best in low swell, impacted by rain/high swell) with strong currents. Optimal September-April, it requires careful planning and experience due to demanding conditions. A thrilling Sydney deep reef adventure for proficient divers seeking challenging exploration and rich biodiversity.
