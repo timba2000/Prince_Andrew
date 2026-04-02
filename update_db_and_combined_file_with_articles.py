@@ -40,66 +40,66 @@ def update_article_in_db_and_combined_file(site_id, site_name, article_text, com
         if conn:
             conn.close()
 
-# Article for Julian Rocks – Cod Hole (ID 166)
-article_text_166 = """# Julian Rocks – Cod Hole: A Swim-Through Sanctuary for Intermediate Divers
+# Article for Julian Rocks – The Nursery (ID 165)
+article_text_165 = """# Julian Rocks – The Nursery: A Protected Haven for Beginner Divers
 
-Within the renowned Julian Rocks Marine Sanctuary off Byron Bay, New South Wales, lies the exhilarating Cod Hole—a must-visit swim-through for intermediate divers. Descending to depths between 10 and 22 metres, this specific site is celebrated for its unique geological formation and the impressive congregation of marine life it attracts, particularly large cod and pelagic species. The thrill of navigating the swim-through, combined with the promise of encountering diverse aquatic residents, makes Cod Hole a highlight of any Julian Rocks dive trip. Accessible by boat, it offers a focused and thrilling experience, showcasing a microcosm of the sanctuary's vibrant biodiversity.
-
-The Essentials:
-*   Depth Range: This intermediate dive takes you from 10 metres down to 22 metres, offering ample opportunity for exploration within the swim-through and surrounding areas.
-*   Visibility: Renowned for its "Crystal Clear" waters. While Julian Rocks generally boasts excellent visibility (15-30m), Cod Hole often exceeds expectations. Visibility can experience some reduction from strong currents, heavy rainfall, and large swells. The site's specific conditions can be influenced by currents pushing through the swim-through, but generally, clear oceanic water prevails. Optimal conditions are almost always accessible, with large schools of fish often present in winter.
-*   Water Temperature: Water temperatures are comfortably warm, ranging from 20°C to 26°C, making for pleasant diving year-round.
-*   Current/Conditions: Divers can expect moderate to strong currents, especially on the northern side of the swim-through. Good finning skills and awareness of current direction are crucial. The site is part of the larger Julian Rocks system, exposed to ocean swells, but the swim-through offers a unique experience with specific current patterns.
-*   Viz Implications: While often exceptional, strong currents can occasionally bring in nutrient-rich waters with plankton, or stirred sediment, temporarily affecting clarity. However, the inherent cleanliness of this oceanic site means significant impacts are less frequent.
-
-Terrain & Navigation:
-Cod Hole's primary feature is a spectacular swim-through, a natural tunnel carved into the volcanic rock. Navigation involves carefully entering and exiting this passage, which is typically wide enough for divers. The surrounding terrain includes rocky reefs and sandy patches where various creatures seek shelter. Good buoyancy control is essential to navigate the swim-through gracefully and avoid disturbing the delicate marine life within. The clear water, when present, aids significantly in navigation.
-
-Marine Life Highlights:
-As its name suggests, Cod Hole is famous for its large potato cod, which often reside within or near the swim-through, providing incredible photographic opportunities. Divers will also encounter impressive schools of snapper, various species of colourful reef fish, and majestic eagle rays gliding by the entrance. Keep an eye out for wobbegong sharks tucked under ledges, and a variety of smaller invertebrates clinging to the walls of the swim-through. The crystal-clear conditions often enhance these encounters.
-
-Logistics & Facilities:
-Access to Cod Hole is exclusively by boat, typically arranged through dive operators in Byron Bay. There are no on-site facilities directly at the dive site. The prime diving season is from October to April for warmer waters and peak marine activity. As part of a protected marine park, strict conservation guidelines apply; divers are expected to observe marine life responsibly and practice a "look but don't touch" policy, especially within the confines of the swim-through.
-
-Who Is It For?:
-This is an excellent site for **Intermediate** divers who are comfortable with swim-throughs, capable of handling moderate to strong currents, and adept at navigating reef systems. It offers a thrilling and rewarding experience for those seeking unique geological features and abundant marine encounters.
-
-Pro-Tip:
-Always check your gauge and remaining air pressure before entering the swim-through to ensure you have ample air to navigate through it safely and enjoy the marine life within. A well-maintained dive light will also illuminate the darker corners!
-
-75-word excerpt:
-Julian Rocks – Cod Hole, an intermediate swim-through dive in Byron Bay (10-22m), boasts "Crystal Clear" waters and large cod and pelagic species. Expect moderate to strong currents, with visibility potentially impacted by heavy rainfall or swells. Accessible by boat, it offers a thrilling geological feature and abundant marine life for divers comfortable with currents and swim-throughs, a highlight of Julian Rocks Marine Sanctuary."""
-
-# Article for Julian Rocks – Hugo's Trench (ID 197)
-article_text_197 = """# Julian Rocks – Hugo's Trench: A Dramatic Passage for Intermediate Divers
-
-Another captivating jewel within Byron Bay's Julian Rocks Marine Sanctuary, Hugo's Trench offers an exhilarating and dramatic dive experience for intermediate divers. This narrow, distinctive trench, ranging in depth from 10 to 22 metres, is celebrated for its unique geological structure and the impressive encounters with reef sharks, rays, and groupers that frequent its depths. The trench's strong visibility and its reputation as a haven for larger marine life make it a thrilling and memorable dive. Accessible by boat, it promises an intimate glimpse into the powerful oceanic forces that shaped Julian Rocks and the resilient creatures that thrive within.
+Within the breathtaking expanse of Julian Rocks Marine Sanctuary, just off Byron Bay, New South Wales, lies a truly special site known as The Nursery. This sheltered haven, with depths ranging from a shallow 5 metres to 12 metres, is ideally suited for beginner divers, offering a serene and protected environment where marine life thrives. It’s a remarkable spot to encounter graceful turtles, the fascinating wobbegong sharks, and various rays in a calm setting. Accessible by boat, The Nursery provides a gentle introduction to the wonders of Julian Rocks, showcasing a rich tapestry of biodiversity in its sheltered waters, all while adhering to strict marine park regulations.
 
 The Essentials:
-*   Depth Range: This intermediate dive explores depths from 10 metres to 22 metres, focusing on the trench and its immediate surroundings.
-*   Visibility: Visibility typically ranges from 10 to 18 metres, known for its "strong visibility" on good days. Optimal clarity is generally experienced during spring and summer, particularly when conditions are calm and dry. However, visibility can be influenced by strong currents, large swells impacting the trench, and heavy rainfall. While generally excellent (15-30m for Julian Rocks as a whole), specific conditions within the trench can vary due to localised water movement. Strong currents can bring in plankton or stir up sediment.
-*   Water Temperature: Water temperatures are comfortably warm, ranging from 20°C to 26°C, supporting vibrant marine activity.
-*   Current/Conditions: Divers should be prepared for strong currents that can sweep through the narrow trench. Good finning technique and careful dive planning are essential. The site is exposed to ocean swells, and larger swells can create significant surge within the trench.
-*   Viz Implications: Heavy rainfall and large swells are the primary factors that can reduce visibility by introducing sediment or creating turbid conditions. Strong currents can also influence clarity by keeping particles in suspension. Calm weather with minimal swell is ideal for the best visibility within the trench.
+*   Depth Range: A beginner-friendly depth range from 5 metres down to 12 metres, making it ideal for extended bottom times and relaxed exploration.
+*   Visibility: Generally excellent, typically ranging from 10 to 15 metres. As part of Julian Rocks Marine Sanctuary, visibility can range from 15-30m during calm conditions, but can be reduced after heavy rainfall, during strong currents, or in the presence of large swells. Optimal clarity is often found from October to April when conditions are generally calmer. Minimal coastal runoff from the nearby national park helps maintain good water quality. Strong currents can bring in plankton or stirred sediment.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 20°C to 26°C, making for pleasant diving conditions throughout the prime season.
+*   Current/Conditions: This site is specifically noted for being sheltered, making it suitable for beginners. However, divers should still be mindful of boat traffic within the marine park. While generally calm, strong currents and large swells affecting other parts of Julian Rocks can have some influence.
+*   Viz Implications: Heavy rainfall, strong currents, and large swells are the primary factors affecting visibility. Despite being sheltered, local conditions can still be influenced by broader oceanic dynamics. Calm, dry periods are ideal for the best experience.
 
 Terrain & Navigation:
-Hugo's Trench is a dramatic, narrow geological feature, a deep cut in the reef. Navigation involves carefully following the trench's contours, being mindful of its enclosed nature and the potential for strong currents. The walls of the trench are adorned with a variety of invertebrate life, while the bottom is often sandy. Good buoyancy control is paramount to avoid contact with the trench walls and to safely observe the marine life. The clear water, when present, allows for excellent visual navigation.
+The Nursery features a varied terrain of rocky bommies and reef patches, interspersed with sandy channels. Navigation is straightforward due to the shallow depths and the sheltered nature of the site, allowing divers to leisurely explore the various formations. The reef structures are adorned with soft corals and sponges, creating numerous hiding spots for marine life. The clear water, when present, aids significantly in orientation and allows for easy observation.
 
 Marine Life Highlights:
-Hugo's Trench is a renowned spot for encounters with impressive marine predators. Divers frequently spot various species of reef sharks, including wobbegongs and, occasionally, grey nurse sharks, resting or patrolling the trench. Majestic rays, such as eagle rays, can be seen gliding through the passage. Large groupers often take shelter within its deeper sections. The narrow confines of the trench provide a unique vantage point for observing these larger species in a more intimate setting.
+As its name suggests, The Nursery is a fantastic spot to observe a wide array of marine life. Divers frequently encounter green and loggerhead turtles, often resting or feeding. Wobbegong sharks, masters of camouflage, can be spotted nestled under ledges. Various species of rays gracefully cruise the sandy areas. The site is a haven for schooling fish, and a diverse range of nudibranchs and smaller invertebrates can be found meticulously crawling across the reef. It’s an ideal location for macro photography.
 
 Logistics & Facilities:
-Access to Hugo's Trench is exclusively by boat, typically organised through dive operators in Byron Bay. There are no on-site facilities directly at the dive site. The optimal diving season is during spring and summer (September to March) for warmer waters and peak marine encounters. As part of a protected marine park, strict conservation guidelines apply; divers are expected to observe marine life responsibly and avoid disturbing the delicate trench ecosystem.
+Access to The Nursery is exclusively by boat, typically arranged through authorised dive operators in Byron Bay. There are no on-site facilities directly at the dive site. The optimal diving season is between October and April for warmer waters and peak marine activity. As a protected marine park, strict conservation rules apply; divers must adhere to all regulations, including no-touch policies and responsible interaction with marine life, especially in this sensitive nursery habitat.
 
 Who Is It For?:
-This is an excellent site for **Intermediate** divers who are comfortable with navigating narrow passages, capable of handling strong currents, and experienced in observing larger marine life. It offers a thrilling and unique experience for those seeking a more dramatic and challenging dive within Julian Rocks.
+This site is perfectly suited for **Beginner** divers and those seeking a relaxed, abundant marine encounter. Its sheltered conditions and accessible depths make it ideal for introductory dives, refresher courses, and underwater photography where calm conditions are preferred.
 
 Pro-Tip:
-When diving Hugo's Trench, try to time your dive during periods of slack tide to minimise the impact of strong currents, allowing for a more relaxed and extended exploration of this fascinating geological feature. Always keep an eye on your dive guide and maintain close proximity to your buddy.
+Spend time patiently observing the sandy patches around the reef structures in The Nursery. Many camouflaged creatures, like flatheads and various rays, are adept at blending in and reveal themselves to the attentive diver.
 
 75-word excerpt:
-Julian Rocks – Hugo's Trench, an intermediate boat dive in Byron Bay (10-22m), is a narrow, dramatic passage known for reef sharks, rays, and groupers. Visibility (10-18m) is strong on calm days but influenced by currents, swells, and rainfall. This exhilarating trench offers a thrilling, intimate experience for capable divers comfortable with strong currents and close encounters with larger marine life."""
+Julian Rocks – The Nursery, a beginner-friendly boat dive in Byron Bay (5-12m), is a sheltered haven within Julian Rocks Marine Sanctuary. Visibility (10-15m) is generally excellent but can be reduced by rainfall or strong currents. It's teeming with turtles, wobbegongs, and rays, offering a serene introduction to the sanctuary's rich biodiversity under strict marine park rules. Ideal for relaxed marine encounters."""
+
+# Article for Clovelly Pool (ID 49)
+article_text_49 = """# Clovelly Pool: Sydney's Accessible Marine Sanctuary for Beginners
+
+Nestled along Sydney's eastern coastline, Clovelly Pool in Clovelly, New South Wales, offers an unparalleled and highly accessible dive experience for beginner divers and snorkelers. This naturally formed, calm, and sheltered ocean pool, with depths ranging from 2 to 5 metres, is a local treasure, renowned for its resident blue gropers and abundant schooling fish. Its year-round accessibility, coupled with convenient beach amenities, makes it a perfect entry point for those new to the underwater world or seeking a relaxed and richly rewarding experience without venturing far offshore. Clovelly Pool is a vibrant marine sanctuary, a cherished spot where urban convenience meets astonishing biodiversity.
+
+The Essentials:
+*   Depth Range: An ideal beginner depth range of 2 to 5 metres, perfect for building confidence and observing marine life up close.
+*   Visibility: Generally good, ranging from 5 to 8 metres, extending to 15 metres on exceptionally clear days. Visibility is best year-round, particularly during calm, dry periods. However, divers should be aware of urban stormwater runoff from surrounding residential areas, which, after heavy rainfall, can significantly reduce clarity. Strong easterly swells can also stir up sediment, and high bather numbers can sometimes affect water clarity. Optimal conditions are found on calm days with minimal swell.
+*   Water Temperature: Water temperatures are comfortable, ranging from 17°C in cooler months to a pleasant 23°C in summer, supporting year-round diving.
+*   Current/Conditions: The pool area is exceptionally calm and sheltered, making it very safe for beginners. There is limited depth, but minimal currents or surge, making it a truly relaxing experience. While shielded from open ocean conditions, very strong easterly swells might still cause some agitation at the entrance.
+*   Viz Implications: Heavy rainfall leading to urban stormwater runoff is the primary factor that can significantly reduce visibility. Strong easterly swells can also decrease clarity by stirring up sand. Avoiding diving after heavy rain or during very rough ocean conditions will ensure the best visibility.
+
+Terrain & Navigation:
+Clovelly Pool features a sandy bottom transitioning to rocky edges and a concrete promenade that encloses the area. The natural rock formations within the pool provide ample shelter for marine life. Navigation is incredibly easy due to the enclosed nature of the site and its shallow depths. Divers can leisurely explore the entire area, following the rock formations or simply observing the marine life in the sandy patches. The clear water, when present, allows for excellent visual navigation and observation.
+
+Marine Life Highlights:
+This accessible sanctuary is a hotspot for fascinating marine encounters. Clovelly Pool is most famous for its resident blue gropers, often seen curiously interacting with divers. Divers will also encounter schools of bream and various species of wrasse darting amongst the rocks and over the sandy bottom. Keep an eye out for octopus, cuttlefish, and an array of smaller invertebrates. The sheltered conditions make it an ideal environment for observing juvenile fish and macro life in detail.
+
+Logistics & Facilities:
+Clovelly Pool offers unparalleled accessibility with easy entry from the beach/promenade area. Excellent facilities are available, including change rooms, toilets, and ample (though often busy) parking. The site is diveable year-round, with consistently calm conditions making it a reliable choice. Conservation is important here, and divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the natural and artificial structures.
+
+Who Is It For?:
+This is an ideal site for **Beginner** divers and snorkelers, as well as families and those seeking a relaxing and safe marine experience. Its shallow, calm waters and abundant, friendly marine life make it perfect for introductory dives, training, and peaceful underwater photography.
+
+Pro-Tip:
+To truly appreciate the marine life, particularly the blue gropers, try to dive during weekdays or early mornings to avoid peak crowds. Moving slowly and observing patiently will reward you with closer encounters with the pool's fascinating residents.
+
+75-word excerpt:
+Clovelly Pool, Sydney (2-5m), is a beginner-friendly, sheltered ocean pool renowned for resident blue gropers and schooling fish. Visibility (5-15m) is best year-round in calm, dry periods but affected by urban runoff and easterly swells. Easily accessible with amenities, it offers a safe, vibrant marine sanctuary perfect for introductory dives, photography, and relaxed underwater exploration near Sydney's coastline."""
 
 # Execute the updates for both IDs
-update_article_in_db_and_combined_file(166, "Julian Rocks – Cod Hole", article_text_166)
-update_article_in_db_and_combined_file(197, "Julian Rocks – Hugo's Trench", article_text_197)
+update_article_in_db_and_combined_file(165, "Julian Rocks – The Nursery", article_text_165)
+update_article_in_db_and_combined_file(49, "Clovelly Pool", article_text_49)

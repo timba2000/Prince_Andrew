@@ -16,7 +16,9 @@ completed_articles_for_update = [
     "Julian Rocks",
     "Julian Rocks Marine Sanctuary",
     "Julian Rocks – Cod Hole",
-    "Julian Rocks – Hugo's Trench"
+    "Julian Rocks – Hugo's Trench",
+    "Julian Rocks – The Nursery",
+    "Clovelly Pool"
 ]
 
 input_csv_path = "updated_divesites.csv"
