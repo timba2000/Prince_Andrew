@@ -12,7 +12,9 @@ completed_articles_for_update = [
     "Mount Hypipamee Crater",
     "North Ballina Wall",
     "North Bondi Rocks",
-    "Kings Beach – Broken Head"
+    "Kings Beach – Broken Head",
+    "Julian Rocks",
+    "Julian Rocks Marine Sanctuary"
 ]
 
 input_csv_path = "updated_divesites.csv"
