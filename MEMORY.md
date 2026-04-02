@@ -56,8 +56,8 @@
 
 **1. ScubaDownUnder Dive Site Reviews:**
    - **Word Count:** 750-1000 words.
-   - **Format:** All completed Scuba Down Under dive site articles will have their full content stored directly in the `dive_sites.db` database under the `article_full_text` column. Individual `.md` files for completed dive site reviews will no longer be maintained.
-     - **[Dive Site Name]: [Catchy Subtitle Describing Its Essence]** (This format will be used internally when generating content for the `article_full_text` column).
+   - **Format:** All completed Scuba Down Under dive site articles will be saved as individual Markdown files in the `dive_site_articles/` directory within the repository. The filename will be `[site_name_slug].md` (e.g., `glenelg-dredge-wreck.md`).
+     - **[Dive Site Name]: [Catchy Subtitle Describing Its Essence]** (This format will be used for the title within the Markdown file).
      - Introductory paragraph (approx 100-150 words)
      - **The Essentials:** Depth Range, Visibility (including best conditions such as wind/swell directions, seasonal variations, and other triggers derived from `Viz_Triggers` and `Viz_Seasonal` database columns), Water Temperature, Current/Conditions, Viz Implications.
      - **Terrain & Navigation:** Description of underwater topography and key features.
@@ -73,7 +73,9 @@
    - **Content:** Information gathered from web searches, synthesized into a coherent guide.
 
 **General Article Protocol:**
-- All completed dive site review content will be stored in the `dive_sites.db` database. The `SDU_dive_sites.md` file will no longer be used for article storage. Future dive site articles will be directly added to `dive_sites.db`.
+- All completed dive site review content will be saved as individual Markdown files in the `dive_site_articles/` directory and committed to the GitHub repository. The filename will be `[site_name_slug].md`.
+- The `dive_sites.db` will continue to store the `article_full_text` for consistency, but the primary article storage will be the individual Markdown files.
+- I will extract all existing articles from `dive_sites.db` and create individual markdown files for them in the `dive_site_articles/` directory.
 - When reporting on article completion, I will include the percentage of sites that now have dive site articles.
 
 ---
