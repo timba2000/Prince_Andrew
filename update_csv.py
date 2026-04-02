@@ -14,7 +14,9 @@ completed_articles_for_update = [
     "North Bondi Rocks",
     "Kings Beach – Broken Head",
     "Julian Rocks",
-    "Julian Rocks Marine Sanctuary"
+    "Julian Rocks Marine Sanctuary",
+    "Julian Rocks – Cod Hole",
+    "Julian Rocks – Hugo's Trench"
 ]
 
 input_csv_path = "updated_divesites.csv"
