@@ -1,32 +1,39 @@
 
 import csv
+import sys
+
+completed_articles_for_update = [
+    "Glenelg Dredge Wreck",
+    "Noarlunga Tyre Reef",
+    "North Haven Wall",
+    "Port Noarlunga Reef",
+    "North West Solitary Island",
+    "Spot X Reef",
+    "Mount Hypipamee Crater",
+    "North Ballina Wall",
+    "North Bondi Rocks",
+    "Kings Beach – Broken Head"
+]
 
 input_csv_path = "updated_divesites.csv"
 
-def calculate_completion_percentage(csv_path):
-    total_sites = 0
-    completed_articles = 0
-    try:
-        with open(csv_path, 'r', newline='') as infile:
-            reader = csv.reader(infile)
-            header = next(reader)  # Skip header
-            has_article_index = header.index("Has Article")
+updated_rows = []
+with open(input_csv_path, 'r', newline='') as infile:
+    reader = csv.reader(infile)
+    header = next(reader)
+    updated_rows.append(header)
+    
+    site_name_index = header.index("Site Name")
+    has_article_index = header.index("Has Article")
 
-            for row in reader:
-                total_sites += 1
-                if row[has_article_index] == "Yes":
-                    completed_articles += 1
+    for row in reader:
+        site_name = row[site_name_index]
+        if site_name in completed_articles_for_update:
+            row[has_article_index] = "Yes"
+        updated_rows.append(row)
 
-        if total_sites == 0:
-            return 0.0
-        return (completed_articles / total_sites) * 100
-    except FileNotFoundError:
-        print(f"Error: The file {csv_path} was not found.")
-        return 0.0
-    except ValueError as e:
-        print(f"Error processing CSV: {e}")
-        return 0.0
+with open(input_csv_path, 'w', newline='') as outfile:
+    writer = csv.writer(outfile)
+    writer.writerows(updated_rows)
 
-if __name__ == "__main__":
-    percentage = calculate_completion_percentage(input_csv_path)
-    print(f"Percentage of sites with articles: {percentage:.2f}%")
+print(f"Updated CSV written to {input_csv_path}")
