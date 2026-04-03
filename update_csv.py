@@ -49,7 +49,11 @@ completed_articles_for_update = [
     "Flinders Pier",
     "Portsea Pier",
     "Five Fathom Reef",
-    "Fishery Bay Reef"
+    "Fishery Bay Reef",
+    "Point Drummond",
+    "Port Lincoln Jetty",
+    "Port Neill Jetty",
+    "Streaky Bay Jetty"
 ]
 
 input_csv_path = "updated_divesites.csv"

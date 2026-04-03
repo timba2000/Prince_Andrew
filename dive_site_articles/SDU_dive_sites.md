@@ -1803,3 +1803,127 @@ Due to the scenic nature of the reef, take your time to explore the gullies and 
 
 75-word excerpt:
 Fishery Bay Reef, Eyre Peninsula (5-14m), is an intermediate boat dive with scenic gullies, bommies, and vibrant sponges. Visibility (10-14m) is best October-March during calm periods, but impacted by southerly swells and strong currents. It hosts wrasse, rays, and sea cucumbers. This dynamic site demands moderate current/surge handling for a rewarding exploration of its unique geological formations and rich marine life off South Australia's coast.
+
+---
+
+# Point Drummond: Eyre Peninsula's Remote Reef for Advanced Explorers
+
+Off the rugged and remote coastline of the Eyre Peninsula, South Australia, Point Drummond presents a challenging and exhilarating dive site, strictly for advanced divers. Descending to depths between 8 to 20 metres, this remote rocky reef is renowned for its dramatic drop-offs and intriguing cave formations, offering a truly adventurous exploration. Accessible via remote shore access, Point Drummond rewards proficient divers with encounters with impressive blue groper, elusive crayfish, and various sharks against a backdrop of unique geological formations, particularly during the prime season of October to March. It’s a site that demands respect and meticulous planning, promising a unique journey into South Australia's wilder, less-frequented marine landscapes.
+
+The Essentials:
+*   Depth Range: An advanced dive with depths ranging from 8 to 20 metres, featuring dramatic drop-offs and potential cave entries.
+*   Visibility: Variable, typically ranging from 10 to 15 metres, but can extend to 15 metres on exceptionally clear days. Optimal visibility is generally found between October and March, particularly during calm periods. As a remote coastal site, visibility is largely influenced by strong southerly swells, strong currents, and high winds, which can create very turbulent and murky conditions. Minimal coastal runoff from the natural coastline contributes to overall clarity. Calm conditions are generally best for uninhibited views.
+*   Water Temperature: Water temperatures range from a cool 14°C in winter to a more moderate 20°C in summer. A good wetsuit (5-7mm) or drysuit is recommended.
+*   Current/Conditions: Divers can expect moderate to strong currents, especially on incoming tides or during periods of stronger oceanic influence. Surge can also be significant, particularly during larger southerly swells. This is a remote shore access dive, requiring careful planning and execution, and a good level of physical fitness.
+*   Viz Implications: Strong southerly swells, strong currents, and high winds are the primary factors in reducing visibility, creating turbulent and murky conditions. Planning dives during calm weather is crucial for the best experience.
+
+Terrain & Navigation:
+Point Drummond features a rugged rocky reef terrain with numerous ledges, gutters, dramatic drop-offs, and intriguing cave formations. The reef structures are heavily adorned with a variety of hard and soft corals, sponges, and anemones, providing ample shelter for marine life. Navigation requires careful planning due to its remote nature, potential for strong currents, and variable visibility. Divers will need to follow distinct reef contours and be mindful of their depth and ascent rates, especially near the overhead environments of the caves. The clear water, when present, allows for easy orientation, but paying attention to current direction is vital for a relaxed dive. Compass navigation may be unreliable near caves.
+
+Marine Life Highlights:
+This vibrant reef is home to an incredible array of marine life, particularly larger species. Divers can expect frequent encounters with impressive blue groper, often seen patrolling the reef edge. Elusive crayfish can be spotted tucked into rocky crevices, while various species of sharks, including wobbegongs and, occasionally, larger reef sharks, patrol the deeper sections. Schools of reef fish, including snapper and morwong, add vibrancy to the coral gardens. Keep an eye out for inquisitive octopus and a dazzling array of macro life, including nudibranchs, clinging to the corals.
+
+Logistics & Facilities:
+Access to Point Drummond is via remote shore access, requiring a significant drive and potentially a hike to the entry point. There are no on-site facilities, so divers must be completely self-sufficient and prepared for a wilderness dive. The optimal diving season is from October to March for warmer waters and peak marine activity, coinciding with generally calmer weather. Conservation is paramount; divers are encouraged to practice responsible diving, observing marine life without touching or disturbing the delicate reef ecosystem and its inhabitants, and adhering to safe exploration practices within any cave systems.
+
+Who Is It For?:
+This is an **Advanced** dive site, suitable for highly experienced divers who are comfortable with deep profiles, managing moderate to strong currents and surge, and adept at navigating complex reef structures with potential overhead environments. Excellent physical fitness, advanced diving certifications, and self-sufficiency are essential due to its remote and demanding nature.
+
+Pro-Tip:
+Due to its remote location and challenging access, it is highly advisable to dive Point Drummond with a buddy who is equally experienced and familiar with remote shore diving. Always carry a robust surface marker buoy (SMB) and ensure your dive plan accounts for potential low visibility and strong currents. Pack light for the walk-in, but don't compromise on essential safety gear.
+
+75-word excerpt:
+Point Drummond, Eyre Peninsula (8-20m), is an advanced remote shore dive featuring rocky reefs, drop-offs, and caves. Visibility (10-15m) is best October-March during calm periods, but impacted by southerly swells and strong currents. It hosts blue groper, crayfish, and various sharks. This demanding site requires advanced skills, self-sufficiency, and careful planning for its unique geological formations and rich marine life in South Australia's wilder waters.
+
+---
+
+# Port Lincoln Jetty: Eyre Peninsula's Urban Macro Haven for Beginner Divers
+
+On the vibrant shores of the Eyre Peninsula, South Australia, Port Lincoln Jetty offers an accessible and surprisingly rich shore dive, perfectly suited for beginner divers and macro enthusiasts. Descending to shallow depths between 2 to 7 metres, this urban jetty is a bustling underwater gallery, famous for its mix of macro life and sponge-covered pylons. Its easy jetty access and nearby facilities make it an ideal spot for relaxed explorations from October to March, revealing a hidden world of fascinating squid, small rays, and colourful leatherjackets. Port Lincoln Jetty is a cherished local treasure, a dynamic aquatic microcosm where urban convenience meets abundant marine biodiversity, inviting all to discover its gentle charm and diverse ecosystems.
+
+The Essentials:
+*   Depth Range: An ideal beginner depth range from a shallow 2 metres down to 7 metres, perfect for leisurely observation and macro photography.
+*   Visibility: Variable, typically ranging from 5 to 7 metres, but can extend to 10 metres on exceptionally clear days. Optimal visibility is generally found between October and March, often better on incoming tides during calmer conditions. However, it is significantly impacted by moderate runoff from the Port Lincoln town and harbour, heavy rainfall, strong tidal currents within the harbour, and boat traffic. Strong southerly winds can also reduce clarity. Planning dives around slack tide and during calmer, drier periods will ensure the best clarity and ease of navigation.
+*   Water Temperature: Water temperatures range from a cool 14°C in winter to a more moderate 20°C in summer. A good wetsuit (5-7mm) is recommended.
+*   Current/Conditions: Divers can expect some gentle to moderate tidal currents around the jetty pylons, especially within the harbour. The site is generally sheltered, but awareness of localized currents and boat traffic is wise. Low visibility can be a factor, especially after rain or with strong currents.
+*   Viz Implications: Heavy rainfall, strong tidal currents, and moderate urban runoff are the primary factors in reducing visibility. Boat activity can also stir up sediment. Planning dives around slack tide and during calmer, drier periods will ensure the best experience.
+
+Terrain & Navigation:
+Port Lincoln Jetty features a terrain dominated by its extensive wooden pylons, which are heavily encrusted with a diverse array of sponges, ascidians, and algae. The sandy bottom beneath and around the jetty is home to various benthic creatures and patches of seagrass. Navigation is incredibly easy due to the linear structure of the jetty and its shallow depths. Divers can leisurely explore the pylons, observing the macro life, or venture out to the surrounding seagrass beds. Compass readings can be unreliable under the metal structure, so navigation relies on visual cues from the jetty itself.
+
+Marine Life Highlights:
+This vibrant urban jetty is a macro photographer's paradise. Divers frequently encounter curious squid, often seen hovering around the pylons, and graceful small rays resting on the sandy bottom. Various species of colourful leatherjackets add vibrancy to the site. Keep an eye out for octopus, cuttlefish, and a dazzling array of colourful nudibranchs clinging to the pylons. The healthy growth on the pylons supports diverse invertebrate life, making it a macro enthusiast's dream. Juvenile fish often shelter amongst the structures.
+
+Logistics & Facilities:
+Port Lincoln Jetty offers excellent shore access, with easy entry directly from the jetty. Public facilities, including toilets, parking, and cafes, are conveniently located nearby. The site is diveable from October to March for warmer waters and peak marine activity. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the jetty structures, especially the delicate sponge and macro habitats. Always adhere to local marine park regulations.
+
+Who Is It For?:
+This is an ideal site for **Beginner** divers and macro photographers, as well as those seeking a relaxing and safe marine experience. Its shallow, calm waters and abundant, unique macro life make it perfect for introductory dives, training, and peaceful underwater photography, particularly for spotting fascinating small creatures.
+
+Pro-Tip:
+Due to the consistent macro life, move slowly and deliberately around the jetty pylons, carefully scanning the sponge growth. A good dive light, even during the day, will illuminate hidden creatures and bring out the true colours of the encrusting life. Consider a night dive for different encounters.
+
+75-word excerpt:
+Port Lincoln Jetty, Eyre Peninsula (2-7m), is a beginner-friendly shore dive with urban access, famed for macro life and sponge-covered pylons. Visibility (5-7m) is best October-March on incoming tides, influenced by runoff, currents, and boat traffic. It hosts squid, small rays, and leatherjackets. Ideal for relaxed macro photography and new divers, it offers a vibrant microcosm of marine biodiversity near town amenities.
+
+---
+
+# Port Neill Jetty: Eyre Peninsula's Quiet Macro Retreat for Beginner Divers
+
+On the serene eastern coastline of the Eyre Peninsula, South Australia, Port Neill Jetty offers a wonderfully quiet and accessible shore dive, perfectly suited for beginner divers and macro enthusiasts. Descending to shallow depths between 2 to 7 metres, this easy-access jetty is a charming underwater garden, famous for its prolific sponge growth and the sheltered, calm conditions it provides. Its easy shore access and nearby parking make it an ideal spot for relaxed explorations from October to March, revealing a hidden world of fascinating squid, graceful rays, and schooling juvenile fish. Port Neill Jetty is a cherished local treasure, a vibrant aquatic microcosm where natural beauty meets abundant and friendly marine life, inviting all to discover its gentle charm and diverse ecosystems.
+
+The Essentials:
+*   Depth Range: An ideal beginner depth range from a shallow 2 metres down to 7 metres, perfect for leisurely observation and macro photography.
+*   Visibility: Variable, typically ranging from 5 to 7 metres, but can extend to 10 metres on exceptionally clear days. Optimal visibility is generally found between October and March, often better on incoming tides during calmer conditions. However, it is influenced by minimal coastal runoff from the small town, strong southerly winds, and tidal currents, which can stir up sediment. Disturbance from human activity can also impact clarity. Calm, dry periods with light offshore winds are ideal.
+*   Water Temperature: Water temperatures are comfortable, ranging from 15°C in cooler months to a pleasant 21°C in summer. A good wetsuit (5-7mm) is recommended.
+*   Current/Conditions: Divers can expect some gentle tidal currents around the jetty pylons. The site is generally sheltered, but awareness of strong southerly winds and tidal currents is wise. Low visibility can be a factor, especially after rain or with strong currents.
+*   Viz Implications: Strong southerly winds and tidal currents are the primary factors in reducing visibility by stirring up sediment. Minimal coastal runoff after rain also plays a role. Planning dives around slack tide and during calmer, drier periods will ensure the best experience.
+
+Terrain & Navigation:
+Port Neill Jetty features a terrain dominated by its extensive wooden pylons, which are heavily encrusted with a diverse array of sponges, ascidians, and algae. The sandy bottom beneath and around the jetty is home to various benthic creatures and patches of seagrass. Navigation is incredibly easy due to the linear structure of the jetty and its shallow depths. Divers can leisurely explore the pylons, observing the macro life, or venture out to the surrounding seagrass beds. Compass readings can be unreliable under the metal structure, so navigation relies on visual cues from the jetty itself.
+
+Marine Life Highlights:
+This quiet jetty is a macro photographer's dream. Divers frequently encounter curious squid, often seen hovering around the pylons, and graceful small rays resting on the sandy bottom. Various species of colourful wrasse, bream, and other juvenile fish add vibrancy to the site. Keep an eye out for octopus, cuttlefish, and a dazzling array of colourful nudibranchs clinging to the pylons. The healthy growth on the pylons supports diverse invertebrate life, making it a macro enthusiast's dream. Juvenile fish often shelter amongst the structures.
+
+Logistics & Facilities:
+Port Neill Jetty offers excellent shore access, with easy entry directly from the jetty. Public parking and basic amenities are conveniently located nearby. The site is diveable from October to March for warmer waters and peak marine activity. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the jetty structures, especially the delicate sponge and macro habitats. Always adhere to local marine park regulations.
+
+Who Is It For?:
+This is an ideal site for **Beginner** divers and macro photographers, as well as those seeking a relaxing and safe marine experience. Its shallow, calm waters and abundant, unique macro life make it perfect for introductory dives, training, and peaceful underwater photography, particularly for spotting fascinating small creatures.
+
+Pro-Tip:
+Move slowly and deliberately around the jetty pylons, carefully scanning the sponge growth and crevices. Many macro creatures are masters of disguise and require a keen eye and patience to spot. Consider a night dive for a completely different set of encounters and behaviours.
+
+75-word excerpt:
+Port Neill Jetty, Eyre Peninsula (2-7m), is a beginner-friendly shore dive with calm conditions, famed for sponge growth and macro life. Visibility (5-7m) is best October-March, influenced by southerly winds and tidal currents. It hosts squid, rays, and juvenile fish. Easy access and nearby amenities make it ideal for relaxed macro photography and new divers seeking unique small marine life in a tranquil setting.
+
+---
+
+# Streaky Bay Jetty: Eyre Peninsula's West Coast Gem for Beginner Divers
+
+On the rugged yet tranquil west coast of the Eyre Peninsula, South Australia, Streaky Bay Jetty offers a wonderfully calm and accessible shore dive, perfectly suited for beginner divers. Descending to shallow depths between 2 to 6 metres, this easy-access jetty is a charming underwater garden, famous for its calm conditions and regular sightings of graceful stingrays. Its easy jetty access and nearby amenities make it an ideal spot for relaxed explorations from November to March, revealing a hidden world of fascinating crabs, curious octopus, and abundant macro life. Streaky Bay Jetty is a cherished local treasure, a vibrant aquatic microcosm where natural beauty meets abundant and friendly marine life, inviting all to discover its gentle charm and diverse ecosystems.
+
+The Essentials:
+*   Depth Range: An ideal beginner depth range from a shallow 2 metres down to 6 metres, perfect for leisurely observation and macro photography.
+*   Visibility: Variable, typically ranging from 5 to 6 metres, but can extend to 10 metres on exceptionally clear days. Optimal visibility is generally found between November and March, often better on incoming tides during calmer conditions. However, it is influenced by minimal runoff from Streaky Bay town, strong southerly winds, and tidal currents, which can stir up sediment. Disturbance from human activity and fishing debris can also impact clarity. Calm, dry periods with light offshore winds are ideal.
+*   Water Temperature: Water temperatures range from a cool 14°C in winter to a more moderate 20°C in summer. A good wetsuit (5-7mm) is recommended.
+*   Current/Conditions: Divers can expect some gentle tidal currents around the jetty pylons. The site is generally calm and sheltered, but awareness of strong southerly winds and tidal currents is wise. Low visibility can be a factor, especially after rain or with strong winds/currents.
+*   Viz Implications: Strong southerly winds and tidal currents are the primary factors in reducing visibility by stirring up sediment. Minimal coastal runoff after rain also plays a role. Planning dives around slack tide and during calmer, drier periods will ensure the best experience.
+
+Terrain & Navigation:
+Streaky Bay Jetty features a terrain dominated by its extensive wooden pylons, which are heavily encrusted with a diverse array of sponges, ascidians, and algae. The sandy bottom beneath and around the jetty is home to various benthic creatures and patches of seagrass. Navigation is incredibly easy due to the linear structure of the jetty and its shallow depths. Divers can leisurely explore the pylons, observing the macro life, or venture out to the surrounding seagrass beds. Compass readings can be unreliable under the metal structure, so navigation relies on visual cues from the jetty itself. Divers should be mindful of fishing debris.
+
+Marine Life Highlights:
+This quiet jetty is a macro photographer's dream. Divers frequently encounter graceful **stingrays**, often resting on the sandy bottom or cruising around the pylons. Various species of crabs scuttle across the bottom, and curious octopus can be seen camouflaged amongst the rocks and sponges. Keep an eye out for a dazzling array of colourful nudibranchs clinging to the pylons, as well as various species of wrasse and juvenile fish. The healthy growth on the pylons supports diverse invertebrate life, making it a macro enthusiast's dream.
+
+Logistics & Facilities:
+Streaky Bay Jetty offers excellent shore access, with easy entry directly from the jetty. Public parking and basic amenities are conveniently located nearby. The site is diveable from November to March for warmer waters and generally calmer conditions. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the jetty structures, especially the delicate sponge and macro habitats. Always adhere to local marine park regulations and be mindful of fishing activities.
+
+Who Is It For?:
+This is an ideal site for **Beginner** divers and macro photographers, as well as those seeking a relaxing and safe marine experience. Its shallow, calm waters and abundant, unique macro life make it perfect for introductory dives, training, and peaceful underwater photography, particularly for spotting fascinating small creatures.
+
+Pro-Tip:
+Due to the regular presence of stingrays, maintain a respectful distance and observe them calmly without disturbance. Move slowly and deliberately around the jetty pylons, carefully scanning the sponge growth and crevices for hidden macro gems. Consider a night dive for a completely different set of encounters and behaviours.
+
+75-word excerpt:
+Streaky Bay Jetty, Eyre Peninsula (2-6m), is a beginner-friendly shore dive famed for calm conditions and regular stingray sightings. Visibility (5-6m) is best November-March on incoming tides, influenced by southerly winds and tidal currents. It hosts crabs, octopus, and abundant macro life. Easy access and nearby amenities make it ideal for relaxed photography and new divers seeking unique small marine life on South Australia's west coast.
