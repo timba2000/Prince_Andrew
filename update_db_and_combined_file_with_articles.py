@@ -40,66 +40,66 @@ def update_article_in_db_and_combined_file(site_id, site_name, article_text, com
         if conn:
             conn.close()
 
-# Article for Shark Point (ID 48)
-article_text_48 = """# Shark Point, Clovelly: An Advanced Deep Reef Adventure
+# Article for Split Solitary Island (ID 178)
+article_text_178 = """# Split Solitary Island: A Coral and Fish Wonderland for Intermediate Divers
 
-For the experienced and adventurous diver, Shark Point in Clovelly, New South Wales, offers a captivating journey into a deep reef system. Resting at depths between 10 to 25 metres, this site is celebrated for its impressive large boulders, dramatic drop-offs, and exceptional marine life diversity, including the occasional shark sighting that gives the point its evocative name. Its challenging conditions, including surge and strong currents, make it strictly an advanced dive. Primarily accessible via a shore entry that demands careful planning, Shark Point promises an exhilarating exploration into Sydney's deeper, more untamed underwater landscapes, providing a stark contrast to its calmer neighbours.
-
-The Essentials:
-*   Depth Range: An advanced dive with depths ranging from 10 to 25 metres, suitable for divers comfortable with deeper profiles.
-*   Visibility: Variable, but can be very good, especially with low swell (<1.2m). Optimal visibility is generally found between September and April, though it is significantly impacted by rain events and high swells. Strong easterly swells and heavy rainfall can reduce clarity considerably. Calm conditions, particularly with light offshore winds, are crucial for the best experience. Navigational guidance advises against going below 270 degrees to avoid Gordons Bay and warns against heading too far north into False Bay.
-*   Water Temperature: Water temperatures range from 17°C in cooler months to a pleasant 22°C in summer.
-*   Current/Conditions: Divers must be prepared for strong currents and significant surge, particularly on incoming tides and during larger ocean swells. This is an exposed site that demands excellent finning skills and vigilant situational awareness.
-*   Viz Implications: Heavy rainfall and high easterly swells are the primary factors in reducing visibility. Strong currents also play a role by keeping sediment in suspension. Planning dives during periods of calm, dry weather is essential.
-
-Terrain & Navigation:
-Shark Point is characterized by a rugged and dramatic underwater topography. It features imposing large boulders, steep drop-offs, and deep gutters that create a complex yet fascinating environment. Navigation requires careful planning due to the potential for strong currents and variable visibility. Divers will need to follow distinct reef contours and be mindful of their depth and ascent rates. The deep reef structure provides abundant hiding spots and intricate swim-throughs for those with excellent buoyancy control and experience in more challenging environments.
-
-Marine Life Highlights:
-As its name implies, Shark Point offers a chance to encounter various shark species, including the occasional wobbegong or Port Jackson shark, often found resting under ledges. Large, curious blue gropers are common, and divers will also find an exceptional diversity of nudibranchs in a kaleidoscope of colours. Schools of reef fish, including trevally and kingfish, patrol the deeper sections. The site's unique topography and nutrient-rich waters attract a wide array of invertebrates, making it a macro photographer's delight.
-
-Logistics & Facilities:
-Access to Shark Point is via a shore entry from Clovelly, which can be challenging due to the rocky entry and potential for surge. Parking is limited, particularly on weekends. The optimal diving season is from September to April for warmer waters and generally better conditions, though success hinges on weather and swell. There are no on-site dive facilities, so divers must be self-sufficient and well-prepared. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the fragile deep reef ecosystem and its inhabitants.
-
-Who Is It For?:
-This is an **Advanced** dive site, suitable only for highly experienced divers who are comfortable with deep profiles, strong currents, significant surge, and navigating complex reef structures in potentially variable visibility. Excellent physical fitness and advanced diving certifications are highly recommended.
-
-Pro-Tip:
-Due to the demanding conditions, always dive Shark Point with a buddy who is equally experienced, and consider using a robust surface marker buoy (SMB) to ensure easy surface detection by your shore support or boat crew. Plan your dive to coincide with periods of lower swell and incoming tide for potentially better visibility.
-
-75-word excerpt:
-Shark Point, Clovelly (10-25m), is an advanced shore dive with large boulders, drop-offs, and diverse marine life, including sharks and blue gropers. Visibility is variable (best in low swell, impacted by rain/high swell) with strong currents. Optimal September-April, it requires careful planning and experience due to demanding conditions. A thrilling Sydney deep reef adventure for proficient divers seeking challenging exploration and rich biodiversity."""
-
-# Article for Muttonbird Island (ID 177)
-article_text_177 = """# Muttonbird Island: A Gentle Shore Dive for Beginners in Coffs Harbour
-
-Just off the coast of Coffs Harbour, New South Wales, Muttonbird Island presents a charming and accessible shore dive, perfectly suited for beginner divers. With shallow depths ranging from 3 to 10 metres, this site offers a delightful exploration of vibrant reef and expansive seagrass beds, all within a protected and gentle environment. Accessible via a straightforward shore entry, Muttonbird Island is a tranquil escape, promising intimate encounters with a variety of fascinating marine life. It's an ideal spot for those new to diving, or for seasoned divers seeking a relaxed and richly rewarding experience, especially during calm conditions when its underwater beauty truly shines.
+Off the stunning coastline of Coffs Harbour, New South Wales, lies Split Solitary Island, a captivating dive site perfect for intermediate divers. Ranging in depth from 8 to 20 metres, this island is renowned for its distinctive split reef structure, vibrant coral formations, and abundant fish life. Accessible primarily by boat, Split Solitary Island offers a dynamic underwater landscape, showcasing a rich diversity of temperate and tropical marine species. It’s a jewel within the Solitary Islands Marine Park, promising engaging dives with impressive biodiversity and healthy ecosystems for those seeking a memorable exploration.
 
 The Essentials:
-*   Depth Range: A beginner-friendly depth range from 3 metres down to 10 metres, making it perfect for leisurely dives and extended bottom times.
-*   Visibility: Variable, typically ranging from 4 to 8 metres, but can extend to 20 metres on exceptionally clear days. Optimal visibility is found only in calm conditions and during dry periods. It is significantly impacted by moderate coastal runoff from Coffs Harbour, heavy rainfall, strong currents, and disturbance from boat traffic. Prevailing winds from the east and south-east can stir up sediment, reducing clarity. Calm, dry periods with light offshore winds are ideal for the best experience.
-*   Water Temperature: Water temperatures are comfortably warm, ranging from 19°C to 25°C, making for pleasant diving throughout much of the year.
-*   Current/Conditions: The site is generally calm in protected areas, but divers should be aware of potential swell, especially on less calm days. It is strongly recommended to dive here only during calm conditions to ensure optimal enjoyment and safety.
-*   Viz Implications: Heavy rainfall and moderate coastal runoff are primary factors reducing visibility. Strong currents, if present, and boat traffic can also contribute to turbid conditions. Planning dives during calm, dry weather with minimal swell is crucial.
+*   Depth Range: This intermediate dive explores depths from 8 to 20 metres, offering a good vertical range along the reef.
+*   Visibility: Consistently excellent year-round, typically ranging from 20 to 40 metres. However, divers may experience seasonal thermoclines and plankton events in warmer months, which can slightly reduce clarity. Given its minimal coastal runoff from the natural island environment, visibility is largely influenced by strong oceanic currents, localised plankton blooms, and offshore weather systems. Calm conditions are generally best for uninhibited views.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 19°C to 25°C, making for pleasant diving conditions throughout the prime season.
+*   Current/Conditions: Divers can expect moderate to strong oceanic currents, requiring good finning technique and careful dive planning. The site is generally exposed to ocean swells, so calmer conditions are preferable for a more relaxed dive.
+*   Viz Implications: While generally superb, strong oceanic currents can bring in nutrient-rich waters that may, at times, foster plankton blooms, temporarily affecting visibility. Offshore weather systems, particularly during significant swells, can also introduce suspended particles.
 
 Terrain & Navigation:
-Muttonbird Island features a diverse underwater terrain, transitioning from rocky reefs to expansive seagrass beds. The reef sections provide numerous crevices and overhangs, while the seagrass offers a different habitat for unique marine life. Navigation is straightforward due to the shallow depths and the proximity to the shore. Divers can leisurely explore the various formations, following the reef line or drifting over the seagrass. The clear water, when present, aids significantly in orientation.
+Split Solitary Island is characterized by its distinctive split reef structure, with impressive coral formations covering vast areas. The terrain includes rocky outcrops, sand channels, and gentle slopes adorned with hard and soft corals. Navigation is relatively straightforward, following the reef's contours around the island. Divers will find numerous ledges, gutters, and small caves to explore, providing ample hiding spots for marine life. The clear water typically allows for easy orientation, but paying attention to current direction is vital for a relaxed dive.
 
 Marine Life Highlights:
-This gentle site is teeming with interesting marine life. Divers will frequently encounter various species of crabs scuttling across the bottom and camouflaged octopus peeking from rocky hideaways. Smaller rays can often be spotted gliding gracefully over the sandy patches and within the seagrass beds. The seagrass is also a nursery for juvenile fish, and a variety of colourful reef fish add vibrancy to the rocky sections. Macro enthusiasts will delight in the many nudibranchs and smaller invertebrates.
+This site is a haven for an incredible variety of marine life. Divers can expect frequent encounters with large schools of morwong and various species of leatherjackets, gracefully navigating the coral gardens. Colourful parrotfish are abundant, grazing on the reef. Keep an eye out for inquisitive blue groupers, wobbegong sharks tucked away under ledges, and a dazzling array of tropical and temperate reef fish. The healthy coral ecosystems support diverse invertebrate life, adding intricate detail to the dive experience.
 
 Logistics & Facilities:
-Muttonbird Island offers convenient shore access, making it highly accessible for divers. There are no dedicated dive facilities directly at the site, but basic amenities can be found nearby in Coffs Harbour. The best time to dive is when conditions are calm, which can be year-round, though warmer waters are typically found in spring and summer. Conservation is paramount here; divers are encouraged to practice responsible diving, avoiding disturbance to the delicate ecosystem and its inhabitants, particularly within the seagrass beds.
+Access to Split Solitary Island is exclusively by boat, typically arranged through dive charter operators in Coffs Harbour. There are no on-site facilities, so divers must be self-sufficient. The optimal diving season is between October and March for warmer waters and peak marine activity. As part of a protected marine park, strict conservation guidelines apply; divers are expected to observe marine life responsibly without touching or disturbing the delicate ecosystem.
 
 Who Is It For?:
-This is an ideal site for **Beginner** divers and snorkelers. Its shallow, protected waters, coupled with rich marine life and easy access, make it perfect for introductory dives, training, and peaceful underwater observation. It's a superb site for building confidence and enjoying a relaxed marine experience.
+This dive is perfectly suited for **Intermediate** divers who are comfortable with boat entries/exits, capable of handling moderate to strong currents, and adept at navigating reef systems. It's an excellent site for those looking to expand their experience in a pristine and dynamic environment.
 
 Pro-Tip:
-When diving Muttonbird Island, take your time to explore the seagrass beds. Many unique macro creatures, including pipefish and seahorses, are experts at camouflage and can be easily missed if you're rushing through the site.
+Due to the consistent excellent visibility and vibrant colours, Split Solitary Island is a fantastic site for wide-angle underwater photography. Consider bringing a strobed setup to capture the full beauty of its coral gardens and fish schools.
 
 75-word excerpt:
-Muttonbird Island, Coffs Harbour (3-10m), is a beginner-friendly shore dive with reefs and seagrass beds, perfect for calm conditions. Visibility (4-8m, up to 20m) is best on calm, dry days but impacted by coastal runoff, rainfall, and currents. It hosts crabs, octopus, and small rays, offering a tranquil exploration for new divers seeking diverse marine life and protected underwater environments."""
+Split Solitary Island, off Coffs Harbour (8-20m), is an intermediate boat dive with a distinctive split reef, vibrant corals, and abundant fish life. Consistently excellent visibility (20-40m) is influenced by oceanic currents and plankton. It hosts morwong, leatherjackets, and parrotfish, offering a dynamic exploration within the Solitary Islands Marine Park for capable divers seeking impressive biodiversity and healthy ecosystems."""
+
+# Article for The Looking Glass – South Solitary Island (ID 175)
+article_text_175 = """# The Looking Glass – South Solitary Island: A Thrilling Swim-Through for Intermediate Divers
+
+South of Coffs Harbour, New South Wales, within the renowned Solitary Islands Marine Park, lies "The Looking Glass"—a truly spectacular dive site at South Solitary Island, ideal for intermediate divers. This famous swim-through, located between dramatic vertical rock walls and descending to depths of 10 to 22 metres, offers an exhilarating journey. It’s renowned for its impressive encounters with grey nurse sharks and wobbegongs, making it a thrilling adventure. Accessible solely by boat, The Looking Glass promises an unforgettable exploration into one of Australia’s most biologically rich underwater passages, where geological grandeur meets vibrant marine biodiversity in consistently excellent visibility.
+
+The Essentials:
+*   Depth Range: This intermediate dive explores depths from 10 metres to 22 metres, primarily within and around the swim-through.
+*   Visibility: Consistently excellent year-round, typically ranging from 20 to 40 metres. However, divers may experience seasonal thermoclines and plankton events in warmer months, which can slightly reduce clarity. Given its minimal coastal runoff from the natural island environment, visibility is largely influenced by strong oceanic currents, localised plankton blooms, and offshore weather systems. Calm conditions are generally best for uninhibited views within the dramatic swim-through.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 19°C to 25°C, making for pleasant diving conditions throughout the prime season (Spring–Autumn).
+*   Current/Conditions: Divers can expect moderate to strong currents, particularly when navigating the swim-through. Good finning technique, excellent buoyancy control, and careful dive planning are essential. The site is exposed to ocean swells, and surge can be significant, especially at the entrances of the swim-through.
+*   Viz Implications: While generally superb, strong oceanic currents can bring in nutrient-rich waters that may, at times, foster plankton blooms, temporarily affecting visibility. Offshore weather systems, particularly during significant swells, can also introduce suspended particles, making the swim-through more challenging.
+
+Terrain & Navigation:
+The Looking Glass is defined by its unique geological feature: a prominent swim-through carved between towering vertical rock walls. Navigation involves carefully entering and exiting this passage, which can be narrow in sections. The surrounding terrain includes rocky reefs and sandy channels adorned with corals and sponges. Excellent buoyancy control is critical for navigating the swim-through safely and avoiding contact with the walls or the silty bottom. The clear water, when present, greatly assists in navigation, but awareness of current is paramount.
+
+Marine Life Highlights:
+This site is famous for its aggregations of impressive marine life, particularly its resident grey nurse sharks, which are often seen cruising through or resting within the swim-through during certain seasons. Divers will also encounter wobbegong sharks tucked into crevices, various species of reef fish, and occasionally larger pelagics in the surrounding waters. The dramatic rock formations themselves host a vibrant array of invertebrates, making for a visually rich experience.
+
+Logistics & Facilities:
+Access to The Looking Glass is exclusively by boat, typically arranged through dive charter operators in Coffs Harbour. There are no on-site facilities directly at the dive site. The optimal diving season is from spring to autumn (September to May) for warmer waters and peak marine activity. As part of a protected marine park, strict conservation guidelines apply; divers are expected to observe marine life responsibly and practice a "look but don't touch" policy, especially within the confined spaces of the swim-through.
+
+Who Is It For?:
+This is an excellent site for **Intermediate** divers who are comfortable with swim-throughs, capable of handling moderate to strong currents, and adept at navigating reef systems with challenging features. It offers a thrilling and memorable experience for those seeking unique geological features and encounters with impressive marine life.
+
+Pro-Tip:
+Due to the presence of grey nurse sharks and the nature of the swim-through, maintain calm, slow movements to avoid disturbing the sharks. Carrying a powerful dive light will enhance your experience, illuminating the darker corners and revealing hidden details within the swim-through.
+
+75-word excerpt:
+"The Looking Glass" at South Solitary Island, Coffs Harbour (10-22m), is an intermediate boat dive featuring a famous swim-through between vertical walls. Consistently excellent visibility (20-40m) is influenced by oceanic currents and plankton. It's renowned for grey nurse sharks and wobbegongs, offering a thrilling geological and wildlife experience for capable divers within the Solitary Islands Marine Park. Requires excellent buoyancy and current management."""
 
 # Execute the updates for both IDs
-update_article_in_db_and_combined_file(48, "Shark Point", article_text_48)
-update_article_in_db_and_combined_file(177, "Muttonbird Island", article_text_177)
+update_article_in_db_and_combined_file(178, "Split Solitary Island", article_text_178)
+update_article_in_db_and_combined_file(175, "The Looking Glass – South Solitary Island", article_text_175)

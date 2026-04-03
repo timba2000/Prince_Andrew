@@ -20,7 +20,9 @@ completed_articles_for_update = [
     "Julian Rocks – The Nursery",
     "Clovelly Pool",
     "Shark Point",
-    "Muttonbird Island"
+    "Muttonbird Island",
+    "Split Solitary Island",
+    "The Looking Glass – South Solitary Island"
 ]
 
 input_csv_path = "updated_divesites.csv"
