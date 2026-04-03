@@ -38,7 +38,11 @@ completed_articles_for_update = [
     "Green Island – South West Rocks",
     "Latitude Rock",
     "Mullaway Reef",
-    "Woody Head Reef"
+    "Woody Head Reef",
+    "HMAS Swan Wreck",
+    "Manta Bommie",
+    "Rapid Bay Jetty",
+    "Edithburgh Jetty"
 ]
 
 input_csv_path = "updated_divesites.csv"
