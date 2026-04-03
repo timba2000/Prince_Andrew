@@ -70,5 +70,36 @@ Due to the demanding conditions, always dive Shark Point with a buddy who is equ
 75-word excerpt:
 Shark Point, Clovelly (10-25m), is an advanced shore dive with large boulders, drop-offs, and diverse marine life, including sharks and blue gropers. Visibility is variable (best in low swell, impacted by rain/high swell) with strong currents. Optimal September-April, it requires careful planning and experience due to demanding conditions. A thrilling Sydney deep reef adventure for proficient divers seeking challenging exploration and rich biodiversity."""
 
-# Execute the update for ID 48
+# Article for Muttonbird Island (ID 177)
+article_text_177 = """# Muttonbird Island: A Gentle Shore Dive for Beginners in Coffs Harbour
+
+Just off the coast of Coffs Harbour, New South Wales, Muttonbird Island presents a charming and accessible shore dive, perfectly suited for beginner divers. With shallow depths ranging from 3 to 10 metres, this site offers a delightful exploration of vibrant reef and expansive seagrass beds, all within a protected and gentle environment. Accessible via a straightforward shore entry, Muttonbird Island is a tranquil escape, promising intimate encounters with a variety of fascinating marine life. It's an ideal spot for those new to diving, or for seasoned divers seeking a relaxed and richly rewarding experience, especially during calm conditions when its underwater beauty truly shines.
+
+The Essentials:
+*   Depth Range: A beginner-friendly depth range from 3 metres down to 10 metres, making it perfect for leisurely dives and extended bottom times.
+*   Visibility: Variable, typically ranging from 4 to 8 metres, but can extend to 20 metres on exceptionally clear days. Optimal visibility is found only in calm conditions and during dry periods. It is significantly impacted by moderate coastal runoff from Coffs Harbour, heavy rainfall, strong currents, and disturbance from boat traffic. Prevailing winds from the east and south-east can stir up sediment, reducing clarity. Calm, dry periods with light offshore winds are ideal for the best experience.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 19°C to 25°C, making for pleasant diving throughout much of the year.
+*   Current/Conditions: The site is generally calm in protected areas, but divers should be aware of potential swell, especially on less calm days. It is strongly recommended to dive here only during calm conditions to ensure optimal enjoyment and safety.
+*   Viz Implications: Heavy rainfall and moderate coastal runoff are primary factors reducing visibility. Strong currents, if present, and boat traffic can also contribute to turbid conditions. Planning dives during calm, dry weather with minimal swell is crucial.
+
+Terrain & Navigation:
+Muttonbird Island features a diverse underwater terrain, transitioning from rocky reefs to expansive seagrass beds. The reef sections provide numerous crevices and overhangs, while the seagrass offers a different habitat for unique marine life. Navigation is straightforward due to the shallow depths and the proximity to the shore. Divers can leisurely explore the various formations, following the reef line or drifting over the seagrass. The clear water, when present, aids significantly in orientation.
+
+Marine Life Highlights:
+This gentle site is teeming with interesting marine life. Divers will frequently encounter various species of crabs scuttling across the bottom and camouflaged octopus peeking from rocky hideaways. Smaller rays can often be spotted gliding gracefully over the sandy patches and within the seagrass beds. The seagrass is also a nursery for juvenile fish, and a variety of colourful reef fish add vibrancy to the rocky sections. Macro enthusiasts will delight in the many nudibranchs and smaller invertebrates.
+
+Logistics & Facilities:
+Muttonbird Island offers convenient shore access, making it highly accessible for divers. There are no dedicated dive facilities directly at the site, but basic amenities can be found nearby in Coffs Harbour. The best time to dive is when conditions are calm, which can be year-round, though warmer waters are typically found in spring and summer. Conservation is paramount here; divers are encouraged to practice responsible diving, avoiding disturbance to the delicate ecosystem and its inhabitants, particularly within the seagrass beds.
+
+Who Is It For?:
+This is an ideal site for **Beginner** divers and snorkelers. Its shallow, protected waters, coupled with rich marine life and easy access, make it perfect for introductory dives, training, and peaceful underwater observation. It's a superb site for building confidence and enjoying a relaxed marine experience.
+
+Pro-Tip:
+When diving Muttonbird Island, take your time to explore the seagrass beds. Many unique macro creatures, including pipefish and seahorses, are experts at camouflage and can be easily missed if you're rushing through the site.
+
+75-word excerpt:
+Muttonbird Island, Coffs Harbour (3-10m), is a beginner-friendly shore dive with reefs and seagrass beds, perfect for calm conditions. Visibility (4-8m, up to 20m) is best on calm, dry days but impacted by coastal runoff, rainfall, and currents. It hosts crabs, octopus, and small rays, offering a tranquil exploration for new divers seeking diverse marine life and protected underwater environments."""
+
+# Execute the updates for both IDs
 update_article_in_db_and_combined_file(48, "Shark Point", article_text_48)
+update_article_in_db_and_combined_file(177, "Muttonbird Island", article_text_177)

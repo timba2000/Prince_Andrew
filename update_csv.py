@@ -19,7 +19,8 @@ completed_articles_for_update = [
     "Julian Rocks – Hugo's Trench",
     "Julian Rocks – The Nursery",
     "Clovelly Pool",
-    "Shark Point"
+    "Shark Point",
+    "Muttonbird Island"
 ]
 
 input_csv_path = "updated_divesites.csv"
