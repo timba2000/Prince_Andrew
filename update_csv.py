@@ -32,7 +32,10 @@ completed_articles_for_update = [
     "Hardwicke Bay Jetty",
     "Fairy Bower",
     "Neptune Islands (Shark Cage)",
-    "Yena Gap"
+    "Yena Gap",
+    "Wigton Reef",
+    "Round Top Island",
+    "Green Island – South West Rocks"
 ]
 
 input_csv_path = "updated_divesites.csv"

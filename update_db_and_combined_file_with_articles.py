@@ -40,159 +40,97 @@ def update_article_in_db_and_combined_file(site_id, site_name, article_text, com
         if conn:
             conn.close()
 
-# Article for Wedge Island Caves (ID 121)
-article_text_121 = """# Wedge Island Caves: Spencer Gulf's Dramatic Cave System for Advanced Divers
+# Article for Wigton Reef (ID 163)
+article_text_163 = """# Wigton Reef: Outer GBR's Pristine Hard Coral Wonderland for Advanced Divers
 
-Off the rugged coast of Spencer Gulf, South Australia, lies Wedge Island, home to an exhilarating cave system perfectly suited for advanced divers: the Wedge Island Caves. Descending to depths between 12 and 25 metres, this site is renowned for its dramatic walls, intricate cave passages, and the impressive pelagic species that patrol its surroundings. Accessible exclusively by boat, Wedge Island Caves offers a thrilling and demanding dive experience, promising encounters with snapper, various sharks, and colourful nudibranchs within a dynamic and often calm bay. It’s a bucket-list destination for experienced divers seeking unique geological formations and abundant marine life in South Australia’s temperate waters.
+Far out in the magnificent Outer Great Barrier Reef, Queensland, Wigton Reef stands as a testament to pristine marine environments, offering a spectacular and challenging dive experience for advanced divers. Descending to depths between 12 and 28 metres, this reef is celebrated for its exquisite hard coral formations, vibrant ecosystems, and the moderate currents that bring abundant pelagic life. Accessible primarily as a liveaboard dive site, Wigton Reef promises thrilling encounters with trevally, various sharks, and a kaleidoscope of butterflyfish in consistently clear waters. It’s a bucket-list destination for experienced divers seeking untouched beauty and dynamic marine interactions in a remote, world-class setting.
 
 The Essentials:
-*   Depth Range: An advanced dive with depths ranging from 12 to 25 metres, suitable for divers comfortable with overhead environments.
-*   Visibility: Generally good, especially in the sheltered bay behind the island where conditions are often calm. Visibility is best during summer months. Strong oceanic currents outside the bay can influence overall clarity, and localised plankton blooms may occur. The calm water conditions within the bay behind Wedge Island typically lead to very good visibility, but conditions outside can be more variable. Strong swells from the Southern Ocean, while less impactful inside the bay, can still affect clarity in exposed areas.
-*   Water Temperature: Water temperatures range from a cool 14°C in winter to a more comfortable 19°C in summer.
-*   Current/Conditions: Divers can expect some currents, especially near the entrances to the caves and outside the sheltered bay. Navigation within the cave system requires excellent buoyancy control and awareness of the overhead environment. This is a boat-only dive, requiring careful planning and execution.
-*   Viz Implications: While the sheltered bay usually ensures good visibility, any strong oceanic currents or significant swells outside the bay can introduce turbid water. Divers should plan their dives for calm weather to maximise visibility and safety within the caves.
+*   Depth Range: An advanced dive with depths ranging from 12 to 28 metres, offering extensive reef exploration.
+*   Visibility: Consistently excellent, typically ranging from 15 to 20 metres. As a remote Outer GBR site, it benefits from minimal coastal runoff. Visibility is largely influenced by strong oceanic currents, localized plankton blooms, and offshore weather systems. While consistently good year-round, it can experience seasonal thermoclines and plankton events in warmer months. Optimal conditions are generally found between April and October.
+*   Water Temperature: Water temperatures are consistently warm, ranging from 24°C to 28°C, ensuring comfortable diving throughout the prime season.
+*   Current/Conditions: Divers should expect moderate to strong oceanic currents, requiring good finning technique and careful dive planning. The reef is exposed to open ocean conditions, so while generally calm during the prime season, offshore weather systems can influence conditions. Underwater navigation relies on the natural reef contours and depth.
+*   Viz Implications: Strong oceanic currents can occasionally introduce nutrient-rich waters that may foster plankton blooms, temporarily affecting clarity. Offshore weather systems are the main external influence, but overall, excellent visibility is a hallmark.
 
 Terrain & Navigation:
-Wedge Island Caves features a dramatic underwater terrain of impressive cave entrances and tunnels. Navigation within the cave system demands meticulous planning, excellent buoyancy control, and appropriate training for overhead environments. The walls are adorned with unique invertebrate life, while the sandy bottom areas host a variety of benthic creatures. Outside the caves, rocky reefs and kelp forests add to the diversity. The site's clear water, when present, aids significantly in navigation, but reliance on a dive guide experienced with the caves is paramount.
+Wigton Reef features a diverse terrain dominated by extensive hard coral gardens, sloping reef walls, and sandy channels. The reef structures are adorned with a vibrant array of corals, sponges, and anemones. Navigation is generally intuitive, following the reef contours, but dive guides are highly recommended for new visitors to explore the best features. The dynamic environment, with moderate currents, adds an element of drift diving to the experience. Good buoyancy control is essential to avoid contact with the delicate coral ecosystems.
 
 Marine Life Highlights:
-This site is teeming with interesting marine life, both inside and outside the caves. Divers frequently encounter schools of snapper and various species of sharks, including wobbegongs and, occasionally, larger pelagic species patrolling the entrance. Colourful nudibranchs can be found meticulously crawling across the cave walls and reef surfaces. Keep an eye out for curious blue devils, various reef fish, and shy cuttlefish. The cave system itself provides shelter for unique species adapted to low light.
+This pristine reef is a vibrant hub of marine activity. Divers frequently encounter large schools of trevally and various species of sharks, including reef sharks and the occasional grey reef shark, patrolling the reef edge. A dazzling array of butterflyfish, surgeonfish, and parrotfish populate the coral gardens. Keep an eye out for inquisitive blue gropers, various species of rays, and a variety of smaller invertebrates clinging to the coral structures. The healthy ecosystem supports diverse macro life, making it a macro photographer's delight.
 
 Logistics & Facilities:
-Access to Wedge Island Caves is exclusively by boat, typically arranged through dive charter operators from nearby ports on the Eyre Peninsula. There are no on-site facilities directly at the dive site. The optimal diving season is during summer (December to February) for warmer waters and calmer conditions. Conservation is paramount; divers are expected to adhere to strict guidelines for cave diving, avoiding disturbance to the delicate cave ecosystems and marine life.
+Access to Wigton Reef is primarily via liveaboard dive vessels, typically departing from Cairns or Port Douglas, or from Mackay for shorter trips. Due to its remote location in the Outer GBR, it is not accessible for day trips. Liveaboards provide all necessary facilities, including dive gear, accommodation, and meals. The optimal diving season is from April to October for generally calmer weather and peak marine activity. Conservation is paramount; Wigton Reef is a highly protected area, and divers are expected to adhere to strict marine park regulations, including no-touch policies and responsible interaction with marine life.
 
 Who Is It For?:
-This is an **Advanced** dive site, suitable only for highly experienced divers with specialised training in cave or cavern diving. Excellent physical fitness, advanced diving certifications, and comfort with overhead environments are essential. It's an ultimate destination for adventure seekers and serious cave explorers.
+This is an **Advanced** dive site, suitable for experienced divers comfortable with deep profiles, drift diving, and encounters with pelagic marine life. Strong finning skills and excellent buoyancy control are essential. It's an ultimate destination for adventure seekers and serious underwater photographers who appreciate untouched coral ecosystems.
 
 Pro-Tip:
-Due to the overhead environment, always carry at least two independent light sources and ensure your buddy is also properly equipped. Practise your buoyancy control before entering the caves to minimise silt disturbance and maximise visibility for yourself and others.
+Due to the remote location and liveaboard access, ensure all your gear is in excellent working order before departure. Consider bringing a reef hook for safety stops in strong currents, allowing you to observe the reef without exerting yourself.
 
 75-word excerpt:
-Wedge Island Caves, Spencer Gulf (12-25m), is an advanced boat dive into a dramatic cave system. Visibility is generally good in the sheltered bay (best in summer), with snapper, sharks, and nudibranchs. Requires cave/cavern training and excellent buoyancy due to overhead environment and potential currents. A thrilling geological and wildlife experience for proficient divers seeking unique exploration in South Australia's temperate waters."""
+Wigton Reef, Outer GBR (12-28m), is an advanced liveaboard dive with pristine hard coral and moderate currents. Visibility (15-20m) is influenced by oceanic currents and plankton. It boasts trevally, sharks, and butterflyfish in a remote, world-class setting. Requires excellent buoyancy and current management for thrilling pelagic encounters and untouched beauty, ideal for experienced divers and photographers seeking dynamic marine interactions."""
 
-# Article for Hardwicke Bay Jetty (ID 122)
-article_text_122 = """# Hardwicke Bay Jetty: Yorke Peninsula's Quiet Macro Haven for Beginners
+# Article for Round Top Island (ID 164)
+article_text_164 = """# Round Top Island: Mackay Coast's Sheltered Gem for Beginner Divers
 
-On the tranquil shores of the Yorke Peninsula, South Australia, Hardwicke Bay Jetty offers a wonderfully quiet and accessible dive experience, perfectly suited for beginner divers and macro enthusiasts. Descending to shallow depths between 3 to 7 metres, this site is a charming underwater garden, famous for its abundant sponge growth and the sheltered, calm conditions it provides. Its easy jetty access makes it an ideal spot for relaxed explorations from October to April, revealing a hidden world of fascinating marine life. Hardwicke Bay Jetty is a cherished local treasure, a vibrant aquatic microcosm where urban convenience meets astonishing biodiversity, inviting all to discover its gentle charm and diverse ecosystems.
+Just off the picturesque Mackay Coast, Queensland, Round Top Island offers a delightfully sheltered and accessible dive site, perfectly suited for beginner divers and snorkelers. Descending to shallow depths between 3 to 10 metres, this site is a charming mosaic of seagrass beds and scattered coral bommies, creating a tranquil and visually engaging underwater environment. Its close-to-shore location and accessible shore/boat entry make it an ideal spot for relaxed explorations from May to October, revealing a hidden world of fascinating marine life. Round Top Island is a local treasure, a vibrant aquatic classroom where natural beauty meets abundant and friendly marine life, inviting all to discover its gentle charm and diverse ecosystems.
 
 The Essentials:
-*   Depth Range: An ideal depth range for beginners, from a shallow 3 metres down to 7 metres, perfect for leisurely observation.
-*   Visibility: Typically ranges from 5 to 7 metres. While generally good during the prime season, it can be influenced by local sediment and disturbance. Optimal visibility is generally found between October and April, particularly during calm, dry periods. The sheltered conditions within the bay help maintain clarity, but strong winds or local disturbances can reduce it. Heavy rainfall, though minimal impact due to the wide bay, could temporarily affect clarity. Expect some variability due to the sandy/silty bottom.
-*   Water Temperature: Water temperatures are comfortable, ranging from 15°C in cooler months to a pleasant 22°C in summer.
-*   Current/Conditions: The jetty area is exceptionally calm and sheltered, making it very safe for beginners. There is minimal current or surge, making it a truly relaxing experience. Low visibility in swell can occur, but generally, the bay offers protected conditions.
-*   Viz Implications: Low visibility can occur in strong swells or after heavy rain due to stirred-up sediment, though the shallow, sheltered nature helps mitigate this. Calm conditions are paramount for the best experience.
+*   Depth Range: An inviting depth range for beginners, from a shallow 3 metres down to 10 metres, perfect for leisurely observation.
+*   Visibility: Typically ranges from 5 to 8 metres. While generally good during the prime season, it can be influenced by tidal flow and coastal runoff. Optimal visibility is generally found between May and October, particularly during calm, dry periods. Moderate coastal runoff from the mainland can temporarily reduce clarity after significant rainfall. Strong tidal flows can also stir up sediment, reducing visibility. Calm conditions with minimal tidal movement are ideal.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 23°C to 27°C, ensuring pleasant diving throughout the prime season.
+*   Current/Conditions: Divers can expect some gentle tidal flow, particularly around the island. The site is generally sheltered close to shore, making it very safe for beginners. However, strong tidal flows on larger tides can create moderate currents, so awareness of local conditions is wise.
+*   Viz Implications: Coastal runoff after rain and strong tidal flows are the primary factors leading to reduced visibility. Choosing a dive day with calm seas and a period of dry weather will ensure the best experience.
 
 Terrain & Navigation:
-Hardwicke Bay Jetty features a terrain dominated by the jetty pylons, which are heavily encrusted with a diverse array of sponges, ascidians, and algae. The sandy bottom around the jetty is home to various benthic creatures and patches of seagrass. Navigation is incredibly easy due to the linear structure of the jetty and its shallow depths. Divers can leisurely explore the pylons, observing the macro life, or venture out to the surrounding seagrass beds. The clear water, when present, allows for excellent visual navigation and observation.
+Round Top Island features a diverse underwater terrain, transitioning from rocky reefs to expansive seagrass beds and scattered coral bommies. The reef sections provide numerous crevices and overhangs, while the seagrass offers a different habitat for unique marine life. Navigation is straightforward due to the shallow depths and the close proximity to the shore. Divers can leisurely explore the various formations, following the reef line or drifting over the seagrass. The clear water, when present, aids significantly in orientation.
 
 Marine Life Highlights:
-This quiet jetty is a macro photographer's dream. Divers frequently encounter curious squid, often seen hovering around the pylons, and delicate seahorses expertly camouflaged amongst the sponge growth or seagrass. Various species of rays can be spotted gliding gracefully over the sandy bottom. Keep an eye out for octopus, cuttlefish, and an array of smaller invertebrates clinging to the jetty structures. The sheltered conditions make it an ideal environment for observing juvenile fish and various colourful nudibranchs.
+This gentle site is teeming with interesting marine life. Divers will frequently encounter delicate seahorses expertly camouflaged amongst the seagrass and sponge growth. Various species of rays can often be spotted gliding gracefully over the sandy patches. Keep an eye out for curious pipefish, small reef fish, and an array of colourful nudibranchs. The seagrass is also a nursery for juvenile fish, making it a fantastic site for macro photography. Encounters with octopus and cuttlefish are also common.
 
 Logistics & Facilities:
-Hardwicke Bay Jetty offers convenient jetty access, making it highly accessible for divers. While there are no dedicated dive facilities directly at the jetty, basic amenities can be found nearby in the town. The site is diveable from October to April for warmer waters and generally calmer conditions. Conservation is paramount here; divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the jetty structures, especially the delicate sponges and seahorse habitats.
+Round Top Island offers convenient shore access and is also accessible by small boat, making it highly flexible for divers. While there are no dedicated dive facilities directly at the site, basic amenities can be found nearby in Mackay. The site is diveable from May to October for warmer waters and generally calmer conditions. Conservation is paramount here; divers are encouraged to practice responsible diving, avoiding disturbance to the delicate ecosystem and its inhabitants, particularly within the seagrass beds and coral bommies.
 
 Who Is It For?:
 This is an ideal site for **Beginner** divers and macro photographers, as well as those seeking a relaxing and safe marine experience. Its shallow, calm waters and abundant macro life make it perfect for introductory dives, training, and peaceful underwater photography, particularly for spotting unique small creatures.
 
 Pro-Tip:
-Move slowly and deliberately around the jetty pylons, carefully scanning the sponge growth and seagrass. Seahorses are masters of camouflage and require a keen eye and patience to spot. Bringing a macro lens will truly enhance your photographic opportunities.
+Due to the prevalence of seahorses and pipefish, move slowly and deliberately through the seagrass beds and around the coral bommies. These creatures are masters of camouflage and are easily overlooked. A keen eye and patience will be richly rewarded.
 
 75-word excerpt:
-Hardwicke Bay Jetty, Yorke Peninsula (3-7m), is a beginner-friendly shore dive with abundant sponge growth and calm conditions. Visibility (5-7m) is best October-April, influenced by local sediment. It hosts squid, seahorses, and rays. Its sheltered nature and easy access make it ideal for relaxed macro photography and new divers seeking unique small marine life in a tranquil setting."""
+Round Top Island, Mackay Coast (3-10m), is a beginner-friendly shore/boat dive with seagrass and coral bommies. Visibility (5-8m) is best May-October, influenced by tidal flow and coastal runoff. It hosts seahorses, rays, and pipefish. Its sheltered nature and easy access make it ideal for relaxed macro photography and new divers seeking unique small marine life in a tranquil setting, adhering to marine conservation principles."""
 
-# Article for Fairy Bower (ID 50)
-article_text_50 = """# Fairy Bower: Manly's Enchanting Aquatic Reserve for All Levels
+# Article for Green Island – South West Rocks (ID 186)
+article_text_186 = """# Green Island – South West Rocks: A Soft Coral Garden for Intermediate Divers
 
-Nestled between Manly Beach and Shelly Beach, Fairy Bower in Manly, New South Wales, offers an enchanting and highly accessible dive site suitable for all levels of divers and snorkelers. With gentle slopes descending to depths of 5 to 12 metres, this site is renowned for its vibrant reef ledges, captivating swim-throughs, and excellent visibility. As part of the Cabbage Tree Bay Aquatic Reserve, Fairy Bower is a protected marine sanctuary, offering year-round access and a high chance of encountering resident wobbegongs, graceful stingrays, and elusive cuttlefish. It’s a cherished local jewel, a lively aquatic playground where stunning natural beauty meets abundant and friendly marine life.
+Just off South West Rocks, New South Wales, Green Island presents a captivating and vibrant boat dive site, ideally suited for intermediate divers. Ranging in depth from 8 to 16 metres, this small island reef is celebrated for its spectacular soft coral gardens, bustling fish life, and frequent encounters with marine megafauna. Accessible exclusively by boat, Green Island offers a dynamic underwater landscape, showcasing a rich diversity of temperate and tropical marine species. It’s a jewel within a protected marine area, promising engaging dives with impressive biodiversity and healthy ecosystems for those seeking a memorable exploration off the Mid North Coast.
 
 The Essentials:
-*   Depth Range: Suitable for all levels, depths range from a shallow 5 metres to a maximum of 12 metres, perfect for relaxed and extended dives.
-*   Visibility: Generally good, ranging from 10 to 15 metres. Optimal visibility is usually from October to March. While less swell-exposed than Shelly Beach, it is still influenced by oceanic conditions. Moderate northerly or easterly swells can reduce visibility to 4-6m. Rain events affect visibility within 24-48 hours due to some Manly urban stormwater runoff from the peninsula, though it experiences less direct runoff than Shelly Beach. Overall, summer averages 10m, winter 7m, and spring (6-10m) can see plankton blooms. Calm days are best.
-*   Water Temperature: Water temperatures are comfortable, ranging from 17°C in cooler months to a pleasant 23°C in summer.
-*   Current/Conditions: The site generally features a gentle slope with minimal currents, making it very safe for all levels. However, occasional swell can be present, particularly during larger ocean days. It is a well-protected bay, but being mindful of local conditions is always wise.
-*   Viz Implications: Urban stormwater runoff after rain and moderate northerly/easterly swells are the primary factors leading to reduced visibility. Plankton blooms in spring can also affect clarity. Diving during calm, dry periods will ensure the best experience.
+*   Depth Range: This intermediate dive explores depths from 8 to 16 metres, offering a good vertical range along the reef.
+*   Visibility: Consistently excellent, typically ranging from 10 to 15 metres. As an oceanic site, it benefits from minimal coastal runoff. Visibility is largely influenced by strong oceanic currents and offshore weather systems. While consistently good year-round, it can experience seasonal thermoclines and plankton events in warmer months. However, strong easterly swells can create significant surge, impacting clarity. Optimal conditions are generally found between October and March. Calm conditions are generally best for uninhibited views.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 18°C to 24°C, making for pleasant diving conditions throughout the prime season.
+*   Current/Conditions: Divers can expect moderate to strong oceanic currents and significant surge, particularly on incoming tides or during larger ocean swells. This is an exposed site that demands excellent finning skills and vigilant situational awareness. Boat traffic in the area also requires caution.
+*   Viz Implications: Strong oceanic currents and easterly swells are the primary factors in reducing visibility and creating challenging conditions. Heavy rainfall, though minimal from the natural coastline, can also contribute. Planning dives during calm weather is crucial for the best experience.
 
 Terrain & Navigation:
-Fairy Bower features a gentle sloping reef terrain characterized by distinct ledges, rocky outcrops, and fascinating swim-throughs. The reef structures are heavily adorned with a rich variety of sponges, soft corals, and anemones. Navigation is incredibly easy due to the natural contours of the reef and its shallow depths. Divers can leisurely explore the various formations, follow the ledges, or venture through the swim-throughs. The clear water, when present, allows for excellent visual navigation and observation.
+Green Island features a rugged rocky reef terrain with numerous ledges, gutters, and sand patches. The reef structures are heavily adorned with spectacular soft coral gardens, sponges, and anemones, providing ample shelter for marine life. Navigation is relatively straightforward, following the reef's contours around the island. Divers will find numerous crevices and overhangs to explore, offering hiding spots for smaller creatures. The clear water, when present, allows for easy orientation, but paying attention to current direction is vital for a relaxed dive.
 
 Marine Life Highlights:
-This enchanting sanctuary is teeming with marine life. Divers frequently encounter majestic wobbegong sharks, often resting camouflaged under ledges. Graceful stingrays can be spotted gliding over the sandy bottom, while elusive cuttlefish display their mesmerizing colour changes. Schools of bream, wrasse, and other colourful reef fish add vibrancy to the coral gardens. Keep an eye out for friendly blue gropers (though less common than at Clovelly), octopus, and an array of macro life such as nudibranchs.
+This vibrant reef is home to an incredible array of marine life. Divers can expect frequent encounters with curious octopus, graceful green and loggerhead turtles cruising along the reef, and various species of colourful wrasse. Large schools of reef fish, including snapper and morwong, patrol the coral formations. Keep an eye out for inquisitive blue gropers, wobbegong sharks tucked away under ledges, and a dazzling array of macro life, including nudibranchs, clinging to the soft corals. The healthy soft coral ecosystems support diverse invertebrate life, adding intricate detail to the dive experience.
 
 Logistics & Facilities:
-Fairy Bower offers excellent shore access, with steps leading directly to the water. Convenient amenities are available, including showers and easy access to Manly's facilities. The site is diveable year-round, with consistently good conditions making it a reliable choice. As part of a protected aquatic reserve, strict conservation guidelines apply; divers are encouraged to practice responsible diving, observing marine life without touching or disturbing the delicate ecosystem.
+Access to Green Island is exclusively by boat, typically arranged through dive charter operators in South West Rocks. There are no on-site facilities, so divers must be self-sufficient. The optimal diving season is from October to March for warmer waters and peak marine activity. As part of a protected marine area, strict conservation guidelines apply; divers are expected to observe marine life responsibly without touching or disturbing the delicate soft coral ecosystems and its inhabitants.
 
 Who Is It For?:
-This is an ideal site for **All Levels** of divers and snorkelers. Its gentle conditions, accessible depths, and abundant, friendly marine life make it perfect for introductory dives, training, refresher courses, and peaceful underwater photography. It's a superb site for enjoying Sydney's vibrant marine ecosystems.
+This dive is perfectly suited for **Intermediate** divers who are comfortable with boat entries/exits, capable of handling moderate to strong currents and surge, and adept at navigating reef systems. It's an excellent site for those looking to expand their experience in a scenic and dynamic environment with vibrant coral and frequent wildlife encounters.
 
 Pro-Tip:
-Due to the popularity of the site, especially on weekends, consider diving early in the morning or on weekdays for a more tranquil experience. Pay close attention to the smaller crevices and ledges for hidden macro gems and camouflaged creatures.
+Green Island is renowned for its soft corals. Take your time to gently drift over the reef, observing the intricate polyps and the small creatures that make their homes amongst them. Good buoyancy is essential to avoid damaging these delicate structures.
 
 75-word excerpt:
-Fairy Bower, Manly (5-12m), is an enchanting all-level shore dive with reef ledges and swim-throughs, part of Cabbage Tree Bay Aquatic Reserve. Visibility (10-15m) is best October-March, influenced by swell and urban runoff. It hosts wobbegongs, stingrays, and cuttlefish, offering year-round access and abundant marine life for relaxed exploration. Features showers and easy access near Manly Beach."""
-
-# Article for Neptune Islands (Shark Cage) (ID 142)
-article_text_142 = """# Neptune Islands (Shark Cage): Eyre Peninsula's Ultimate Great White Encounter for Advanced Divers
-
-Off the rugged coast of the Eyre Peninsula, South Australia, the Neptune Islands stand as a globally renowned and utterly thrilling destination for advanced divers seeking the ultimate adrenaline rush: Great White Shark cage diving. Descending to depths between 10 to 30 metres (within the safety of the cage), this remote pelagic zone is famous for its consistent encounters with one of the ocean's most formidable predators. Accessible exclusively by specially equipped charter boat, the Neptune Islands promise an unparalleled, year-round experience for advanced divers and thrill-seekers. It’s a bucket-list adventure, offering a rare and awe-inspiring glimpse into the world of great white sharks and the powerful pelagic ecosystem.
-
-The Essentials:
-*   Depth Range: An advanced dive with cage depths ranging from 10 to 30 metres, focusing on controlled observation of great white sharks.
-*   Visibility: Typically ranges from 15 to 30 metres, often excellent. Visibility is generally influenced by strong oceanic currents and offshore weather systems. While consistently good year-round, it can be reduced by localised plankton blooms, especially during warmer months. The remote offshore location ensures minimal coastal runoff impact. Divers should anticipate that the presence of bait for shark attraction can sometimes reduce immediate visibility around the cage, but overall water clarity is high.
-*   Water Temperature: Water temperatures range from a cool 14°C in winter to a more moderate 20°C in summer. Thick wetsuits (7mm+) or drysuits are recommended.
-*   Current/Conditions: Divers should be prepared for strong oceanic currents. The site is in an exposed pelagic zone, so conditions can vary significantly with weather and swell. Cage diving ensures safety, but physical comfort can be impacted by rough seas. This is a charter boat access-only experience.
-*   Viz Implications: Strong oceanic currents and offshore weather systems are the primary influences on natural visibility. The use of chum and bait around the cage can temporarily reduce immediate visibility for close-up views. Divers must be prepared for dynamic open-ocean conditions.
-
-Terrain & Navigation:
-The terrain around Neptune Islands is characterized by rocky reefs and vast open ocean. For cage diving, the focus is on the pelagic zone surrounding the islands. Navigation within the cage is, of course, restricted, but observing the underwater environment outside the cage involves scanning the open blue water and the deep reef formations below. The remoteness and exposed nature mean no fixed underwater trails or structures for navigation beyond the cage itself. Safety protocols are paramount, guided by the experienced crew.
-
-Marine Life Highlights:
-Undoubtedly, the star attraction is the **Great White Shark**. Divers are virtually guaranteed encounters with these magnificent predators. Beyond the sharks, the pelagic zone around the islands is rich with other marine life, including various species of tuna, large schools of trevally, and occasionally other shark species like bronze whalers. Graceful seals often interact with the surface activities. This is an unparalleled opportunity for big-animal encounters and witnessing apex predators in their natural habitat.
-
-Logistics & Facilities:
-Access to Neptune Islands is exclusively by specially equipped liveaboard or day-charter boats that depart from Port Lincoln. Due to the remote location, participants must book with a reputable and licensed shark cage diving operator. All necessary equipment and facilities are typically provided on board. The optimal time for great white shark encounters is year-round, though specific seasons might offer different levels of activity. Conservation is paramount; operators adhere to strict regulations to ensure the safety of both divers and sharks, promoting ethical interactions.
-
-Who Is It For?:
-This is an **Advanced** dive experience, suitable for thrill-seeking divers who are comfortable in open ocean environments and understand the inherent risks of interacting with large predators. While cage diving minimises direct danger, a basic level of diving fitness and comfort in the water is essential. It's a life-changing adventure for those seeking unparalleled wildlife encounters.
-
-Pro-Tip:
-Listen meticulously to your dive masters' briefings and follow all safety instructions without deviation. Be prepared for potentially rough boat rides to and from the islands. While in the cage, stay calm, breathe steadily, and keep your camera ready – these moments are fleeting and truly extraordinary!
-
-75-word excerpt:
-Neptune Islands (Shark Cage), Eyre Peninsula (10-30m), is an advanced, year-round liveaboard destination for thrilling Great White Shark encounters. Visibility (15-30m) is influenced by oceanic currents and bait. It teems with great whites and tuna in a remote pelagic zone. This ultimate bucket-list adventure requires cage diving, charter access, and a preparedness for strong currents and dynamic open-ocean conditions for an awe-inspiring wildlife experience."""
-
-# Article for Yena Gap (ID 55)
-article_text_55 = """# Yena Gap: Kamay Botany Bay NP's Remote Deep Dive for Advanced Explorers
-
-Within the historical confines of Kamay Botany Bay National Park, New South Wales, Yena Gap presents a challenging and remote dive site strictly for advanced divers. Descending to depths between 10 to 26 metres, this dramatic site is characterized by impressive drop-offs and intriguing cave formations, offering a truly adventurous exploration. Accessible by a long walk or boat, Yena Gap rewards proficient divers with encounters with majestic bull rays and vast schools of fish against a backdrop of rugged underwater topography. It’s a site that demands respect and meticulous planning, promising a unique journey into Sydney's wilder, less-frequented marine landscapes.
-
-The Essentials:
-*   Depth Range: An advanced dive with depths ranging from 10 to 26 metres, featuring dramatic drop-offs.
-*   Visibility: Moderate, typically ranging from 5 to 10 metres year-round. It is best after extended dry periods in summer; winter can be clearer in settled conditions. Visibility is significantly impacted by Botany Bay industrial and stormwater runoff from Port Botany, as it receives catchment from the Cooks River and surrounding industrial areas. Post-rain turbidity from Port Botany and Cooks River can last 3-5 days. North winds push murky port water towards the site. The best visibility is experienced after a week of dry weather, ideally with light offshore winds.
-*   Water Temperature: Water temperatures range from a cool 16°C in winter to a pleasant 21°C in summer.
-*   Current/Conditions: Divers can expect surge and potentially strong currents, particularly around the drop-offs and cave entrances. This is a remote site with no facilities, demanding self-sufficiency and excellent physical fitness, especially for the long walk-in option. Strong currents and surge are significant considerations.
-*   Viz Implications: Urban and industrial runoff after rain and north winds are the primary factors in reducing visibility. Planning dives for extended dry periods with minimal northern wind influence is crucial for the best experience.
-
-Terrain & Navigation:
-Yena Gap features a dramatic and rugged underwater terrain of steep drop-offs, deep gutters, and intriguing cave formations. Navigation requires careful planning due to its remote nature, potential for strong currents, and variable visibility. Divers will need to follow distinct reef contours and be mindful of their depth and ascent rates, especially near the overhead environments of the caves. The deep reef structure provides abundant hiding spots and intricate swim-throughs for those with excellent buoyancy control and experience in more challenging environments. Reliance on a dive guide familiar with the site is highly recommended.
-
-Marine Life Highlights:
-Despite its challenging access, Yena Gap is home to impressive marine life. Divers frequently encounter majestic bull rays, often cruising along the drop-offs or resting on sandy patches. Large schools of various fish species, including trevally and kingfish, patrol the deeper sections. Keep an eye out for wobbegong sharks tucked under ledges, curious blue devilfish, and the possibility of spotting sea dragons amongst the kelp and sponge gardens. The caves themselves may offer shelter to unique invertebrates.
-
-Logistics & Facilities:
-Access to Yena Gap is remote and can be challenging. It can be reached either by a long walk through Kamay Botany Bay National Park or by boat. There are no on-site facilities, so divers must be completely self-sufficient and prepared for a wilderness dive. The optimal diving season is from spring to summer (September to March) for warmer waters and potentially better visibility, but success hinges on recent weather patterns. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the fragile deep reef ecosystem and its inhabitants, and respecting the national park environment.
-
-Who Is It For?:
-This is an **Advanced** dive site, suitable only for highly experienced divers who are comfortable with deep profiles, strong currents, significant surge, and navigating complex reef structures with overhead environments. Excellent physical fitness, advanced diving certifications, and self-sufficiency are essential due to its remote and demanding nature.
-
-Pro-Tip:
-Due to the remote location and challenging entry/exit (if walking), it is highly advisable to dive Yena Gap with an experienced local guide. Always carry a robust surface marker buoy (SMB) and ensure your dive plan accounts for potential low visibility and strong currents. Pack light for the walk-in, but don't compromise on essential safety gear.
-
-75-word excerpt:
-Yena Gap, Kamay Botany Bay NP (10-26m), is an advanced, remote dive with dramatic drop-offs and caves. Visibility (5-10m) is best after dry periods, impacted by urban/industrial runoff and north winds. It hosts bull rays and large fish schools. Requiring a long walk or boat access, it demands advanced skills, self-sufficiency, and meticulous planning for challenging conditions within Sydney's wilder marine landscapes."""
+Green Island – South West Rocks (8-16m) is an intermediate boat dive showcasing spectacular soft coral gardens and abundant fish life. Visibility (10-15m) is influenced by oceanic currents and easterly swells, best in calm conditions (October-March). It hosts octopus, turtles, and wrasse, offering a dynamic exploration for capable divers within a protected marine area, demanding current management and appreciation for vibrant ecosystems."""
 
 # Execute the updates for the IDs
-update_article_in_db_and_combined_file(121, "Wedge Island Caves", article_text_121)
-update_article_in_db_and_combined_file(122, "Hardwicke Bay Jetty", article_text_122)
-update_article_in_db_and_combined_file(50, "Fairy Bower", article_text_50)
-update_article_in_db_and_combined_file(142, "Neptune Islands (Shark Cage)", article_text_142)
-update_article_in_db_and_combined_file(55, "Yena Gap", article_text_55)
+update_article_in_db_and_combined_file(163, "Wigton Reef", article_text_163)
+update_article_in_db_and_combined_file(164, "Round Top Island", article_text_164)
+update_article_in_db_and_combined_file(186, "Green Island – South West Rocks", article_text_186)
