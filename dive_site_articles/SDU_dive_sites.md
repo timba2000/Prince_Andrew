@@ -2020,3 +2020,96 @@ Due to the diversity of terrain, consider a leisurely swim along the wall and th
 
 75-word excerpt:
 Second Valley, Fleurieu Peninsula (4-18m), is an intermediate jetty dive with rocky reefs, walls, caves, and ledges. Visibility (8-12m) is best October-March during calm conditions, but impacted by southerly winds and surge. It hosts blue devils, old wives, and cuttlefish. This dynamic site demands moderate current/surge handling for a rewarding exploration of its unique geological formations and rich marine life off South Australia's coast.
+
+---
+
+# Stony Point: Fleurieu Peninsula's Accessible Leafy Sea Dragon Haven for All Levels
+
+Off the stunning coastline of the Fleurieu Peninsula, South Australia, Stony Point offers a truly captivating and accessible dive site, ideally suited for divers of all levels. Descending to depths between 4 to 10 metres, this site is famously an access point to observe the elusive leafy sea dragons in their natural habitat, making it a bucket-list destination for marine enthusiasts and underwater photographers alike. Its convenient access via a carpark, stairs, and a well-maintained trail ensures a straightforward entry for relaxed explorations from November to April. Stony Point is a cherished local treasure, a vibrant aquatic classroom where natural beauty meets astonishing biodiversity, inviting all to discover its gentle charm and diverse ecosystems.
+
+The Essentials:
+*   Depth Range: An accessible depth range for all levels, from a shallow 4 metres down to 10 metres, perfect for leisurely observation and photography.
+*   Visibility: Variable, typically ranging from 6 to 10 metres, but can extend to 15 metres on exceptionally clear days. Optimal visibility is generally found between November and April during calm conditions and especially on incoming tides. As a coastal site, visibility is influenced by strong tidal currents, strong winds (particularly southerly), and disturbance of bottom sediments. Minimal coastal runoff from the natural coastline contributes to overall clarity. Calm conditions are generally best for uninhibited views.
+*   Water Temperature: Water temperatures range from a cool 15°C in winter to a more moderate 21°C in summer. A good wetsuit (5-7mm) is recommended.
+*   Current/Conditions: Divers can expect some surge, particularly on incoming tides or during periods of stronger oceanic influence. Strong tidal currents and strong winds can create moderate currents around the point. Shore access makes it relatively easy, but awareness of localized currents and entry difficulty is wise.
+*   Viz Implications: Strong southerly winds, tidal currents, and disturbance of bottom sediments are the primary factors in reducing visibility. Planning dives around slack tide and during calmer, drier periods will ensure the best clarity and ease of navigation.
+
+Terrain & Navigation:
+Stony Point features a diverse underwater terrain of rocky reefs, ledges, and sandy patches. The reef structures are heavily adorned with a variety of hard and soft corals, sponges, and algae, providing ample shelter for marine life. Navigation is relatively straightforward, following the reef contours. Divers can leisurely explore the ledges, observing the macro life, or venture out to the surrounding seagrass beds. The clear water, when present, allows for excellent visual navigation and observation. The well-defined trail on land also helps with entry and exit.
+
+Marine Life Highlights:
+This iconic site is a macro photographer's paradise, particularly famous for the majestic **leafy sea dragons**. Divers are often rewarded with sightings of these master camouflagers amongst the rocky outcrops and seagrass. Frequent encounters with various species of colourful cowfish, wrasse, and other colourful reef fish add vibrancy to the site. Keep an eye out for inquisitive octopus, cuttlefish, and a dazzling array of colourful nudibranchs clinging to the reef structures. The healthy seagrass beds are also a nursery for juvenile fish.
+
+Logistics & Facilities:
+Stony Point offers excellent shore access via stairs and a trail from the carpark, making it highly accessible for divers. Public facilities, including parking, are conveniently located nearby. The site is diveable from November to April for warmer waters and peak marine activity. Conservation is paramount; divers are encouraged to practice responsible diving, avoiding disturbance to the marine life or the reef structures, especially the delicate leafy sea dragon habitats. Always adhere to local marine park regulations.
+
+Who Is It For?:
+This is an ideal site for **All Levels** of divers and macro photographers, as well as those seeking a relaxing and safe marine experience. Its accessible depths and abundant, unique macro life make it perfect for introductory dives, training, and peaceful underwater photography, particularly for spotting rare and unusual creatures like the leafy sea dragon.
+
+Pro-Tip:
+Move slowly and deliberately, especially when searching for leafy sea dragons. Their camouflage is extraordinary. A keen eye, patience, and perhaps a local guide will greatly increase your chances of a successful sighting. Maintain good buoyancy to avoid disturbing the sandy/silty bottom and damaging delicate organisms.
+
+75-word excerpt:
+Stony Point, Fleurieu Peninsula (4-10m), is an all-level shore dive renowned for leafy sea dragons, cowfish, and wrasse. Visibility (6-10m) is best November-April on incoming tides and calm conditions, influenced by tidal currents and strong winds. Easy access via trail. Its accessible depths and unique macro life make it ideal for relaxed photography and divers seeking rare encounters in South Australia's temperate waters.
+
+---
+
+# Fraser Island: Queensland's Diverse Underwater Landscapes for All Levels
+
+Off the stunning Fraser Coast, Queensland, Fraser Island (K'gari) offers a diverse and captivating range of diving opportunities, ideally suited for divers of all levels. Descending to depths between 5 to 18 metres, the western coast of this world-heritage-listed island is renowned for its vibrant reefs and a rich tapestry of marine life, including graceful turtles and playful dolphins. Accessible exclusively by boat, Fraser Island promises rewarding explorations into healthy marine ecosystems, showcasing a dynamic underwater landscape influenced by both coastal and oceanic conditions. It’s an inviting destination for those seeking a blend of scenic beauty and delightful marine encounters in Queensland's subtropical waters.
+
+The Essentials:
+*   Depth Range: Suitable for all levels, depths range from a shallow 5 metres to a maximum of 18 metres, offering extensive reef exploration.
+*   Visibility: Variable, typically ranging from 10 to 20 metres, but can extend to 20 metres on exceptionally clear days. Optimal visibility is generally found year-round, particularly during calm periods and away from river mouths. However, it is significantly impacted by strong tidal currents around the island, heavy rainfall, and coastal erosion leading to runoff from Fraser Island's freshwater systems and its sandy environment. Strong winds can also reduce clarity. Calm, dry periods with minimal coastal runoff are ideal.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 20°C to 24°C, ensuring pleasant diving conditions throughout the year.
+*   Current/Conditions: Divers can expect strong currents, particularly around the northern and southern tips of the island and in passages. The site is exposed to ocean swells, so calmer conditions are preferable for a more relaxed dive. Boat access means awareness of boat traffic is also important.
+*   Viz Implications: Heavy rainfall, strong tidal currents, and coastal erosion runoff are the primary factors in reducing visibility, bringing in sediment and creating turbid conditions. Planning dives during calm, dry weather, especially at slack high tide, is crucial for the best experience.
+
+Terrain & Navigation:
+Fraser Island's underwater terrain is diverse, featuring extensive rocky reefs, coral gardens, and sand flats. The reefs are adorned with a variety of hard and soft corals, sponges, and anemones, providing ample shelter for marine life. Navigation is generally intuitive, following the reef contours, but dive guides are highly recommended for new visitors, especially given the potential for strong currents. Divers will find numerous ledges, gutters, and small caves to explore, offering hiding spots for smaller creatures. The clear water, when present, allows for easy orientation, but paying attention to current direction is vital for a relaxed dive.
+
+Marine Life Highlights:
+This vibrant marine environment is home to an incredible array of marine life. Divers can expect frequent encounters with various species of reef fish and graceful green and loggerhead turtles, often seen cruising along the reefs. Playful dolphins are also a common sight, adding a magical element to the dives. Keep an eye out for inquisitive blue gropers, wobbegong sharks tucked away under ledges, and a dazzling array of macro life, including nudibranchs, clinging to the corals. The healthy ecosystems support diverse invertebrate life, adding intricate detail to the dive experience.
+
+Logistics & Facilities:
+Access to Fraser Island dive sites is exclusively by boat, typically arranged through dive charter operators from Hervey Bay or other ports on the Fraser Coast. There are no on-site dive facilities directly at the dive sites. The site is diveable year-round, though conditions are highly dependent on weather and tidal movements. Conservation is paramount; as a world heritage site, divers are expected to adhere to strict marine park regulations, observing marine life responsibly without touching or disturbing the delicate ecosystems.
+
+Who Is It For?:
+This is an excellent site for **All Levels** of divers. Beginners can enjoy the shallower, more protected areas teeming with life, while intermediate and advanced divers can explore deeper sections, navigate stronger currents, and seek out specific large marine encounters. It's an ultimate destination for adventure seekers and serious underwater photographers who appreciate untouched coral ecosystems.
+
+Pro-Tip:
+Due to the influence of strong tidal currents, plan your dives carefully, ideally around slack tide, to maximize your time exploring the reefs. For the best chance of dolphin encounters, pay attention to surface activity before and after your dive.
+
+75-word excerpt:
+Fraser Island, Queensland (5-18m), offers diverse reefs and marine life for all levels, including turtles and dolphins. Visibility (10-20m) is variable year-round, influenced by strong tidal currents, rainfall, and coastal runoff. Accessible by boat, it demands awareness of dynamic conditions for rewarding exploration. This world-heritage-listed site promises vibrant ecosystems and delightful encounters, ideal for scenic dives and marine enthusiasts in subtropical waters.
+
+---
+
+# Freshwater Reef: Freshwater's Offshore Oasis with Soft Corals for Intermediate Divers
+
+Off the picturesque coastline of Freshwater, New South Wales, Freshwater Reef stands as a captivating offshore oasis, ideally suited for intermediate divers. Descending to depths between 6 to 18 metres, this reef is renowned for its vibrant soft corals and abundant fish life, making it a bustling hub of marine activity. Accessible exclusively by boat, Freshwater Reef offers a dynamic underwater landscape, showcasing a rich diversity of temperate and tropical marine species. It’s an inviting site for those seeking engaging encounters with kingfish, morwong, and colourful wrasse against a backdrop of healthy soft coral ecosystems, particularly during the prime season of October to April.
+
+The Essentials:
+*   Depth Range: This intermediate dive explores depths from 6 to 18 metres, offering a good vertical range along the reef.
+*   Visibility: Generally good, typically ranging from 10 to 20 metres. Optimal visibility is usually from October to April. As an offshore reef, it benefits from good oceanic water flow. However, it can be reduced by surge and strong currents, particularly strong easterly swells. Localised plankton blooms can also occur in warmer months. Calm days are generally best for uninhibited views. The site is in a protected location, aiding overall clarity.
+*   Water Temperature: Water temperatures are comfortably warm, ranging from 17°C in cooler months to a pleasant 23°C in summer.
+*   Current/Conditions: Divers can expect moderate currents, especially on incoming tides or during periods of stronger oceanic influence. The site is exposed to ocean swells, so calmer conditions are preferable for a more relaxed dive. Boat access means awareness of boat traffic is also important.
+*   Viz Implications: Strong easterly swells and currents are the primary factors in reducing visibility and creating challenging conditions. Planning dives during calm weather is crucial for the best experience.
+
+Terrain & Navigation:
+Freshwater Reef features a rugged rocky reef terrain with numerous ledges, gutters, and sand patches. The reef structures are heavily adorned with vibrant soft coral gardens, sponges, and anemones, providing ample shelter for marine life. Navigation is relatively straightforward, following the reef contours. Divers will find numerous crevices and overhangs to explore, offering hiding spots for smaller creatures. The clear water, when present, allows for easy orientation, but paying attention to current direction is vital for a relaxed dive.
+
+Marine Life Highlights:
+This vibrant reef is home to an incredible array of marine life. Divers can expect frequent encounters with schooling kingfish, often patrolling the reef edge, and various species of morwong and colourful wrasse. Keep an eye out for inquisitive blue gropers, wobbegong sharks tucked away under ledges, and a dazzling array of macro life, including nudibranchs, clinging to the soft corals. The healthy soft coral ecosystems support diverse invertebrate life, adding intricate detail to the dive experience.
+
+Logistics & Facilities:
+Access to Freshwater Reef is exclusively by boat, typically arranged through dive charter operators from Manly or other nearby northern beaches. There are no on-site facilities directly at the dive site, so divers must be self-sufficient. The optimal diving season is from October to April for warmer waters and peak marine activity. Conservation is paramount; divers are encouraged to practice responsible diving, observing marine life without touching or disturbing the delicate soft coral ecosystems and its inhabitants.
+
+Who Is It For?:
+This dive is perfectly suited for **Intermediate** divers who are comfortable with boat entries/exits, capable of handling moderate currents and surge, and adept at navigating reef systems. It's an excellent site for those looking to expand their experience in a scenic and dynamic environment with vibrant coral and frequent wildlife encounters.
+
+Pro-Tip:
+Freshwater Reef is known for its beautiful soft corals. Take your time to gently drift over the reef, observing the intricate polyps and the small creatures that make their homes amongst them. Good buoyancy is essential to avoid damaging these delicate structures.
+
+75-word excerpt:
+Freshwater Reef, Freshwater (6-18m), is an intermediate boat dive offshore oasis with vibrant soft corals and abundant fish life. Visibility (10-20m) is best October-April, influenced by surge and strong currents. It hosts kingfish, morwong, and wrasse. This dynamic site demands moderate current handling for a rewarding exploration of its healthy soft coral ecosystems and frequent wildlife encounters off Sydney's northern beaches.
