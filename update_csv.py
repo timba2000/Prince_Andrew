@@ -48,7 +48,8 @@ completed_articles_for_update = [
     "Stack Island",
     "Flinders Pier",
     "Portsea Pier",
-    "Five Fathom Reef"
+    "Five Fathom Reef",
+    "Fishery Bay Reef"
 ]
 
 input_csv_path = "updated_divesites.csv"
