@@ -53,7 +53,10 @@ completed_articles_for_update = [
     "Point Drummond",
     "Port Lincoln Jetty",
     "Port Neill Jetty",
-    "Streaky Bay Jetty"
+    "Streaky Bay Jetty",
+    "Nuyts Archipelago Drop-off",
+    "Fingal Head Reef",
+    "Second Valley"
 ]
 
 input_csv_path = "updated_divesites.csv"
