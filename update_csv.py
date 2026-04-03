@@ -15,7 +15,7 @@ completed_articles_for_update = [
     "Kings Beach – Broken Head",
     "Julian Rocks",
     "Julian Rocks Marine Sanctuary",
-    "Julian Rocks – Cod Hole",
+    """Julian Rocks – Cod Hole""",
     "Julian Rocks – Hugo's Trench",
     "Julian Rocks – The Nursery",
     "Clovelly Pool",
@@ -42,7 +42,10 @@ completed_articles_for_update = [
     "HMAS Swan Wreck",
     "Manta Bommie",
     "Rapid Bay Jetty",
-    "Edithburgh Jetty"
+    "Edithburgh Jetty",
+    "Shark Cave",
+    "Wreck of the Alert",
+    "Stack Island"
 ]
 
 input_csv_path = "updated_divesites.csv"
