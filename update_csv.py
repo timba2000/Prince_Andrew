@@ -54,9 +54,9 @@ completed_articles_for_update = [
     "Port Lincoln Jetty",
     "Port Neill Jetty",
     "Streaky Bay Jetty",
-    "Nuyts Archipelago Drop-off",
-    "Fingal Head Reef",
-    "Second Valley"
+    "The Apartments",
+    "Gold Coast Seaway",
+    "Kirra Reef"
 ]
 
 input_csv_path = "updated_divesites.csv"
