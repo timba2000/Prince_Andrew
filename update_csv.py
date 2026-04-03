@@ -35,7 +35,10 @@ completed_articles_for_update = [
     "Yena Gap",
     "Wigton Reef",
     "Round Top Island",
-    "Green Island – South West Rocks"
+    "Green Island – South West Rocks",
+    "Latitude Rock",
+    "Mullaway Reef",
+    "Woody Head Reef"
 ]
 
 input_csv_path = "updated_divesites.csv"
