@@ -27,7 +27,12 @@ completed_articles_for_update = [
     "Wedding Cake Island",
     "Osprey Reef",
     "Dolphin Reef – Crescent Head",
-    "Racecourse Reef – Crescent Head"
+    "Racecourse Reef – Crescent Head",
+    "Wedge Island Caves",
+    "Hardwicke Bay Jetty",
+    "Fairy Bower",
+    "Neptune Islands (Shark Cage)",
+    "Yena Gap"
 ]
 
 input_csv_path = "updated_divesites.csv"
