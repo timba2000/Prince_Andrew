@@ -5,6 +5,7 @@ This skill provides guidelines for consistently writing articles for Scuba Down 
 ## Article Guidelines
 
 **1. ScubaDownUnder Dive Site Reviews:**
+   - **Identify Next Site:** Query the `dive_sites.db` to identify the next dive site that does not have an article (`article_status IS NULL OR article_status != 'completed'`).
    - **Word Count:** 750-1000 words.
    - **Format:** All completed Scuba Down Under dive site articles must be appended collectively into the `SDU_dive_sites.md` file. Individual `.md` files for completed dive site reviews will no longer be maintained.
      - Each article within `SDU_dive_sites.md` will follow this structure:
